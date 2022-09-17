@@ -4,6 +4,8 @@ import pypandoc
 
 
 def remove_dir(directory: pathlib.Path):
+    if not directory.exists():
+        return
     for child in directory.iterdir():
         if child.is_file():
             child.unlink()
@@ -14,6 +16,7 @@ def remove_dir(directory: pathlib.Path):
 
 def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigation_file: pathlib.Path):
     if navigation_file is None:
+        print(input_file)
         pypandoc.convert_file(
             str(input_file),
             "html5",
@@ -33,12 +36,12 @@ def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigatio
 
 def generate_site():
     input_path = pathlib.Path("sources")
-    output_path = pathlib.Path("site")
+    output_path = pathlib.Path("generated")
     remove_dir(output_path)
     output_path.mkdir(exist_ok=True)
 
-    input_file = input_path / "index.md"
-    output_file = output_path / "index.html"
+    input_file = pathlib.Path() / "index.md"
+    output_file = pathlib.Path() / "index.html"
     generate_page(input_file, output_file, None)
 
     iterate_over_directory(input_path / "en", output_path / "en", input_path / "en" / "navigation.html")
