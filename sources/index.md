@@ -2,7 +2,7 @@
 title: Gaëtan Staquet's website
 ---
 
-This site is split into two distinctive parts: [one in English](generated/en/index.md), and [one in French](generated/fr/index.md).
+This site is split into two distinctive parts: [one in English](en/index.md), and [one in French](fr/index.md).
 Both treat completely different subjects.
 If you are fluent enough to understand both languages, please take a look at all the contents.
 

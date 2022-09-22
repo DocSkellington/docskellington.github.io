@@ -36,12 +36,12 @@ def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigatio
 
 def generate_site():
     input_path = pathlib.Path("sources")
-    output_path = pathlib.Path("generated")
+    output_path = pathlib.Path("docs")
     remove_dir(output_path)
     output_path.mkdir(exist_ok=True)
 
-    input_file = pathlib.Path() / "index.md"
-    output_file = pathlib.Path() / "index.html"
+    input_file = input_path / "index.md"
+    output_file = output_path / "index.html"
     generate_page(input_file, output_file, None)
 
     iterate_over_directory(input_path / "en", output_path / "en", input_path / "en" / "navigation.html")
