@@ -1,4 +1,6 @@
+from typing import List
 import pathlib
+import shutil
 
 import pypandoc
 
@@ -14,23 +16,29 @@ def remove_dir(directory: pathlib.Path):
     directory.rmdir()
 
 
-def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigation_file: pathlib.Path):
+def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigation_file: pathlib.Path, css_files: List[pathlib.Path], depth: int):
+    extra_args = ["--standalone"]
+    for css_file in css_files:
+        extra_args.append("--css")
+        extra_args.append(("../" * depth) + str(css_file))
+
     if navigation_file is None:
-        print(input_file)
         pypandoc.convert_file(
             str(input_file),
             "html5",
             outputfile=str(output_file),
             filters=["links_to_html.py"],
-            extra_args=["--standalone"]
+            extra_args=extra_args
         )
     else:
+        extra_args.append("--include-before-body")
+        extra_args.append(str(navigation_file))
         pypandoc.convert_file(
             str(input_file),
             "html5",
             outputfile=str(output_file),
             filters=["links_to_html.py"],
-            extra_args=["--standalone", "--include-before-body", str(navigation_file)]
+            extra_args=extra_args
         )
 
 
@@ -40,24 +48,30 @@ def generate_site():
     remove_dir(output_path)
     output_path.mkdir(exist_ok=True)
 
+    css_files = []
+    for file in input_path.iterdir():
+        if file.is_file() and file.suffix == ".css":
+            shutil.copy(file.absolute(), output_path / file.name)
+            css_files.append(file.name)
+
     input_file = input_path / "index.md"
     output_file = output_path / "index.html"
-    generate_page(input_file, output_file, None)
+    generate_page(input_file, output_file, None, css_files, 0)
 
-    iterate_over_directory(input_path / "en", output_path / "en", input_path / "en" / "navigation.html")
-    iterate_over_directory(input_path / "fr", output_path / "fr", input_path / "fr" / "navigation.html")
+    iterate_over_directory(input_path / "en", output_path / "en", input_path / "navigation.html", css_files, 1)
+    iterate_over_directory(input_path / "fr", output_path / "fr", input_path / "navigation.html", css_files, 1)
 
 
-def iterate_over_directory(input_path: pathlib.Path, output_path: pathlib.Path, navigation_file: pathlib.Path):
+def iterate_over_directory(input_path: pathlib.Path, output_path: pathlib.Path, navigation_file: pathlib.Path, css_files: List[pathlib.Path], depth: int):
     output_path.mkdir(exist_ok=True)
     for filename in input_path.iterdir():
         if filename.is_dir():
-            iterate_over_directory(filename, output_path / filename.name, navigation_file)
+            iterate_over_directory(filename, output_path / filename.name, navigation_file, css_files, depth+1)
         elif filename.is_file():
             if filename.suffix == ".md":
                 input_file = str(filename.absolute())
                 output_file = str(output_path / filename.with_suffix(".html").name)
-                generate_page(input_file, output_file, navigation_file)
+                generate_page(input_file, output_file, navigation_file, css_files, depth)
 
 
 if __name__ == "__main__":
