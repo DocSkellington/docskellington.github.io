@@ -1,0 +1,35 @@
+@media screen and (min-width: 1920px) {
+    #TOC {
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 1;
+        background-color: white;
+        margin-left: 10px;
+    }
+}
+
+#TOC li {
+    list-style: none;
+}
+
+#TOC ul {
+    padding-left: 1.3em;
+    display: none;
+    font-size: medium;
+}
+
+#TOC>ul {
+    padding-left: 0;
+    min-width: 80vw;
+    max-height: 30vh;
+    overflow: scroll;
+}
+
+#TOC a:not(:hover) {
+    text-decoration: none;
+}
+
+#TOC:hover ul {
+    display: block;
+}

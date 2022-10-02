@@ -17,7 +17,11 @@ def remove_dir(directory: pathlib.Path):
 
 
 def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigation_file: pathlib.Path, css_files: List[pathlib.Path], depth: int):
-    extra_args = ["--standalone"]
+    extra_args = [
+        "--standalone",
+        "--toc",
+        "--variable=toc-title:Table of contents"
+    ]
     for css_file in css_files:
         extra_args.append("--css")
         extra_args.append(("../" * depth) + str(css_file))

@@ -1,3 +1,4 @@
+/* Default Pandoc style for HTML */
 html {
   line-height: 1.5;
   font-family: Georgia, serif;
@@ -126,18 +127,7 @@ header {
   margin-bottom: 4em;
   text-align: center;
 }
-#TOC li {
-  list-style: none;
-}
-#TOC ul {
-  padding-left: 1.3em;
-}
-#TOC > ul {
-  padding-left: 0;
-}
-#TOC a:not(:hover) {
-  text-decoration: none;
-}
+/* Configuration for TOC was moved to toc.css */
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 span.underline{text-decoration: underline;}
