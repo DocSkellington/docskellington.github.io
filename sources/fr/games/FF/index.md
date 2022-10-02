@@ -3,17 +3,22 @@ title: La série des Final Fantasy
 ---
 
 À la base, je voulais simplement écrire mon ressenti sur *Final Fantasy XI*.
-Quit à écrire sur un jeu, autant écrire sur tous les épisodes principaux de la série, non ?
+Quite à écrire sur un jeu, autant écrire sur tous les épisodes principaux de la série, non ?
 Cette page commence par un bref avis sur chaque jeu (sauf le *XI* qui a droit à sa [page dédiée](FFXI/FFXI.md)), ensuite je dresse un petit classement de la série.
 
 ## Bref avis par jeu
 Attention que je vais divulgâcher quasiment systématiquement.
+Pour chaque jeu, j'essaye de le juger pour ce qu'il faut **aujourd'hui**.
+Je vais parfois nuancer mon propos en replaçant le titre dans son contexte mais je m'intéresse surtout au fun qu'on peut tirer des titres **maintenant**.
 
 Vu que la version et la plateforme peuvent influencer les avis, je précise à chaque fois les deux.
 Aussi, je ne m'intéresse pas à l'aspect technique des jeux pour une raison simple : je joue sous Linux.
 Ceci veut dire que je dois utiliser des outils (en l'occurrence, *[Wine](https://www.winehq.org/)* et *[Proton](https://github.com/ValveSoftware/Proton/)*) pour pouvoir jouer.
 Je suis conscient que ces outils peuvent introduire des problèmes (bien que, parfois, ces outils corrigent les problèmes de la version Windows).
 Afin d'être le plus juste possible, je ne parle donc pas des crashs et autres soucis graphiques.
+Sauf mention explicite, les parties ont été réalisées sur la version anglaise.
+Je dois aussi préciser que j'ai joué à la série entre novembre 2021 et octobre 2022 (fin de *Final Fantasy VII*, à l'heure où j'écris ces lignes).
+<!-- TODO: mets à jour la date au fur et à mesure -->
 
 ### *Final Fantasy I (Pixel remaster - PC)*
 Comparé aux autres, le tout premier *Final Fantasy* est assez logiquement "pauvre" dans ses mécaniques : système de combat au tour par tour; une fois le job choisi au début du jeu, tu ne peux plus changer; pas de changements dans les personnages jouables; etc.
@@ -124,20 +129,150 @@ Je pourrais écrire bien des lignes sur le *V* mais je vais me contenter de vous
 C'est vraiment bien !
 
 ### *Final Fantasy VI (Pixel remaster - PC)*
-Très bonne histoire et très bons personnages attachants et avec une bonne évolution.
-J'aime bien le système de chimères !
+J'avais déjà testé le jeu il y a quelques années.
+Je m'étais arrêté quand il faut choisir entre les trois scénarios, au début du jeu.
+Donc, je n'étais pas allé très loin, principalement parce que je trouvais ça très mou (surtout après *Final Fantasy V*).
+Je continue à penser que le début est fort lent mais, une fois le système de chimères débloqué, le jeu devient bien plus intéressant.
+Maintenant que j'ai été jusqu'au bout, je comprends tout à fait pourquoi *Final Fantasy VI* est considéré comme un des meilleurs titres de la série.
+C'est effectivement très très bien !
+
+Dans un premier temps, quelques mots sur l'histoire.
+J'ai bien aimé.
+Le voyage est sympathique, les zones et les situations variées.
+Le jeu n'a pas un personnage principal.
+À la place, chaque portion de l'histoire se concentre sur un personnage de la troupe.
+Ainsi, le jeu s'occupe de faire progresser l'histoire de Terra, celle d'Edgar, de Célès, etc.
+Tout ça en réussissant à faire avancer l'histoire principale en même temps, pour la plupart des personnage.
+Par exemple, le segment sur Gau ne fait pas vraiment avancer l'histoire principale.
+
+**Si vous n'avez pas déjà joué à *Final Fantasy VI*, je ne peux que vivement vous recommander de passer ce paragraphe.**
+Un morceau de l'histoire m'a particulièrement frappé : la scène de l'opéra.
+Dans la version *Pixel remaster*, cette scène est réalisée en 3D-HD (dans le style d'*Octopath Traveler*) et est doublée (!) dans la langue du jeu.
+Donc, oui, il existe une version française des chansons.
+Si vous voulez écouter toutes les versions disponibles, vous pouvez facilement trouver des [vidéos sur YouTube](https://www.youtube.com/watch?v=yRR5mLdNmJU).
+
+Du point du vue du gameplay, le jeu parvient à améliorer encore un peu le système d'ATB.
+Maintenant, le temps continue à s'écouler pendant les animations, ce qui rend les combats un peu plus dynamiques, bien que les jauges d'ATB mettent plus de temps à se charger.
+Chaque personnage a sa compétence qui lui est propre, ce qui veut dire qu'il faut apprendre à utiliser efficacement les techniques disponibles à un moment donné.
+Ainsi, Locke peut dérober des objets à un adversaire, Célès absorber des sorts pour recharger ses MPs et Sabin utiliser des techniques de moine, comme soulever un adversaire pour le projeter avec force sur le sol.
+Cette technique est d'ailleurs tout à fait utilisable contre la locomotive du train fantôme.
+Rien de tel que soulever un train complet pour montrer sa force.
+Un autre exemple est Gau qui est fondamentalement le mage bleu du groupe.
+Sa façon d'apprendre les compétences diffère des autres jeux, par contre.
+En effet, il ne doit pas voir un ennemi faire une certaine action pour l'apprendre.
+À la place, il faut lui demander de quitter l'équipe quand celle-ci se trouve dans la *Veldt*.
+Quand il reviendra (à condition que l'équipe continue à se battre dans la *Veldt*), il apprendra les compétences des ennemis qui étaient présents lors de son départ, ainsi que de ceux qui sont actuellement présents.
+Finalement, Gau n'est pas qu'un mage bleu.
+Il ne se contente pas de recopier les actions.
+Il imite aussi les résistances, faiblesses et effets bénéfiques (ou pas) de l'ennemi sélectionné.
+En gros, il devient pratiquement l'ennemi.
+Bref, chaque personnage est unique et intéressant à garder dans son équipe.
+Il faut donc faire des choix pertinents pour la stratégie qu'on veut élaborer.
+
+Les personnages disponibles dans l'équipe varient au fil du jeu, avec certains membres qui partent et reviennent bien plus tard.
+Une fois dans la deuxième grande partie du jeu, il faut retrouver ses alliés.
+Après avoir rejoint le groupe, ils ne le quitteront plus, cette fois.
+En bref, la première partie t'oblige à t'adapter, là où la seconde te laisse plus libre dans tes choix.
+
+Tous les personnages (sauf deux) peuvent utiliser tous les sorts de magie, à condition d'avoir atteint la symbiose avec une *chimère* (le nom pour les invocations).
+Par exemple, combattre en ayant Shiva d'équiper permet d'apprendre le sort de glace.
+Une fois ce sort appris, déséquiper la chimère ne retire pas le sort.
+Par contre, on ne peut pas utiliser le sort avant de l'avoir appris.
+Il est aussi intéressant de noter que le taux d'apprentissage d'un sort dépend de la chimère.
+Typiquement, le sort de soin peut être appris par Shiva (au début du jeu) et par Lakshmi (bien plus tard)...
+Mais le faire via cette dernière est bien, bien plus efficace.
+Au final, à condition de farmer, les personnages ont accès à toutes les écoles de magie mais restent différents par leur compétence spécifique.
 
 ### *Final Fantasy VII (Original - PC)*
-Mise en scène incroyable (surtout pour le premier FF en 3D).
+Par respect pour l'incroyable traduction française, je ne vais faire aucun effort pour traduire les noms des personnages, matérias et sorts.
 
-En cours.
+Il y a bien longtemps (pas à sa sortie, puisque j'étais né quelques mois avant la sortie européenne), j'avais déjà joué à *Final Fantasy VII*.
+J'étais arrivé contre le boss de fin mais, étant très mal préparé, j'ai perdu.
+Par la suite, je n'ai plus jamais réussi à atteindre la fin du donjon.
+Donc, bien que j'avais vu une large partie du jeu, je n'avais pas pu regarder la cinématique de fin.
+Dans mes souvenirs, le jeu était plutôt sympathique bien qu'un peu longuet par moment.
+Après y avoir rejoué, mon avis est plutôt qu'il est sympathique mais *très* lent.
+Je pense même que ce jeu a très mal vieilli.
+Comme dit au tout début de cette page, je juge les jeux avec mes yeux de maintenant.
+
+Je précise d'emblée que, dans le donjon final, j'ai exploité un [bug](https://finalfantasy.fandom.com/wiki/W-Item_duplication_bug) permettant de dupliquer des objets à l'infini.
+Je me suis donc retrouvé avec un stock fort confortable de 99 élixirs et méga-élixirs avant le combat final.
+La raison est très simple : je voulais juste arriver à la fin, le jeu commençant à vraiment me frustrer.
+
+Commençons par le positif:
+  - La mise en scène est remarquable, particulièrement pour le premier *Final Fantasy* en 3D.
+    Par exemple, l'ultime combat est incroyable.
+  - Les cinématiques sont vraiment biens, pour l'époque.
+  - Les décors sont beaux et variés et font bien voyager.
+    *Square Soft* avait vraiment bien compris comment exploiter le matériel de la *PlayStation* à bon escient.
+  - La musique est sympathique mais, malheureusement, la version PC a une qualité audio moindre que sur *PlayStation*.
+  - J'aime bien les animations des sorts et des *limit breaks*.
+    Par exemple, *Ultima* et *Comet 2* parviennent bien à faire comprendre leur puissance par de simples effets de couleur et de tremblement.
+
+Passons maintenant aux points sur lesquels je suis neutre ou nuancé :
+  - L'histoire fonctionne bien mais elle manque de variété, une grosse partie du jeu consistant à courir derrière Séphiroth.
+    Cependant, la révélation sur la véritable identité de Cloud est bien amenée et efficace.
+  - En parlant des personnages, je trouve qu'ils sont tous plats et unidimensionnels, sauf Cloud, Tifa et Barrett.
+    Vincent est juste un mec sombre retrouvé dans une cave, Cid passe son temps à pester (même lorsqu'il est supposé avoir appris à être plus humble), etc.
+    Cloud, Tifa et Barrett ont, quant à eux, une véritable évolution et ils remettent en question leur choix douteux, exprimant même du remords.
+  - Le système de matérias et leurs évolutions est intéressant.
+    Pouvoir décider quel personnage porte quelle matéria offre une grande souplesse...
+    Un peu trop à mon goût.
+    Le fait de choisir Caith Sith ou *Red* XIII n'a aucun impact (à part leur *limit break*) sur le déroulé d'un combat.
+    Je trouve que c'est une grosse régression pour le jeu qui suit *Final Fantasy VI*.
+    Il n'y aucune réflexion à avoir sur la bonne utilisation des compétences spécifiques, ce qui rend le jeu moins agréable pour moi.
+
+Finalement, les points négatifs :
+  - Le jeu est lent, très lent.
+    Je n'ai pas de problème avec le rythme du scénario mais vraiment avec l'exploration (qu'est-ce que c'est fun de devoir courir derrière un lapin pour récupérer une clé...) et, surtout, avec les combats.
+    Beaucoup d'animations arrêtent le temps...
+    Et ces animations sont longues (*Bahamut Zéro* et *Kujata*, je vous regarde).
+    Par exemple, lors du second parcours de Midgar, il y a des ennemis qui mettent beaucoup trop de temps avant d'agir.
+    Ça rend les combats fastidieux.
+  - Justement, il y a trop de combats.
+    Le jeu donne l'impression qu'on ne peut pas faire 5 pas sans déclencher un combat.
+    C'est très bien quand on veut farmer, évidemment, mais quand on veut juste progresser dans l'histoire, c'est pénible.
+  - J'ai l'impression que sélectionner une cible en combat n'est pas déterministe.
+    Parfois, appuyer sur la flèche du haut va effectivement passer à la cible qui est au-dessus de celle sélectionnée, parfois pas.
+    C'est donc peu agréable de réussir à faire exactement ce qu'on veut, par moment.
+  - Certains donjons sont juste pénibles à parcourir.
+    En particulier, le dernier est une horreur.
+    Énormément d'ennemis sont capables de juste tuer en un coup toute l'équipe, si tu as le malheur d'avoir un niveau qui est un multiple de quatre (par exemple).
+    Je n'ai pas trop de soucis avec ce genre-là de mécaniques dans des donjons optionnels mais c'est beaucoup trop frustrant quand c'est obligatoire.
+  - En parlant du dernier donjon, pourquoi est-ce qu'on a droit qu'à un seul point de sauvegarde ?
+    On ne peut pas sauvegarder juste avant le boss final ?
+    Pourquoi ?
+    Quel est l'intérêt de faire ça à part pour artificiellement faire gonfler la durée de vie et la difficulté ?
+  - Je ne suis pas particulièrement quelqu'un qui essaye de récupérer toutes les armes et compétences.
+    Par contre, généralement, j'aime bien essayer de récupérer les armes ultimes (en m'aidant souvent d'Internet).
+    Dans ce jeu, si on ne suis pas un guide à la lettre, on rate forcément des objets.
+    Typiquement, l'arme ultime de Barrett se trouve dans un coffre qui n'apparaît **que** s'il est dans l'équipe...
+    Dans un écran que tu ne parcours **qu'une seule fois** de tous les jeux.
+    Si on se rend compte qu'on a oublié l'objet après avoir fini cette séquence, c'est fini.
+    On peut plus jamais espérer l'obtenir.
+    Je trouve que c'est absolument détestable.
+  - Avez-vous remarqué que j'ai dit que les décors étaient beaux et variés ?
+    C'est vrai...
+    Mais ils ne sont pas toujours pratiques à naviguer.
+    Sur bien des écrans, on avance à tâtons.
+    Soit parce que le personnage est une tout petite tâche sur l'écran (et je rappelle que je joue en 2022 et pas sur un écran cathodique), soit parce que les limites de la zone traversable sont vraiment très floues.
+  - Est-ce que quelqu'un arrive à s'amuser avec le Gold Saucer ?
+    C'est pénible de récupérer suffisamment de PGS pour pouvoir faire les vraies activités et même celles-ci ne sont pas très agréables à prendre en main.
+
+Pour conclure, je vais poser une question : qui est la mère des enfants de *Red* XIII ?!
 
 ### *Final Fantasy VII Remake (PS4)*
 
 ### *Final Fantasy VIII (Remastered - PC)*
-Pas encore fait.
+Encore jamais fait.
+Prochain sur la liste.
 
 ### *Final Fantasy IX (Switch)*
+J'y ai joué il y a quelques années.
+Dans mes souvenirs, c'était assez désagréable.
+L'histoire est bien mais le gameplay des combats n'était pas très satisfaisant pour moi.
+
+Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 
 ### *Final Fantasy X (HD - PC)*
 <3
@@ -146,7 +281,14 @@ Pas encore fait.
 À mes yeux, un mauvais jeu et, clairement, le pire de la série.
 Tous les détails sont donnés dans une [page dédiée](FFXI/FFXI.md).
 
-### *Final Fantasy XII (PC)*
+### *Final Fantasy XII (The Zodiac Age - PC)*
+J'y ai joué il y a quelques années.
+Le système de *gambits* est intéressant mais trop facilement exploitable (ou alors, j'ai eu de la chance d'arriver rapidement à une configuration efficace).
+Concernant l'histoire, je me souviens juste que je n'ai pas compris grand chose.
+Pour une fois, une remarque sur les graphismes : je trouve que le jeu n'est pas très beau.
+Il y a un étrange effet de flou.
+
+Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 
 ### *Final Fantasy XIII (PC)*
 Caméra pas terrible avec une souris.
