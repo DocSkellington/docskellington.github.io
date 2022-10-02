@@ -4,7 +4,7 @@ title: La série des Final Fantasy
 
 À la base, je voulais simplement écrire mon ressenti sur *Final Fantasy XI*.
 Quite à écrire sur un jeu, autant écrire sur tous les épisodes principaux de la série, non ?
-Cette page commence par un bref avis sur chaque jeu (sauf le *XI* qui a droit à sa [page dédiée](FFXI/FFXI.md)), ensuite je dresse un petit classement de la série.
+Cette page commence par un bref avis sur chaque jeu (sauf le *XI* qui a droit à sa [page dédiée](FFXI.md)), ensuite je dresse un petit classement de la série.
 
 ## Bref avis par jeu
 Attention que je vais divulgâcher quasiment systématiquement.
@@ -279,7 +279,7 @@ Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 
 ### *Final Fantasy XI (PC)*
 À mes yeux, un mauvais jeu et, clairement, le pire de la série.
-Tous les détails sont donnés dans une [page dédiée](FFXI/FFXI.md).
+Tous les détails sont donnés dans une [page dédiée](FFXI.md).
 
 ### *Final Fantasy XII (The Zodiac Age - PC)*
 J'y ai joué il y a quelques années.

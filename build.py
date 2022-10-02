@@ -76,6 +76,8 @@ def iterate_over_directory(input_path: pathlib.Path, output_path: pathlib.Path, 
                 input_file = str(filename.absolute())
                 output_file = str(output_path / filename.with_suffix(".html").name)
                 generate_page(input_file, output_file, navigation_file, css_files, depth)
+            elif filename.suffix == ".png":
+                shutil.copy(filename.absolute(), output_path / filename.name)
 
 
 if __name__ == "__main__":
