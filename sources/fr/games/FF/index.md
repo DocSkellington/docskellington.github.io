@@ -6,7 +6,7 @@ title: La série des Final Fantasy
 Quite à écrire sur un jeu, autant écrire sur tous les épisodes principaux de la série, non ?
 Cette page commence par un bref avis sur chaque jeu (sauf le *XI* qui a droit à sa [page dédiée](FFXI.md)), ensuite je dresse un petit classement de la série.
 
-## Bref avis par jeu
+# Bref avis par jeu
 Attention que je vais divulgâcher quasiment systématiquement.
 Pour chaque jeu, j'essaye de le juger pour ce qu'il faut **aujourd'hui**.
 Je vais parfois nuancer mon propos en replaçant le titre dans son contexte mais je m'intéresse surtout au fun qu'on peut tirer des titres **maintenant**.
@@ -20,7 +20,7 @@ Sauf mention explicite, les parties ont été réalisées sur la version anglais
 Je dois aussi préciser que j'ai joué à la série entre novembre 2021 et octobre 2022 (fin de *Final Fantasy VII*, à l'heure où j'écris ces lignes).
 <!-- TODO: mets à jour la date au fur et à mesure -->
 
-### *Final Fantasy I (Pixel remaster - PC)*
+## *Final Fantasy I (Pixel remaster - PC)*
 Comparé aux autres, le tout premier *Final Fantasy* est assez logiquement "pauvre" dans ses mécaniques : système de combat au tour par tour; une fois le job choisi au début du jeu, tu ne peux plus changer; pas de changements dans les personnages jouables; etc.
 Cependant, cette simplicité est aussi sa force : comprendre les mécaniques du jeu se fait assez facilement.
 
@@ -44,7 +44,7 @@ On base donc d'une histoire basée sur sauver la Princesse Sarah et les quatre c
 Ceci étant dit, je trouve les ennemis principaux (Garland, Chaos et les quatre Élémentaires) marquants.
 Visiblement, les développeurs sont assez d'accord, vu *Final Fantasy IV*...
 
-### *Final Fantasy II (Pixel remaster - PC)*
+## *Final Fantasy II (Pixel remaster - PC)*
 Je n'arrive pas à rentrer dans ce jeu, ce qui fait que je n'ai jamais réussi à le finir.
 Je ne saurais trop dire ce qui coince pour moi.
 Peut-être que les aller-retours incessants au début du jeu me fatiguent ?
@@ -55,7 +55,7 @@ En vérité, les personnages n'ont pas de niveau à proprement parler.
 Cela fait qu'on peut rendre chaque personnage polyvalent ou alors les spécialiser dans un domaine très précis.
 De même, les statistiques sont influencées par ce que les personnages font : quelqu'un qui utilise beaucoup de magie verra ses MP augmenter, tandis que quelqu'un qui se fait souvent taper dessus aura plus de HP.
 
-### *Final Fantasy III (Pixel remaster - PC)*
+## *Final Fantasy III (Pixel remaster - PC)*
 Évolution intéressante du système de jobs.
 Plutôt que d'avoir des classes fixées au début du jeu, chaque personnage peut se voir attribuer n'importe quel job à n'importe quel moment.
 On peut donc très bien passer d'une équipe basée sur la magie à une équipe infligeant de lourds dégâts physiques.
@@ -79,7 +79,7 @@ Par contre, le fait que le monde à explorer grandit au fil du jeu est vraiment 
 On commence dans une zone isolée, au point même que la carte du monde n'indique pas qu'il existe quelque chose après l'océan qui entoure les continents.
 Une fois l'aéronef débloqué, on se rend compte que cette zone est une "petite" partie du monde totale, en vérité.
 
-### *Final Fantasy IV (Pixel remaster - PC)*
+## *Final Fantasy IV (Pixel remaster - PC)*
 Historiquement, le premier jeu à sortir sur la *Super Nintendo Entertainment System*, ce qui permet d'avoir des environnements plus détaillés et colorés.
 
 Pour la seule fois (hors MMO), on a cinq alliés en combat !
@@ -95,7 +95,7 @@ Plus sérieusement, j'ai un gros point négatif pour l'histoire : les personnage
 En vrai, que les personnages aient des moments héroïques, ça me va... Mais, quasi systématiquement, ces sacrifices sont annulés plus tard.
 Se retrouver dans une salle de commande d'un cannon sur-puissant qui explose n'a évidemment aucune chance de tuer Yang...
 
-### *Final Fantasy V (Pixel remaster - PC)*
+## *Final Fantasy V (Pixel remaster - PC)*
 Ou, plutôt, *Final Fantasy III 2*.
 Le jeu reprend le système de jobs de son prédécesseur mais le sublime.
 Tous les jobs servent une utilité (ce qui ne veut pas dire que je les trouve tous biens, hein) et les jobs récupérés au début du jeu ont clairement une raison d'exister en fin de jeu.
@@ -128,7 +128,7 @@ Par exemple, Krile Baldesion, dans sa tenue de mage blanc, porte un capuchon qui
 Je pourrais écrire bien des lignes sur le *V* mais je vais me contenter de vous dire d'y jouer.
 C'est vraiment bien !
 
-### *Final Fantasy VI (Pixel remaster - PC)*
+## *Final Fantasy VI (Pixel remaster - PC)*
 J'avais déjà testé le jeu il y a quelques années.
 Je m'étais arrêté quand il faut choisir entre les trois scénarios, au début du jeu.
 Donc, je n'étais pas allé très loin, principalement parce que je trouvais ça très mou (surtout après *Final Fantasy V*).
@@ -183,7 +183,7 @@ Typiquement, le sort de soin peut être appris par Shiva (au début du jeu) et p
 Mais le faire via cette dernière est bien, bien plus efficace.
 Au final, à condition de farmer, les personnages ont accès à toutes les écoles de magie mais restent différents par leur compétence spécifique.
 
-### *Final Fantasy VII (Original - PC)*
+## *Final Fantasy VII (Original - PC)*
 Par respect pour l'incroyable traduction française, je ne vais faire aucun effort pour traduire les noms des personnages, matérias et sorts.
 
 Il y a bien longtemps (pas à sa sortie, puisque j'étais né quelques mois avant la sortie européenne), j'avais déjà joué à *Final Fantasy VII*.
@@ -261,27 +261,33 @@ Finalement, les points négatifs :
 
 Pour conclure, je vais poser une question : qui est la mère des enfants de *Red* XIII ?!
 
-### *Final Fantasy VII Remake (PS4)*
+## *Final Fantasy VII Remake (PS4)*
 
-### *Final Fantasy VIII (Remastered - PC)*
+## *Final Fantasy VIII (Remastered - PC)*
 Encore jamais fait.
 Prochain sur la liste.
 
-### *Final Fantasy IX (Switch)*
+Sacrée évolution graphique (probablement l'effet du remaster).
+
+Course par défaut. Pas besoin de rester le doigt sur un bouton !
+
+Ces jupes sont très très courtes.
+
+## *Final Fantasy IX (Switch)*
 J'y ai joué il y a quelques années.
 Dans mes souvenirs, c'était assez désagréable.
 L'histoire est bien mais le gameplay des combats n'était pas très satisfaisant pour moi.
 
 Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 
-### *Final Fantasy X (HD - PC)*
+## *Final Fantasy X (HD - PC)*
 <3
 
-### *Final Fantasy XI (PC)*
+## *Final Fantasy XI (PC)*
 À mes yeux, un mauvais jeu et, clairement, le pire de la série.
 Tous les détails sont donnés dans une [page dédiée](FFXI.md).
 
-### *Final Fantasy XII (The Zodiac Age - PC)*
+## *Final Fantasy XII (The Zodiac Age - PC)*
 J'y ai joué il y a quelques années.
 Le système de *gambits* est intéressant mais trop facilement exploitable (ou alors, j'ai eu de la chance d'arriver rapidement à une configuration efficace).
 Concernant l'histoire, je me souviens juste que je n'ai pas compris grand chose.
@@ -290,19 +296,19 @@ Il y a un étrange effet de flou.
 
 Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 
-### *Final Fantasy XIII (PC)*
+## *Final Fantasy XIII (PC)*
 Caméra pas terrible avec une souris.
 
-### *Final Fantasy XIV: A Realm Reborn (PC)*
+## *Final Fantasy XIV: A Realm Reborn (PC)*
 Très bon parc d'attraction sur la série.
 
-### *Final Fantasy XV (PC)*
+## *Final Fantasy XV (PC)*
 
-### *Final Fantasy XVI*
+## *Final Fantasy XVI*
 J'ai hâte qu'il sorte sur PC.
 D'ici là, je ne veux rien savoir sur le jeu.
 
-## Classement
+# Classement
 
   1. [Final Fantasy V](#final-fantasy-v-pixel-remaster---pc) et [Final Fantasy X](#final-fantasy-x-hd---pc), pour des raisons différentes et à la fois similaires.
   2. [Final Fantasy XIV](#final-fantasy-xiv-a-realm-reborn-pc).
