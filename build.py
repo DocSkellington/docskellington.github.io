@@ -20,7 +20,8 @@ def generate_page(input_file: pathlib.Path, output_file: pathlib.Path, navigatio
     extra_args = [
         "--standalone",
         "--toc",
-        "--variable=toc-title:Table of contents"
+        "--variable=toc-title:Table of contents",
+        "--number-sections"
     ]
     for css_file in css_files:
         extra_args.append("--css")
