@@ -306,7 +306,14 @@ Ces particularités linguistiques servent à caractériser les personnages (mêm
 Mais pour un non-natif (comme moi), ces changements de langage font que certains dialogues importants demandent plus d'efforts pour être compris que sans.
 À la longue, ça devient juste usant de devoir traduire ce que le PNJ raconte pour comprendre des phrases simples.
 
-![Une réplique d'un Tarutaru. Les mots étrangement prononcés sont "problemaroo" (pour "probleme") et "diff-doffily-different" (pour "different"). Une fois traduite, la phrase donne "Des chercheurs venus des quatre coins de Vana'diel ont mis leurs joyeuses têtes ensemble pour résoudre ce problème. Nous somme arrivés à plusieurs idées différentes, mais..." Les déformations ne rendent pas le texte incompréhensibles mais c'est compliqué pour pas grande chose.](images/tarutaru_dialogue.png)
+<figure>
+  <a href="images/tarutaru_dialogue.png">
+    <img class="clickableImage" src="images/tarutaru_dialogue.png" alt="Une réplique d’un Tarutaru. Les mots étrangement prononcés sont “problemaroo” (pour “probleme”) et “diff-doffily-different” (pour “different”). Une fois traduite, la phrase donne “Des chercheurs venus des quatre coins de Vana’diel ont mis leurs joyeuses têtes ensemble pour résoudre ce problème. Nous somme arrivés à plusieurs idées différentes, mais…” Les déformations ne rendent pas le texte incompréhensibles mais c’est compliqué pour pas grande chose." />
+  </a>
+  <figcaption aria-hidden="true">
+Une réplique d’un Tarutaru. Les mots étrangement prononcés sont “problemaroo” (pour “probleme”) et “diff-doffily-different” (pour “different”). Une fois traduite, la phrase donne “Des chercheurs venus des quatre coins de Vana’diel ont mis leurs joyeuses têtes ensemble pour résoudre ce problème. Nous somme arrivés à plusieurs idées différentes, mais…” Les déformations ne rendent pas le texte incompréhensibles mais c’est compliqué pour pas grande chose. Cliquez sur l'image pour l'agrandir.
+  </figcaption>
+</figure>
 
 # Longue promenade à travers les zones
   - Points positifs :
