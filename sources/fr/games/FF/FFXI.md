@@ -17,10 +17,11 @@ Pour débloquer un nouveau job ? Il faut tuer des ennemis, récupérer des objet
 Même réussir à se connecter pour la première fois est un calvaire...
 
 Mon avis va commencer par le [début du jeu](#au-commencement-était-playonline), à savoir mon ressenti après avoir réussi à me connecter, à créer mon personnage et à me lancer en Vana'diel.
-Ensuite, on parlera d'une des grandes parties dans un J-RPG, à savoir [le combat](#de-la-baston), suivie immédiatement du [système de jobs](#évolution-du-personnage--jobs).
+Ensuite, on parlera d'une des grandes parties dans un J-RPG, à savoir [le combat](#de-la-baston), suivie immédiatement du [système de jobs](#travailler-pour-progresser).
 On enchaînera avec [l'interface utilisateur](#le-dessous-des-cartes-et-des-menus) et [l'exploration des zones](#longue-promenade-à-travers-les-zones).
-Pour finir les grosses sections en beauté, on dégustera [les quêtes et ce qui sert d'histoire](#le-désespoir-est-éternel--quêtes-et-histoire).
-On finira avec quelques points divers, la musique et, évidemment, une conclusion.
+Pour finir les grosses sections en beauté, on dégustera [les quêtes et ce qui sert d'histoire](#le-désespoir-est-éternel-quêtes-et-histoire).
+On finira avec [quelques points divers](#divers--artisanat-et-respect-du-temps), la [musique](#musiques) et, évidemment, [une conclusion](#conclusion).
+Si vous désirez juste mon avis final, sautez directement à la fin.
 Chaque section commencera par un résumé des points positifs, négatifs ou neutres.
 Le corps du texte rentre en détail pour certains de ces points.
 
@@ -29,9 +30,6 @@ Autrement dit, je ne m'attendais à jouer à *XIV*.
 J'espérais une expérience différente et, sur ce point-là, je n'ai pas été déçu.
 Je me suis principalement concentré sur le jeu de base.
 J'ai fait les premières quêtes de l'extension *Rhapsody for Vana'diel* (la dernière du jeu), histoire de pouvoir débloquer quelques objets de qualité de vie.
-
-Certaines comparaisons avec d'autres jeux (hors de la série) vont être faites.
-Typiquement, dans les parties sur l'exploration et les quêtes, des parallèles avec la série des *The Elder Scrolls* vont être faits.
 
 # Au commencement était PlayOnline
   - Points positifs :
@@ -95,7 +93,7 @@ Le jeu te balance très rapidement dans le monde avec comme seule mission d'alle
 Celui-ci n'étant pas très passionnant (et on sent qu'il a été rajouté après la sortie du jeu), je ne vais pas en parler ici...
 
 # De la baston
-Cette partie et [celle sur les jobs](#évolution-du-personnage--jobs) sont fortement liées.
+Cette partie et [celle sur les jobs](#travailler-pour-progresser) sont fortement liées.
 
   - Points positifs :
     - [Le système d'adjuration](#pnjs-dadjuration).
@@ -109,10 +107,6 @@ Cette partie et [celle sur les jobs](#évolution-du-personnage--jobs) sont forte
     - Réussir à sélectionner sa cible.
     - [Déroulement d'un combat](#déroulement-dun-combat).
     - Le système de régénération de points de vie hors combat est très lent (surtout pour les PM).
-    - En commençant le jeu, le niveau maximal est 50.
-      Pour aller plus loin, il faut faire une quête tous les cinq niveaux.
-      À noter que ces quêtes doivent être faites une fois par personnage.
-      Une fois la quête pour aller jusqu'au niveau 55, tous les jobs peuvent atteindre ce palier.
     - Un design de super-boss qui est volontairement et ouvertement conçu pour punir les joueurs.
       Si vous désirez des informations, allez voir la vidéo de *Final Fantasy Union* sur [Absolute Virtue](https://www.youtube.com/watch?v=aaiZCZ0HY1w).
 
@@ -162,6 +156,11 @@ Contrairement à *Final Fantasy V* (par exemple), il n'est pas question d'augmen
       Pour certains, il vaut mieux faire une grosse attaque peu souvent, pour d'autres (comme le chevalier dragon), il vaut mieux sortir plus souvent des attaques.
   - Points négatifs :
     - Pour les niveaux après 40, le gain de niveau devient long et fastidieux.
+    - En commençant le jeu, le niveau maximal est 50.
+      Pour aller plus loin, il faut faire une quête tous les cinq niveaux.
+      À noter que ces quêtes doivent être faites une fois par personnage.
+      Une fois la quête pour aller jusqu'au niveau 55, tous les jobs peuvent atteindre ce palier.
+      Je donne un exemple dans [la partie sur les quêtes](#le-désespoir-est-éternel-quêtes-et-histoire).
     - **En cas de mort, on perd une partie de son expérience.**
 
 Après avoir parlé du système de sous-job, je vais me concentrer sur [les mages](#magie-colorée) et [le chevalier dragon](#chevalier-dragon), à savoir les jobs que j'ai testés.
@@ -362,25 +361,120 @@ Cependant, je tenais à partager cette image.
 ![Pasia sur une sorte de raptor bleu.](images/mount.png)
 
 # *Le désespoir est éternel* : quêtes et histoire
-  + Tu n'es pas spécial. Tu es juste un aventurier qui se débrouille bien et qui est au bon endroit au bon moment
-  + RoE
-  - Trois journaux de quêtes
-  - Les extensions se lancent toutes seules quand tu rentres dans une zone et que tu satisfais les conditions. Donc, pas forcément voulu.
-    * On ne sait pas toujours ce qu'on regarde
-  - Début de l'histoire pas intéressante
-    * Il m'a fallu 30h de jeu (mission 4-1) pour arriver à une partie avec des vrais enjeux
-  - Tenue relique:
-    * Quêtes de farm dans des zones où tu es en-dessous du niveau recommandé
-  - Une quête (nécessaire pour augmenter le niveau max) demande des récupérer des mots de passe... Qui changent tous les jours in game!
-    * https://www.bg-wiki.com/ffxi/Whence_Blows_the_Wind
-  - Si tu connais quelqu'un qui a déjà les objet-clés pour ouvrir les portes, tu peux ne pas devoir récupérer les clés... Ce qui veut dire qu'être ami avec quelqu'un qui a déjà passé un temps considérable te fait économiser du temps... Mais tu ne pourras pas le faire pour quelqu'un d'autre puisque tu n'auras pas récupéré les clés.
+  - Points positifs :
+    - Le personnage principal n'est pas spécial.
+      C'est juste un aventurier qui arrive à tirer son épingle du lot et qui est au bon endroit au bon moment.
+      Je trouve que, dans un jeu en ligne, cela a plus de sens que d'être l'élu·e de la Lumière.
+    - [*Records of Eminence*](#records-of-eminence), un système de quêtes qui te donnent des indications sur les grandes étapes à accomplir.
+  - Points neutres :
+    - Les extensions du jeu n'ont pas d'ordre.
+      C'est bien pour celles et ceux qui veulent arriver dans le *endgame* mais je trouve ça peu agréable d'avoir tous les fils d'histoire en même temps.
+  - Points négatifs :
+    - Trois journaux de quête différents : les *Records of Eminence*, les quêtes secondaires et les quêtes principales des extensions.
+      On s'y perd vite.
+    - [L'histoire du jeu de base](#une-histoire).
+    - Les extensions se lancent toutes seules dès qu'on remplit les conditions.
+      Autrement dit, ce n'est pas voulu et on ne comprend pas ce qu'il se passe.
+      Un changement de zone pour aller chez un vendeur et, paf, le jeu montre une fille qui prie devant un immense cristal.
+    - Une grande partie des quêtes.
+      Je donne [plus bas quelques exemples](#quelques-quêtes).
+    - Certaines quêtes demandent des objet-clés pour ouvrir des portes.
+      Les récupérer est une tâche pénible...
+      Mais si on connaît quelqu'un qui joue au jeu et qui les a déjà, il peut nous ouvrir les portes et nous laisser avancer.
+      Ceci veut dire qu'être ami avec quelqu'un qui a déjà passé un temps considérable fait économiser du temps...
+      Mais, alors, on ne pourra pas le faire pour quelqu'un d'autre puisque on n'aura pas récupéré les clés.
 
-## En quête d'invocations
-  - Quête pour débloquer l'invocateur:
-    * Farmer des sangsues pour obtenir un ruby de Carbuncle
-    * Devoir visiter des zones (hors villes et hors donjons) pour voir certaines conditions météorologiques. Une fois les 7 vues, c'est bon.
-      * Faits: rouge (chaud), orange (neutre), bleu (pluie), mauve (foudre), vert (vent)
-    * Attention : il faut rentrer dans la zone. Si on y est déjà et que la condition météorologique s'enclenche, cela ne compte pas
+## *Records of Eminence*
+Dans un effort de donner des pistes des choses importantes à faire, le jeu inclut un ensemble de quêtes spécifiques.
+Dans le tas, on trouve "Atteindre le niveau 30 avec tel job", "Débloquer tel job", "Débloquer la première monture", etc.
+Donc, comme on se send perdu sans idée de ce qu'on devrait faire, regarder les missions disponibles dans les *Records of Eminence* donne des idées.
+Remplir ces missions donne de l'expérience, un peu d'argent et, parfois, de la nourriture, de nouveaux PNJs d'adjuration, etc.
+Ce système est vraiment bien, vu que les systèmes de jeu ne sont pas débloqués en avançant dans l'épopée (comme dans *XIV*) !
+Pour accentuer l'intérêt, certains systèmes (comme le fait d'augmenter son niveau maximum) ne sont cités que dans ce carnet.
+Donc, si vous jouez à *XI*, regardez régulièrement ce menu.
+
+De plus, pour chaque zone contenant des ennemis, il y a une mission qui demande d'en tuer un certain nombre.
+Ceci est très pratique quand on farm de l'expérience, puisque on va régulièrement avoir de l'EXP gratuit.
+
+Le seul défaut est l'interface.
+Les missions sont regroupées dans plein de catégories différentes.
+C'est parfois un peu fastidieux de trouver la mission qu'on désire.
+
+## Une "histoire"
+L'histoire du jeu de base est nulle.
+Je conçois tout à fait qu'un MMO ne désire pas mettre l'emphase sur son histoire, mais on attend une certaine qualité d'un jeu de la série *Final Fantasy*.
+Il m'a fallu 30h de jeu pour arriver au début du "chapitre 4" qui commence enfin à poser des vrais enjeux.
+Je comprends que le début soit lent pour qu'on puisse s'immiscer dans l'univers mais devoir aller crapahuter à travers de vastes zones pour tuer des hommes-bêtes sans comprendre le comment du pourquoi n'est pas très amusant.
+
+De surcroît, le maigre fil d'histoire qui est raconté est confus et se base soit sur des flashbacks, soit sur des textes récités par les PNJs.
+On ne vit quasiment rien par nous-mêmes.
+Le concept du "This is my story" de *Final Fantasy X* est brûlé, découpé et jeté par la fenêtre.
+Si on rajoute le fait que les extensions se lancent toutes seules, on ne comprend plus rien.
+Par exemple, Shantotto (une puissante mage noire) intervient dans plusieurs histoires.
+Seulement, une des extensions la fait partir du continent pour fonder son propre empire...
+Et, après avoir vu cette cinématique, on peut quand même la voir dans des cinématiques des extensions antérieures.
+Encore une fois, le jeu manque de cohérence.
+J'insiste sur le fait que je ne parle que de l'histoire du jeu de base.
+N'ayant pas avancé dans les extensions, je ne peux pas en parler.
+Je vais juste dire que le jeu encourage fortement à avancer dans *Rhapsody of Vana'diel* vu toutes les fonctionnalités ou simplifications qui peuvent facilement être obtenues en complétant les chapitres.
+Donc, le jeu pousse à faire le dernier contenu (qui se base sur tout ce qui est sorti avant) pour pouvoir avoir une expérience moins désagréable.
+Bonne idée, non ?
+Oh, et si vous voulez vraiment faire cette extension, sachez que vous serez obligé·e de quand même avancer dans les autres, certains chapitres demandant d'avoir accompli certaines quêtes.
+
+Si vous désirez avoir une idée du scénario, je vous invite à lire le très bon résumé de [Finaland](https://www.finaland.com/?rub=ff11&page=scenario).
+Honnêtement, c'est bien plus intéressant et excitant de lire ces pavés de texte que de vivre l'histoire.
+
+## Quelques quêtes
+Je vais maintenant parler de trois quêtes en particulier.
+J'espère que mon style parviendra à transmettre l'exaspération qu'elles font ressentir.
+
+### Limit break
+Comme dit plus haut, il faut faire des quêtes pour augmenter le niveau maximal.
+Dans l'idée, je trouve ça déjà pénible mais admettons.
+Par contre, est-ce que c'était vraiment une bonne idée de faire une [quête](https://www.bg-wiki.com/ffxi/Whence_Blows_the_Wind) qui demande de récupérer des mots de passe...
+En sachant que ces mots de passe changent **chaque jour en jeu** ?
+Pour quelque qui concerne le gameplay le plus basique possible, est-ce que c'était vraiment nécessaire de [devoir récupérer trois objet-clés](https://www.bg-wiki.com/ffxi/In_Defiant_Challenge), tous dans des zones différentes et bien éloignées ?
+Pourquoi est-ce que juste atteindre le niveau max doit être aussi pénible ?
+
+### Même Gerolt serait dépité
+Parlons un peu des armes et armures spécifiques à un job.
+Rassurez-vous, cela ira vite car on peut résumer **ces** quêtes (oui, il y en a quasiment une par pièce) en quelques mots :
+
+  - Devoir passer dans plein de zones pour trouver des clés, ouvrir des coffres, parler à des PNJs, etc.
+  - Les pièces ont un niveau minimum pour être équipées.
+    Par exemple, les chaussures demandent d'être niveau 52.
+    Les ennemis dans les zones à traverser massacrent les personnages niveau 52.
+    Un *délice*.
+  - Certaines pièces ne sont, en vérité, pas des récompenses de quêtes.
+    Ils sont dans des coffres dans des zones bien précises.
+    Naturellement, **rien** n'indique où sont ces coffres.
+
+### En quête d'invocations
+Finissons par la meilleure quête : celle pour débloquer l'invocateur.
+Voici les grandes étapes :
+
+  1. Tuer des sangsues jusqu'à obtenir un *Cristal de Carbuncle*.
+  2. Aller examiner une porte dans une des villes pour déclencher une cinématique avec un PNJ (ceci est indiqué dans les *Records of Eminence", heureusement).
+  3. Observer les septs types de météo.
+  4. Aller échanger le cristal à un point précis dans une zone précise pour (enfin) débloquer le job.
+
+Ça n'a pas l'air trop horrible...
+Parlons un peu plus en détail du point 3 :
+
+  - Si la météo change quand on est dans une zone, ça ne compte pas.
+    Il faut **rentrer** dans la zone tant que l'effet de météo est actif.
+  - Rentrer dans une ville ou un donjon ne compte pas.
+    Ce doit être une zone à ciel ouvert et où il y a des ennemis.
+  - La probabilité d'avoir un temps chaud change selon le mois en jeu.
+    C'est tout à fait logique qu'il fasse plus chaud en été, je ne dis pas le contraire, mais c'est pénible !
+  - Le jeu n'indique pas les types de météo déjà vus.
+    Il faut le mémoriser par soi-même.
+    J'ai lu sur Internet (mais sans preuve) qu'on peut parfois voir un arc-en-ciel dans une des zones.
+    Chaque couleur correspondant à un type de météo, celles déjà observées seraient mises en évidence.
+
+Honnêtement, j'ai abandonné cette quête, par manque de motivation de juste attendre la bonne météo.
+C'est dommage parce que le job avait l'air intéressant.
+De ce que j'ai vu, les invocations participent activement au combat et ont des compétences spécifiques (Titan fera des dégâts élémentaires de terre, Odin de ténèbres, etc.).
 
 # Divers : artisanat et respect du temps
   - Points positifs :
@@ -410,14 +504,29 @@ Les deux derniers points négatifs m'amènent à dresser la conclusion suivante 
       Elle me rend dingue.
 
 # Conclusion
-Je comprends pourquoi la première version de FF XIV a été un échec.
+Ma conclusion est très acide : **je comprends parfaitement pourquoi la première version de *Final Fantasy XIV* a été un échec.**
+Quand les développeurs font des jeux qui crachent ouvertement à la tête de ses joueurs et joueurs, il est normal que les retours ne sont pas positifs.
+J'ai même du mal à comprendre comment *Final Fantasy XI* a pu avoir du succès.
+Pour moi, le jeu est rempli d'erreurs de game design.
+Je comprends que le monde de MMORPGs était très différent en 2002 mais ça n'excuses pas le déplaisir immense que fait ressentir ce jeu.
 
-Avis plus poussé : https://www.giantbomb.com/forums/final-fantasy-xi-online-684/i-spent-my-summer-playing-the-wrong-final-fantasy--1890703/ (P.S.: je ne suis pas d'accord avec l'auteur concernant FF XIII, par exemple. On est juste d'accord sur FF XI, je crois :p)
+Bien sûr, mon ressenti n'est pas celui de quelqu'un qui a lancé le jeu à sa sortie.
+Toutes les extensions et les modifications apportées durant les 20 années de son existence ont énormément modifié le jeu.
+Par exemple, au début du jeu, les sorts et cartes étaient des récompenses de quêtes.
+Maintenant, il faut les acheter.
+Le jeu évolue et "se simplifie" mais les quêtes et la progression du personnage en elles-mêmes ne font que se complexifier.
+Comme il faut toujours augmenter sa taille, on se retrouve avec une pyramide de systèmes à devoir comprendre et maîtriser, ce qui est particulièrement désagréable quand on commence maintenant.
+Quelqu'un qui a aimé le jeu en 2002 va probablement continuer à l'aimer maintenant mais je ne vois pas ce qui peut attirer de nouvelles personnes de façon durable.
+Peut-être que jouer avec quelqu'un qui a déjà atteint le niveau max et qui a tous les objets-clés rendrait l'aventure plus amusante.
+Honnêtement, c'est la seule façon de rendre ce jeu plus digeste, je pense...
 
-Des changements au fil du temps (on peut acheter les cartes et les sorts plutôt que de devoir faire des quêtes) mais sans changer les quêtes de base
+Admettons qu'après avoir lu toutes ces lignes (merci !), vous ayez quand même envie d'y jouer.
+Je ne peux que vous recommander de suivre un guide.
+N'essayez pas d'y aller sans aide, je vous en conjure.
+Même avec de l'aide, on se perd et on ne comprend pas grand chose.
+Personnellement, je me suis basé sur [le guide 1-119 de bg-wiki](https://www.bg-wiki.com/ffxi/Quickstart_1-119_Guide).
+Sauf que je ne l'ai pas suivi à la lettre.
+Typiquement, je ne voulais pas commencer les extensions avant d'avoir fini le jeu de base, mon but étant de voir l'évolution de la série.
+Je ne sais pas si c'était une mauvaise idée...
 
-Vous voulez l'histoire ? Allez lire https://www.finaland.com/?rub=ff11&page=scenario. Pour les quêtes de Bastok, c'est mieux raconté là qu'en jeu... Je suis plus motivé pour apprendre ce qu'il se passe en lisant qu'en jouant.
-
-Vous voulez quand même jouer ? Si ça peut vous aider, j'ai grosso modo suivi le fil de ce guide : https://www.bg-wiki.com/ffxi/Quickstart_1-119_Guide... Sauf que je n'ai pas touché aux histoires des extensions (sauf le début de RoV pour avoir un Trust en plus et débloquer le sous-job plus facilement). Mauvaise idée ? Je ne sais pas.
-
-Est-ce que ça irait mieux en jouant avec quelqu'un d'autre ? Pas sûr... Avec quelqu'un qui est déjà niveau 99 et qui a tous les objets-clés pour t'emmener dans les zones où tu dois ? Oui.
+Voici donc ma conclusion finale : *Final Fantasy XI* est un **mauvais jeu qui ne respecte pas ses joueuses et joueurs**.
