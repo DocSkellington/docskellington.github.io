@@ -372,6 +372,25 @@ Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 ## *Final Fantasy X (HD - PC)*
 <3
 
+J'utilise un mod (Untitled Project X) qui permet plusieurs choses :
+  - De passer toutes les cinématiques (pas juste les FMV). Bon, en vrai, ça fait juste avance rapide dans les dialogues. C'est pratique pour ne pas s'endormir quand on a du mal contre un boss...
+  - Tout le monde récupère des AP à chaque combat. Pas besoin de faire sortir et rentrer tout le monde juste pour que le jeu leur accorde des points
+
+La version PC donne de base les outils suivants :
+  - Vitesse x 2 ou x 4 (avec le mod, jusque x 8)
+  - Combat automatique
+  - Augmenter la fréquence ou empêcher les combats aléatoires
+  - Sauvegarde auto
+
+L'intro pète la classe
+
+La musique de combat = meilleure musique
+
+J'aime beaucoup le système de combat. Voir série des The Legend of Heroes
+
+Le jeu commence de manière un peu abrupte mais finit par expliquer clairement les règles du monde.
+Je peux comprendre que ceci décourage certaines personnes mais, pour moi, c'est justement efficace pour rentrer dans l'univers.
+
 ## *Final Fantasy XI (PC)*
 À mes yeux, un mauvais jeu et, clairement, le pire de la série.
 Tous les détails sont donnés dans une [page dédiée](FFXI.md).
