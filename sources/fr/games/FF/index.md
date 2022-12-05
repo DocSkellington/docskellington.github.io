@@ -264,14 +264,103 @@ Pour conclure, je vais poser une question : qui est la mère des enfants de *Red
 ## *Final Fantasy VII Remake (PS4)*
 
 ## *Final Fantasy VIII (Remastered - PC)*
-Encore jamais fait.
-Prochain sur la liste.
+Mon avis sur *Final Fantasy VIII* est très partagé.
+D'un côté, je le trouve brillant sur son histoire et sa mise en scène.
+De l'autre côté, son système d'évolution des personnages est, à mes yeux, un non-sens.
+Je vais commencer avec le négatif.
 
-Sacrée évolution graphique (probablement l'effet du remaster).
+Dans ce jeu, les personnages gagnent principalement en puissance en équipant les invocations et en associant des sorts à des statistiques.
+Le fait de lier les invocations me va très bien; mon problème n'est pas là.
+Par contre, le fait que le gain de statistiques dépende du type de sort et **du nombre en stock** rend tout un pan du gameplay inutile.
+Comme lancer un sort le consomme et le retire du stock, cela veut dire qu'exploiter un sort lié à une statistique rend le personnage plus faible sur le long terme.
+Donc, pourquoi le faire ?
+En plus, cela implique qu'il faut farmer les sorts en les volant aux ennemis...
+Ce qui est *super* long, la quantité récupérée dépendant du niveau du personnage.
+Pour peu que le niveau soit trop bas, il peut même arriver que le vol échoue ou rapporte un ou deux sorts.
+Le stock maximal (et, donc, le plus intéressant pour avoir le plus gros bonus de statistique) est 99.
 
-Course par défaut. Pas besoin de rester le doigt sur un bouton !
+Ce problème fait que la magie est un peu inutile et on exploite beaucoup les invocations.
+Malheureusement, ces invocations ont de longues animations non passables.
+Ces animations sont très impressionnantes mais, après avoir vu *Alexander* faire un spectacle son-lumière une dizaine de fois, ça n'est plus très intéressant.
+Ces deux points combinés rendent les combats peu passionnants.
 
-Ces jupes sont très très courtes.
+J'ai quand même un point positif à donner.
+Les invocations peuvent gagner en niveau et apprendre de nouvelles compétences à équiper.
+Comme le personnage qui utiliser cette invocation ne peut équiper qu'un nombre très limité de compétences, il faut bien réfléchir pour équilibrer les invocations entre les différents alliées et alliés, ainsi que leurs compétences actives.
+
+Avant d'attaquer les points vraiment positifs, voici une courte liste de points sympathiques-mais-pas-transcendants :
+
+* Les deux allié·e·s sélectionné·e·s suivent le personnage principal sur l'écran d'exploration.
+Ceci renforce assez bien le fait qu'on contrôle une équipe et pas juste Squall.
+* Carbuncle est très mignon.
+* Les personnages (et ennemis) ont une animation spéciale quand ils reçoivent un coup critique.
+* Les environnements sont variés et, contrairement à *Final Fantasy VII*, sont assez faciles à naviguer.
+On comprend naturellement où on peut marcher.
+* On peut rapidement échanger les magies et invocations entre deux personnages.
+* Le design des ennemis est vraiment marquant et original.
+* Il y a un sacré saut graphique entre *VII* et *VIII*, qui est dû au remaster qui a augmenté la qualité des modèles.
+Malheureusement, les décors n'ont pas eu droit à un petit lifting.
+On voit bien la différence entre les personnages et le décor, au moins.
+* Les personnages courent par défaut. Plus besoin de rester le doigt sur un bouton !
+* J'aime bien le principe de salaire, qui augmente en fonction du rang de SeeD.
+C'est une chouette petite touche qui s'appuie intelligemment sur le lore.
+
+Allons-y pour les points positifs.
+Commençons avec la musique : c'est un régal pour les oreilles.
+En particulier, je suis très fan du [thème utilisé pendant la parade d'Édéa](https://www.youtube.com/watch?v=RP0yZ1H1V-Q), qui est une sorte de remix de [*Liberi Fatali*](https://www.youtube.com/watch?v=gcJ_yFSw3-k), un des thèmes principaux de *VIII*.
+Je ne peux bien sûr pas parler de la musique sans mentionner [*Eyes on Me*](https://www.youtube.com/watch?v=vuB5NSuF2U8), le thème chanté.
+
+**Attention, le reste va grandement spoiler tout le jeu.**
+Ne lisez que la première phrase si vous voulez l'idée du paragraphe.
+
+La mise en scène est extrêmement impressionnante et déborde d'idées créatives, quite à être parfois un peu absurde.
+Il y a effectivement du monde dans les scènes de foule; les angles de caméra appuie bien les scènes; le rythme des parties plus scriptées est vraiment bien; etc.
+Par contre, certaines scènes en deviennent absurdes.
+Par exemple, à un moment, Squall et Linoa veulent échanger un wagon qui se trouve au milieu d'un train avec un autre wagon.
+Il faut donc décrocher le wagon de son train, faire venir le faux wagon, l'attacher au train et faire en sorte que la fin du train soit à nouveau attaché, tout ça sans attirer l'attention des gardes...
+Gardes qui, bien sûr, ne sentent pas que les wagons sont détachés et attachés.
+Un autre exemple se trouve durant la parade d'Édéa à la fin du premier CD.
+La foule est en liesse de la voir apparaître et continue à l'acclamer même après qu'elle ait insulté tout le monde et tué le président sous leurs yeux.
+À croire que le peuple le détestait vraiment.
+Il me faut évidemment mentionner le voyage dans la compression temporelle qui est visuellement incroyable (et qui ressemble fortement à certaines scènes de *Final Fantasy XIV*, en passant) et le combat contre les sorcières, durant le quatrième CD : le décor change à chaque nouvelle sorcière pour montrer un des décors traversés durant l'aventure, avec un twist...
+Le décor **fond** sur lui-même.
+
+Les personnages sont marquants, touchants et ont un bonne évolution.
+Je vais commencer par cette affirmation, très subjective : Quistis = meilleur personnage.
+Elle est délicieusement sarcastique avec Squall.
+Malgré cela, la palme de la meilleure évolution va clairement à Squall
+J'aime bien son développement et ses interrogations philosophiques pour essayer de comprendre le monde.
+Il passe d'un homme complètement fermé et qui refuse de montrer le moindre sentiment, à quelqu'un qui finit par accepter de se reposer sur les autres.
+On peut remercier Linoa !
+Même les personnages plus secondaires ont droit à une évolution : les deux acolytes de Seifer finissent par l'abandonner quand ce dernier va trop loin.
+
+Et le meilleur pour la fin : l'histoire.
+Le rythme, ce que ce qui est raconté, comment c'est raconté et sous quel angle sont une franche réussite.
+Les cliffhangers à la fin des deux premiers CDs sont extrêmement bien exécutés et donnent envie de continuer.
+Les phases plus humoristiques sont drôles tout en continuant à faire avancer l'histoire ou les personnages.
+Bref, je n'ai (quasiment) pas eu l'impression que certaines scènes étaient là juste pour rallonger la sauce.
+En particulier, j'aime bien le fait qu'on découvre les histoires de Squall et de Laguna plus ou moins en parallèle et, qu'à la fin, elles finissent par s’emmêler.
+Les retournements de situation (Édéa est contrôlée par Ultimécia, Linoa devient une sorcière, les SeeDs se connaissaient avant mais avaient oublié à cause des effets secondaires des invocations, etc.) sont systématiquement bien amenées et font mouche.
+Pour donner des exemples plus précis, l'envol de la BGU et qu'on finisse par aller sur la lune étaient inattendus mais très, très agréables à voir.
+En parlant de la lune, toute la phase dans l'espace était brillante et marque un vrai point de bascule dans la relation entre Squall et Linoa.
+C'est précisément à ce moment que la carapace de Squall s'effondre, à l'idée de perdre sa tendre amie.
+J'aime aussi comme la boucle temporelle est amenée : Édéa obtient les pouvoirs d'Ultimecia **parce que** Squall et sa bande la tuent.
+Les SeeDs et les jardins naissent à cause de la rencontre entre Édéa et Squall, dans le passé.
+Autrement dit, le futur existe à cause du passé et le passé n'a eu lieu que grâce aux conséquences du futur.
+
+L'histoire arrive même à jouer avec les règles du gameplay :
+
+* La zone complètement sûre du début devient infestée d'ennemis plus tard.
+* Le dernier donjon retire huit compétences et il faut vaincre des boss pour les récupérer (ce qui est vraiment une bonne idée. 
+Par contre, le boss qui n'est sensible qu'à gravité sans aucun moyen de le savoir avant, c'est une mauvaise idée.)
+* La BGU devient un moyen de transport.
+
+Ma conclusion rejoint l'introduction : l'histoire est, je trouve, brillante mais il faut un peu s'accrocher pour passer outre l'aspect bancal du gameplay.
+Je recommande la version *Remastered* qui peut permettre d'ignorer le gameplay pour pouvoir vraiment profiter de l'aventure, selon vos goûts.
+Par exemple, j'ai fait le dernier donjon en exploitant les bonus du remaster: points de vie, jauges ATB et de transcendance toujours remplies, plus le fait de pouvoir tripler l'écoulement du temps.
+Je voulais voir la fin de l'histoire, sans trop m'occuper du gameplay (ce qui est, pour le coup, un vrai gage de qualité pour l'histoire).
+En passant, regarder la vidéo qui joue pendant les crédits.
+Elle vaut le détour.
 
 ## *Final Fantasy IX (Switch)*
 J'y ai joué il y a quelques années.
