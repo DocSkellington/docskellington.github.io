@@ -370,7 +370,98 @@ L'histoire est bien mais le gameplay des combats n'était pas très satisfaisant
 Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
 
 ## *Final Fantasy X (HD - PC)*
-<3
+
+Permettez-moi de commencer par vous raconter une partie de mon histoire.
+Main dans la main avec *Final Fantasy XIII*, le *X* a cimenté mon affection pour les J-RPGs.
+Même si je vois plein de ses défauts, je ne peux pas m'empêcher de l'aimer.
+Je vais commencer par parler de l'histoire et des personnages, mélangés à quelques remarques sur la direction artistique.
+Ensuite viendra la raison pour laquelle ce jeu continue à vivre dans mon esprit : son système de combat.
+On conclura avec le plus gros défaut du jeu, à savoir tout ce qui est lié au contenu end-game.
+
+Toute l'introduction déboîte, entre les cinématiques pré-rendues impressionnantes et l'apparition de Sin emportant Tidus loin de sa Zanarkand natale.
+Heureusement, le jeu finit par se calmer mais a la décence de ne pas exposer l’entièreté de son univers d'un coup.
+Au contraire, je le trouve même plutôt pédagogue concernant les règles de l'univers, en rajoutant de la complexité petit à petit de cette sympathique aventure.
+L'histoire arrive également très bien à alterner les moments d'action et ceux d'émotion.
+Par exemple, à un moment, il y a une attaque d'envergure contre Sin.
+Après le fracas des machines qui se déchaînent contre la baleine géante, vient le calme et la mélancolie en contemplant le spectacle de désolation provoquée par Sin.
+Et ces successions continuent jusqu'à la fin qui est d'une belle tristesse.
+*This is your world, now.*
+
+Je ne peux pas parler de l'histoire du *X* sans mentionner Zanarkand.
+De la cité grandiose engendrée par le rêve des Priants dans laquelle vit Tidus aux ruines parcourues à la fin de l'aventure, en passant par la vue époustouflante sur les ruines, l'ancienne ville a une place vitale dans l'univers.
+Place soulignée par sa musique (*To Zanarkand*) Ô combien magnifique.
+Passons directement au boss final de la zone : Lady Yunalesca... Et à son string.
+En vrai, je ne vais pas m'alourdir sur la légèreté de sa tenue; je vais simplement dire que je la trouve absurde.
+Quand même ta statue officielle de l'église te dépeint en petite tenue, c'est qu'il y a un problème.
+
+Le plus gros défaut de l'histoire est l'antagoniste non-marin principal : Seymour.
+Son objectif, que ce soit dans la vie ou la mort, est d'éradiquer la souffrance... En éradiquant la vie.
+C'est effectivement un moyen efficace mais peut-être un peu *overkill* ?
+En plus, pour y arriver, il essaye de forcer Yuna à l'épouser afin de pouvoir lui-même devenir Sin.
+Rajoutons le fait que c'est globalement une personne détestable, qu'il a tué les Ronsos et...
+Mais... Mais... Du coup, c'est bien ?
+Le fait que l'antagoniste me fasse ressentir ceci montre bien que son écriture est une réussite (bon, son plan reste ridicule mais c'est assez classique dans les *Final Fantasy*).
+
+L'enchaînement (pauvre Anima) est tout trouvé : les personnages (principaux) sont vraiment bien écrits.
+Il y a une différence notable entre leur caractérisation au début et à la fin de l'épopée.
+C'est vraiment agréable de voir Wakka accepter les Al Bheds, Yuna réussir à s'affirmer face au monde et à accepter de se battre contre l'église malgré sa foi, pour ne citer que deux exemples !
+Et, même entre les personnages, les relations parviennent à évoluer avec le temps.
+Bien sûr, il y a la romance (très mignonne) entre Yuna et Tidus (comment oublier la scène du baiser après la Via Purifico ?), mais on sent aussi qu'Auron s'ouvre aux autres de plus en plus au fil du temps.
+Oh, et pour en parler rapidement : le rire forcé de Tidus est fait exprès.
+Je ne comprends pas les attaques vers cette scène.
+Le plus gros bémol lié aux personnages est que les visages de la version remasterisée manquent d'expressivité.
+Les animations sont globalement plus rigides dans les versions "modernes" que dans la version originale.
+
+Pour en finir avec l'histoire, parlons un peu philosophie.
+Les âmes des défunts rejoignent l'Au-delà.
+S'ils n'y parviennent pas (quelque soit la raison), ils sont alors condamnés à errer sur Spira et à finir par se transformer en monstre.
+Il existe cependant un moyen de contacter les âmes qui ont réussi à atteindre l'Au-delà.
+À Guadosalam, il existe un passage vers cette espèce de paradis...
+Et il y est possible de discuter avec ses proches partis.
+À mes yeux, ceci est une abomination !
+Comment vraiment faire le deuil de quelqu'un de cher quand on peut, à n'importe quel moment (à condition de réussir à s'y rendre), lui parler ?
+Un mort avec qui on peut parler est-il vraiment mort ?
+Pour moi, le fait d'avancer implique d'accepter qu'ils ont disparu.
+Ils ne reviendront pas dans nos vies.
+C'est douloureux, oui, mais j'estime que c'est nécessaire pour pouvoir continuer à apprécier ceux qui sont encore là.
+
+Jouons maintenant !
+Avant de passer dans le vif du sujet, il me faut préciser quelques points.
+Premièrement, la version PC remasterisée donne quelques outils bien pratiques pour la qualité de vie : le fait de doubler ou quadrupler la vitesse, d'augmenter ou réduire la fréquence des combats, des sauvegardes automatiques, etc.
+Par dessus, j'ai rajouté ce qui est offert par un mod (*Untitled Project X*) qui permet de passer les cinématiques et que tout le monde récupère des APs à la fin de chaque combat.
+Plus besoin d'alterner entre tous les personnages à chaque combat !
+
+J'adore profondément cette variation des combats au tour par tour.
+Le fait de voir l'effet des compétences sur la durée avant la prochaine action permet de vraiment bien planifier les combats.
+Si vous aimez également ce concept, je recommande vivement la série des *The Legend of Heroes*.
+Ceci étant dit, les tutoriels du *X* sont des exemples parfaits de ce qu'il ne faut pas faire: des pavés de texte où le jeu explique tout d'un coup, sans laisser le temps d'expérimenter (surtout pour le blitzball).
+Aussi, bon Dieu que progresser dans la grille liée aux niveaux est ennuyant.
+Le système de Cristarium de FF XIII est bien plus agréable, même si moins intéressant du point stratégique.
+Ceci étant dit, vu que les compétences de fin arrivent trop tard pour être vraiment utiles, je ne suis pas sûr que cette perte soit vraiment significative.
+
+Pour cette partie, j'ai décidé de dévier des archétypes des personnages.
+Par exemple, Wakka a exploré la magie noire avant sa propre branche, etc.
+Certaines situations étaient un peu plus complexes que d'habitude mais le fait d'avoir une assez grande versatilité a rendu certains boss vraiment faciles (Lady Yunalesca et les harceleurs de Khimari en tête).
+Malheureusement, cela ne m'empêche pas de détester les phases sous-marines où on n'a que Tidus, Wakka et Rikku.
+Sans parler du gameplay moins fun, ça empêche de gagner de l'expérience pour tout le monde... Le fait de pouvoir réduire la fréquence des combats est bien pratique.
+
+Comme promis, finissons avec la pire partie du jeu : récupérer les armes ultimes et les boss optionnels.
+La première tâche est vraiment pénible, dû à la quantité hallucinante de mini-jeux à devoir maîtriser.
+C'est faisable, certes, mais qu'est-ce que c'est ennuyant !
+Et pour pouvoir espérer survivre un minimum face aux boss optionnels, il faut passer tellement de temps à farmer des niveaux.
+En effet, simplement activer tous les nœuds de la grille n'est pas forcément suffisant, vu qu'il est possible de retirer des nœuds pour les remplacer par d'autres plus forts.
+C'est beaucoup trop pénible.
+Au final, les quelques boss optionnels que j'ai réussis à faire ont été massacrés par Anima ou Yojimbo (qui est capable de tuer en un seul coup certaines des chimères noires).
+
+### *Final Fantasy X/2 (PC)*
+Je n'ai jamais réussi à aller bien loin dans celui-ci : soit je perds toute envie de continuer, soit le jeu ne démarre tout simplement pas (ce sont les aléas liés au fait de jouer sous Linux).
+Pour être totalement franc, je ne suis pas particulièrement triste, vu que le côté racoleur des tenues des trois protagonistes a tendance à me repousser.
+
+Ceci étant dit, le système de Dress Spheres a l'air intéressant.
+Je regrette un peu le retour des jauges ATB, par contre.
+J'aurais bien aimé que l'équipe continue à explorer le système du *X*.
+
+Peut-être qu'un jour cette partie sera étendue pour arriver à une vraie critique...
 
 ## *Final Fantasy XI (PC)*
 À mes yeux, un mauvais jeu et, clairement, le pire de la série.
