@@ -17,7 +17,7 @@ Ceci veut dire que je dois utiliser des outils (en l'occurrence, *[Wine](https:/
 Je suis conscient que ces outils peuvent introduire des problèmes (bien que, parfois, ces outils corrigent les problèmes de la version Windows).
 Afin d'être le plus juste possible, je ne parle donc pas des crashs et autres soucis graphiques.
 Sauf mention explicite, les parties ont été réalisées sur la version anglaise.
-Je dois aussi préciser que j'ai joué à la série entre novembre 2021 et octobre 2022 (fin de *Final Fantasy VII*, à l'heure où j'écris ces lignes).
+Je dois aussi préciser que j'ai joué à la série entre novembre 2021 et mai 2023 (fin de *Final Fantasy X*, à l'heure où j'écris ces lignes).
 <!-- TODO: mets à jour la date au fur et à mesure -->
 
 ## *Final Fantasy I (Pixel remaster - PC)*
