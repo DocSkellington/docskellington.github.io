@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+markdown = "*"
+pygments = "*"
+markdown-katex = "*"
+md2html-links = {editable = true, git = "https://github.com/ricmua/markdown-md2html_links"}
+caption = {editable = true, git = "https://github.com/flywire/caption"}
+
+[dev-packages]
+pylint = "*"
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.2"

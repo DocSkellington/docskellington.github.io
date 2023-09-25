@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+marko[codehilite,footnote,toc]==2.0.0; python_version >= '3.7'
+pygments==2.16.1; python_version >= '3.7'
+python-slugify==8.0.1
+text-unidecode==1.3
