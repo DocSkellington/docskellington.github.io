@@ -11,3 +11,10 @@ Its content will grow over time but I do not guarantee any timeline.
 
 This website is built using Pandoc.
 If you are interested in the technical details, you can consult [the repository](https://github.com/DocSkellington/docskellington.github.io).
+
+Test inline $`a = b`$.
+
+Test display
+```math
+a = b
+```
