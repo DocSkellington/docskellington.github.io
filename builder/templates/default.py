@@ -9,6 +9,7 @@ class DefaultTemplate(builder.templates.Template):
         super().__init__()
         self.css_files = [
             "resources/style.css",
+            "resources/code.css",
             "https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css",
         ]
         self.script_files = []
