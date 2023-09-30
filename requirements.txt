@@ -1,5 +1,15 @@
 -i https://pypi.org/simple
-marko[codehilite,footnote,toc]==2.0.0; python_version >= '3.7'
-pygments==2.16.1; python_version >= '3.7'
-python-slugify==8.0.1
-text-unidecode==1.3
+-e git+https://github.com/flywire/caption@2920011ec6dd16d2bde34b626a49799951f82ea4#egg=caption
+coverage==7.3.1 ; python_version >= '3.8'
+iniconfig==2.0.0 ; python_version >= '3.7'
+markdown==3.4.4
+markdown-katex==202112.1034
+-e git+https://github.com/ricmua/markdown-md2html_links@1e24a429b33466b1001aaeae5a143c0c51459b83#egg=md2html-links
+packaging==23.2 ; python_version >= '3.7'
+pathlib2==2.3.7.post1
+pluggy==1.3.0 ; python_version >= '3.8'
+pygments==2.16.1
+pytest==7.4.2 ; python_version >= '3.7'
+pytest-cov==4.1.0 ; python_version >= '3.7'
+setuptools==68.2.2 ; python_version >= '3.8'
+six==1.16.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
