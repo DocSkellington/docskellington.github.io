@@ -3,9 +3,9 @@ title: Final Fantasy XI
 ---
 
 Premièrement, un peu de contexte.
-Aux alentours de la sortie de *Final Fantasy XIV: Endwalker* (soit, en novembre 2021), j'ai été pris de l'envie de (re)faire tous les épisodes numérotés de la série des *Final Fantasy*
-Suite à la massive déception qu'a été ma partie de *Final Fantasy XI*, j'ai beaucoup de choses à dire.
-Accrochez-vous : il y a beaucoup de points à discuter.
+Aux alentours de la sortie de *Final Fantasy XIV: Endwalker* (soit, en novembre 2021), j'ai été pris de l'envie de (re)faire tous les épisodes numérotés de la série des *Final Fantasy*.
+Suite à la massive déception qu'a été ma partie de *Final Fantasy XI*, je n'aurai qu'une chose à dire: accrochez-vous.
+Il y a moult points à discuter.
 Si vous voulez mon avis sur les autres opus de la série, je vous ramène vers la [page appropriée](index.html).
 
 J'ai profité d'une réduction importante sur le jeu au courant du mois d'août.
@@ -16,11 +16,11 @@ Pour monter en niveau ? Il faut tuer des ennemis en boucle.
 Pour débloquer un nouveau job ? Il faut tuer des ennemis, récupérer des objets ou d'autres quêtes de ce style.
 Même réussir à se connecter pour la première fois est un calvaire...
 
-Mon avis va commencer par le [début du jeu](#au-commencement-était-playonline), à savoir mon ressenti après avoir réussi à me connecter, à créer mon personnage et à me lancer en Vana'diel.
+Mon avis va commencer par le [début du jeu](#au-commencement-etait-playonline), à savoir mon ressenti après avoir réussi à me connecter, à créer mon personnage et à me lancer en Vana'diel.
 Ensuite, on parlera d'une des grandes parties dans un J-RPG, à savoir [le combat](#de-la-baston), suivie immédiatement du [système de jobs](#travailler-pour-progresser).
 On enchaînera avec [l'interface utilisateur](#le-dessous-des-cartes-et-des-menus) et [l'exploration des zones](#longue-promenade-à-travers-les-zones).
-Pour finir les grosses sections en beauté, on dégustera [les quêtes et ce qui sert d'histoire](#le-désespoir-est-éternel-quêtes-et-histoire).
-On finira avec [quelques points divers](#divers--artisanat-et-respect-du-temps), la [musique](#musiques) et, évidemment, [une conclusion](#conclusion).
+Pour finir les grosses sections en beauté, on dégustera [les quêtes et ce qui sert d'histoire](#le-desespoir-est-eternel-quetes-et-histoire).
+On finira avec [quelques points divers](#divers-artisanat-et-respect-du-temps), la [musique](#musiques) et, évidemment, [une conclusion](#conclusion).
 Si vous désirez juste mon avis final, sautez directement à la fin.
 Chaque section commencera par un résumé des points positifs, négatifs ou neutres.
 Le corps du texte rentre en détail pour certains de ces points.
@@ -39,7 +39,7 @@ J'ai fait les premières quêtes de l'extension *Rhapsody for Vana'diel* (la der
       Vu l'âge du jeu, je ne tiens pas rigueur de cet artefact du passé.
   - Points négatifs :
     - [Inscription à *PlayOnline*.](#lancer-le-jeu)
-    - [Création du personnage.](#créer-son-personnage)
+    - [Création du personnage.](#creer-son-personnage)
 
 ## Lancer le jeu
 Commençons donc par le commencement.
@@ -58,7 +58,7 @@ Pour pouvoir jouer à *Final Fantasy XI*, il faut :
   - Naviguer jusqu'à la page d'accueil du jeu (voir liste suivante) et lancer le téléchargement du jeu.
   - Attendre plusieurs heures parce que, bien évidemment, le jeu télécharge un fichier à la fois et depuis des serveurs peu performants.
 
-Maintenant, les étapes à reproduire à chaque fois qu'on veut lancer le jeu (il est possible que j'inverse ou oublie certains étapes) :
+Maintenant, les étapes à reproduire à chaque fois qu'on veut lancer le jeu (il est possible que j'inverse ou oublie certaines étapes) :
 
   - Lancer le client *PlayOnline*.
   - Rentrer son identifiant et son mot de passe (ainsi que le mot de passe à usage unique, si configuré).
@@ -75,28 +75,28 @@ Maintenant, les étapes à reproduire à chaque fois qu'on veut lancer le jeu (i
 ## Créer son personnage
 Sélectionner son personnage se fait facilement.
 Je n'ai rien à dire de particulier.
-Par contre, la création du personnage est assez désagréable pour une simple raison : en fonction de la race et du genre, une animation se lance où le personnage court sur une plaine.
+Par contre, la création du personnage est assez désagréable pour une simple raison : pendant que vous faites votre choix dans les (maigres) options, votre personnage se met à courir dans une plaine.
 Est-ce que vous imaginez réussir à régler le personnage comme vous voulez quand il bouge dans tous les sens et que vous n'avez aucun contrôle sur la caméra ?
 Au bout d'un moment, j'ai choisi des paramètres un peu au hasard.
 Aussi, pour le réglage de la taille, il n'y a aucune indication qui permet de relativiser.
 Je me suis retrouvé avec une elfe toute petite parce que j'ai cru que ce réglage-là permettait de changer son tour de poitrine, pas sa taille.
 Au final, voici Pasia version *XI* :
 
-![Une petite elve rousse à la mine plutôt renfrognée, nommée Pasia.](images/pasia.png)
+![Une petite elve rousse à la mine plutôt renfrognée, nommée Pasia.](images/pasia.png "Une petite elve rousse à la mine plutôt renfrognée.")
 
 Avant de passer à la suite, je tiens à préciser qu'il n'existe aucun moyen de changer la configuration du personnage.
 Une fois Pasia créée, elle restera à l'infini comme elle est.
-Pas de changement de coiffure, pas de *philtre d'illusion* à acheter (il n'y a d'ailleurs même pas de boutique en ligne).
+Pas de changement de coiffure, pas de *philtre d'illusion* à acheter (il n'y a d'ailleurs aucune boutique en ligne, ce qui est très positif).
 
 Une fois la cité-état de départ choisie (dans mon cas, *Bastok* qui correspond à un mélange entre *Ul'dah* et *Limsa Lominsa* dans *XIV*), le début est plutôt sympathique, bien que très abrupt.
-Le jeu te balance très rapidement dans le monde avec comme seule mission d'aller parler à un PNJ qui sert de tutoriel.
-Celui-ci n'étant pas très passionnant (et on sent qu'il a été rajouté après la sortie du jeu), je ne vais pas en parler ici...
+Le jeu offre très rapidement son monde, sans aucune autre indication que d'aller parler à un PNJ précis qui sert de tutoriel et qui n'est pas dans la zone de départ.
+Celui-ci n'étant pas très passionnant (et on sent qu'il a été rajouté après la sortie du jeu), je ne vais pas en parler ici.
 
 # De la baston
 Cette partie et [celle sur les jobs](#travailler-pour-progresser) sont fortement liées.
 
   - Points positifs :
-    - [Le système d'adjuration](#pnjs-dadjuration).
+    - [Le système d'adjuration.](#pnjs-dadjuration)
     - En dehors des combats, il est possible de facilement régénérer ses points de vie et de magie.
       En appuyant sur une touche, le personnage se met à genoux et, tant qu'il est dans cette position, il va se soigner passivement.
     - Le personnage possède un niveau d'affinité par catégorie d'armes et de sorts.
@@ -105,7 +105,7 @@ Cette partie et [celle sur les jobs](#travailler-pour-progresser) sont fortement
     - De ce que j'ai vu (mais j'insiste sur le fait que c'est une toute petite partie), les armures pour personnages féminins ne sont **pas** des bikinis.
   - Points négatifs :
     - Réussir à sélectionner sa cible.
-    - [Déroulement d'un combat](#déroulement-dun-combat).
+    - [Déroulement d'un combat.](#deroulement-dun-combat)
     - Le système de régénération de points de vie hors combat est très lent (surtout pour les PM).
     - Un design de super-boss qui est volontairement et ouvertement conçu pour punir les joueurs.
       Si vous désirez des informations, allez voir la vidéo de *Final Fantasy Union* sur [Absolute Virtue](https://www.youtube.com/watch?v=aaiZCZ0HY1w).
@@ -133,6 +133,7 @@ Pour les jobs non-magiques, vous rajoutez le droit d'utiliser des objets et vous
 Les mages, de leur côté, peuvent en plus lancer des sorts, ce qui consomme des PM.
 
 C'est parti pour les points négatifs :
+
   - Lorsqu'on lance le combat (voir point 2), il y a très souvent un gros délai entre l'ordre et le lancement du combat en tant que tel.
     Pendant ce temps-là, on attend...
   - La plupart du temps, le personnage ne va pas cibler l'ennemi suivant, même si ce dernier est déjà en train de lui mordre les chevilles.
@@ -149,7 +150,7 @@ Ceci veut dire que les statistiques sont régies par le job et le niveau de job.
 Contrairement à *Final Fantasy V* (par exemple), il n'est pas question d'augmenter les statistiques de façon permanente.
 
   - Points positifs :
-    - [Principe de sous-job](#un-deuxième-travail)
+    - [Principe de sous-job.](#un-deuxieme-travail)
     - Pour les 30-40 premiers niveaux, le gain d'expérience est très rapide, surtout en exploitant les différents bonus donnés en jeu.
     - Pas mal de pièces d'équipement sont partagées par plusieurs jobs, ce qui réduit la quantité de pièces à devoir récupérer, au total.
     - Malgré le système de combat très rudimentaire, j'ai l'impression que les jobs ont leur propre identité.
@@ -160,14 +161,14 @@ Contrairement à *Final Fantasy V* (par exemple), il n'est pas question d'augmen
       Pour aller plus loin, il faut faire une quête tous les cinq niveaux.
       À noter que ces quêtes doivent être faites une fois par personnage.
       Une fois la quête pour aller jusqu'au niveau 55, tous les jobs peuvent atteindre ce palier.
-      Je donne un exemple dans [la partie sur les quêtes](#le-désespoir-est-éternel-quêtes-et-histoire).
+      Je donne un exemple dans [la partie sur les quêtes](#le-desespoir-est-eternel-quetes-et-histoire).
     - **En cas de mort, on perd une partie de son expérience.**
 
-Après avoir parlé du système de sous-job, je vais me concentrer sur [les mages](#magie-colorée) et [le chevalier dragon](#chevalier-dragon), à savoir les jobs que j'ai testés.
+Après avoir parlé du système de sous-job, je vais me concentrer sur [les mages](#magie-coloree) et [le chevalier dragon](#chevalier-dragon), à savoir les jobs que j'ai testés.
   
 ## Un deuxième travail ?
-En plus du job principal (qui régit les statistiques), on peut configurer un sous-job (ou job du support).
-Ce sous-job ne va pas gagner d'expérience mais permet de débloquer les compétences et sorts accessibles pour ce sous-job.
+En plus du job principal (qui régit les statistiques), on peut configurer un sous-job (ou job de support).
+Ce sous-job ne va pas gagner d'expérience mais permet de débloquer les compétences et sorts spécifiques (et préalablement débloqués).
 Cependant, le niveau du sous-job suit deux contraintes :
 
   - Le niveau du sous-job ne peut pas dépasser le niveau de ce job.
@@ -181,14 +182,17 @@ Si le gain d'expérience était activé, ça aurait pu être un chouette systèm
 ## Magie colorée
 Je vais ici parler des trois écoles de magie que j'ai testées : rouge, noire et blanche.
 Même s'il existe d'autres jobs magiques, je ne les ai pas débloqués et je ne vais pas donc pas en parler.
-Je vous invite à lire la quête pour débloquer l'invocateur décrite [plus bas](#en-quête-dinvocations) pour comprendre pourquoi je n'ai pas essayé d'en débloquer plus.
+Je vous invite à lire la quête pour débloquer l'invocateur décrite [plus bas](#en-quete-dinvocations) pour comprendre pourquoi je n'ai pas essayé d'en débloquer plus.
 
 Premièrement, les magies ne se débloquent pas en fonction du niveau.
 Comme dans les anciens *Final Fantasy*, il faut les acheter auprès de vendeurs spécialisés.
 Ce système ne me dérange pas du tout.
-Par contre, contrairement aux anciens jeux, les ennemis ne rapportent pas suffisamment de gils que pour pouvoir acheter tous les sorts facilement.
+Par contre, contrairement aux anciens jeux[^1], les ennemis ne rapportent pas suffisamment de gils que pour pouvoir acheter tous les sorts facilement.
 Autrement dit, il ne suffit pas de passer 10-20 minutes à tuer des ennemis autour d'un village pour récupérer tous les sorts.
 C'est donc fastidieux de débloquer la véritable puissance d'un mage, ce qui ne facilite clairement pas sa prise en main, ni le gain de niveau.
+
+[^1]: Je me dois d'adoucir mes propos: les versions originales des premiers *Final Fantasy* demandaient également de tuer des monstres pendant un bon bout de temps pour pouvoir acheter tous les sorts.
+Ma comparaison se fait surtout vis-à-vis des versions plus modernes (à savoir les *Pixel Remaster*).
 
 Cette difficulté est renforcée par le fait que les sorts donnent l'impression de faire autant de dégâts que des pétards mouillés.
 En fait, ils deviennent vite obsolètes et inefficaces.
@@ -219,16 +223,17 @@ Accrochez-vous pour la suite.
     - La carte présente une fonction pour lister les PNJs et ennemis aux alentours.
     - Le système de macros est très souple.
   - Points négatifs :
-    - [La carte du monde](#carte-des-zones).
-    - [Tous les menus, surtout l'inventaire](#inventaires).
+    - [La carte du monde.](#carte-des-zones)
+    - [Tous les menus, surtout l'inventaire.](#inventaires)
     - Charger le menu qui permet de lancer un combat instancié (nécessaire pour certaines quêtes) prend beaucoup trop longtemps.
     - Il faut attendre 30 secondes pour se déconnecter, même en ville.
       Seule la chambre personnelle permet de se déconnecter instantanément.
-    - [Les PNJs ont une fâcheuse tendance à avoir des accents](#dialogues).
+    - [Les PNJs ont une fâcheuse tendance à avoir des accents.](#dialogues)
       Le jeu n'étant pas doublé, il faut alors **lire** ces accents.
 
 ## Carte des zones
-Cependant, pour trouver ce PNJ-tutoriel, il faut avoir une idée d'où il se trouve.
+J'ai mentionné [précédemment](#creer-son-personnage) que le tutoriel se fait en discutant avec un PNJ.
+Cependant, l faut avoir une idée d'où se trouve ce dernier.
 Le premier réflexe est d'ouvrir la carte, n'est-ce pas ?
 Mais comment faire ?
 Le bouton *M* ne fait rien...
@@ -241,10 +246,11 @@ Les macros sont groupées par livre et par ensemble.
 Chaque ensemble contient une dizaine de macros quand on enfonce la touche *control* et une dizaine pour *alt*.
 Le personnage possède 20 livres, chacun contenant 10 ensembles.
 On a donc accès à 4000 macros différentes, ce qui est très généreux.
+On peut alors configurer une macro qui ne sert qu'à ouvrir la carte, histoire d'avoir un peu plus de confort.
 
 Une fois la carte ouverte, vous voyez ce genre d'écran :
 
-![La carte de la zone *North Gustaberg*. La carte montre les limites de la zone et met en évidence les cours d'eau et les chemins, ainsi que les connexions avec les zones proches. En haut à droite, un menu est affiché et permet de sélectionner des marqueurs, de faire un scan de la zone ou d'ouvrir une autre carte.](images/map.png)
+![La carte de la zone *North Gustaberg*. La carte montre les limites de la zone et met en évidence les cours d'eau et les chemins, ainsi que les connexions avec les zones proches. En haut à droite, un menu est affiché et permet de sélectionner des marqueurs, de faire un scan de la zone ou d'ouvrir une autre carte.](images/map.png "La carte de la zone North Gustaberg. Les chemins et cours d'eau sont clairement dessinés, ainsi que les connexions avec les zones proches.")
 
 C'est très épuré...
 Probablement un peu trop.
@@ -252,11 +258,11 @@ Les chemins sont certes indiqués mais manquent de clarté.
 De plus, dans certains endroits, la carte n'affiche pas si le chemin peut être emprunté ou non.
 Parfois, après plusieurs minutes de marche, on tombe sur une porte fermée qui n'est pas indiquée sur la carte.
 Par exemple, sur l'image ci-dessus, il y a en réalité deux parties complètement distinctes : la partie à l'est est beaucoup plus basse que celle à l'ouest.
-Bien que la délimitation soit marquée par un trait foncé avec une ombre, ce n'est pas très clair si on peut passer d'une partie à l'autre (on ne peut pas, il faut changer de zone).
+Bien que la délimitation soit marquée par un trait foncé avec une ombre, ce n'est pas très clair si on peut passer d'une partie à l'autre (on ne peut pas, il faut passer par la ville).
 
-Aussi, il faut acheter les cartes, sous peine de quoi on se retrouve avec cet écran :
+Aussi, il faut acheter les cartes, sous peine de quoi on se retrouve avec un écran encore plus épuré :
 
-![La fenêtre de carte indique simplement "NO MAP", avec un message d'erreur en bas de l'écran indiquant que je n'ai pas la carte de la zone.](images/no_map.png)
+![La fenêtre de carte indique simplement "NO MAP", avec un message d'erreur en bas de l'écran indiquant que je n'ai pas la carte de la zone.](images/no_map.png "La carte n'est pas disponible.")
 
 Cependant, il y a un point très positif lié à la carte : on peut chercher les PNJs et les ennemis dans les alentours, y compris dans les zones dont on ne possède pas la carte.
 Par exemple, si vous cherchez *Cid* et que vous savez dans quelle zone il est, vous pouvez faire un *Wide scan* pour lister les PNJs.
@@ -266,7 +272,7 @@ La boussole est ridiculement petite mais cette fonctionnalité de recherche est 
 ## Inventaires
 Passons maintenant aux autres menus.
 Je n'ai malheureusement pas fait de capture d'écran pour illustrer mes propos.
-Je vais donc vous donner une idée du côté peu intuitif et très désagréable des menus : la gestion de l'inventaire.
+Je vais donc vous donner une idée du côté peu intuitif et très désagréable des menus via la gestion de l'inventaire.
 En fait, vous avez plusieurs inventaires :
 
   - Les poches de votre personnage (qui peuvent être agrandies en faisant certaines quêtes).
@@ -291,7 +297,7 @@ N'hésitez pas à exploiter ceci pour libérer pas mal d'espace !
 
 ## Dialogues
 Finissons la partie sur l'interface avec les dialogues.
-Ici, je ne veux pas parler de ce qui est dit mais plutôt de comment c'est dit.
+Ici, je ne veux pas parler de ce qui est dit mais plutôt de comment qu'c'est dit.
 
 Les dialogues s'affichent toujours dans la fenêtre de log.
 Si vous voulez un exemple, vous pouvez aller regarder l'image de Pasia plus haut.
@@ -301,19 +307,12 @@ Autrement dit, tant qu'on ne se déconnecte pas, on peut relire les dialogues.
 Plutôt pratique pour trouver son chemin selon les directions données.
 
 Il y a un point qui a rendu la compréhension de certains dialogues compliquée : beaucoup de PNJs ont des accents ou des tics de langage dûs à leur race.
-Par exemple, les pirates mâchent leurs mots, les *Tarutaru* (l'équivalent des *Lalafell* dans *XIV*) rajoutent des syllabes au milieu de certains mots, etc.
+Par exemple, les pirates n'articulent pas, les *Tarutaru* (l'équivalent des *Lalafell* dans *XIV*) rajoutent des syllabes au milieu de certains mots, etc.
 Ces particularités linguistiques servent à caractériser les personnages (même si c'est un peu facile et pas super intéressant) et ne rendent pas les dialogues incompréhensibles...
 Mais pour un non-natif (comme moi), ces changements de langage font que certains dialogues importants demandent plus d'efforts pour être compris que sans.
 À la longue, ça devient juste usant de devoir traduire ce que le PNJ raconte pour comprendre des phrases simples.
 
-<figure>
-  <a href="images/tarutaru_dialogue.png">
-    <img class="clickableImage" src="images/tarutaru_dialogue.png" alt="Une réplique d’un Tarutaru. Les mots étrangement prononcés sont “problemaroo” (pour “probleme”) et “diff-doffily-different” (pour “different”). Une fois traduite, la phrase donne “Des chercheurs venus des quatre coins de Vana’diel ont mis leurs joyeuses têtes ensemble pour résoudre ce problème. Nous somme arrivés à plusieurs idées différentes, mais…” Les déformations ne rendent pas le texte incompréhensibles mais c’est compliqué pour pas grande chose." />
-  </a>
-  <figcaption aria-hidden="true">
-Une réplique d’un Tarutaru. Les mots étrangement prononcés sont “problemaroo” (pour “probleme”) et “diff-doffily-different” (pour “different”). Une fois traduite, la phrase donne “Des chercheurs venus des quatre coins de Vana’diel ont mis leurs joyeuses têtes ensemble pour résoudre ce problème. Nous somme arrivés à plusieurs idées différentes, mais…” Les déformations ne rendent pas le texte incompréhensibles mais c’est compliqué pour pas grande chose. Cliquez sur l'image pour l'agrandir.
-  </figcaption>
-</figure>
+![Un exemple d'une ligne prononcée par un Tarutaru: Researches from all over Vana'diel put their happy heads together to solve the problemaroo. We came up with many diff-doffily-different ideas, but...](images/tarutaru_dialogue.png "Une réplique d’un Tarutaru. Les mots étrangement prononcés sont “problemaroo” (pour “probleme”) et “diff-doffily-different” (pour “different”). Une fois traduite, la phrase donne “Des chercheurs venus des quatre coins de Vana’diel ont mis leurs joyeuses têtes ensemble pour résoudre ce problème. Nous somme arrivés à plusieurs idées différentes, mais…” Les déformations ne rendent pas le texte incompréhensibles mais c’est compliqué pour pas grande chose.")
 
 # Longue promenade à travers les zones
   - Points positifs :
@@ -325,7 +324,7 @@ Une réplique d’un Tarutaru. Les mots étrangement prononcés sont “problema
   - Points neutres :
     - [Les montures](#montures).
   - Points négatifs :
-    - [La téléportation](#téléportation).
+    - [La téléportation](#teleportation).
     - Dans les zones, il y a des objets avec lesquels on peut interagir (parfois nécessaires pour des quêtes).
       Seulement, ils ne sont pas du tout visibles.
       On perd donc du temps à juste tourner en rond dans une zone et à marteler la touche pour changer de cible en espérant tomber sur ce qu'on cherche.
@@ -346,6 +345,7 @@ Et il y en a un paquet :
 
   - Les cristaux.
   - Dans (quasiment) chaque zone se trouve un livre qui peut servir de point d'arrivée, une fois qu'on a interagi avec une fois.
+    Il faut interagir avec un livre pour se téléporter vers un autre.
   - Les Mages blancs ont accès à des sorts de téléportation qui peuvent être activés n'importe où vers des cristaux (distincts de ceux du premier point).
     Chaque cristal est lié à son propre sort, pour un total de 9 sorts.
     Comme pour les deux points précédents, en plus du sort, il faut déjà avoir interagi avec le cristal.
@@ -365,7 +365,7 @@ Il est important de noter que le jeu possède un système de montures.
 Vu que j'ai arrêté peu de temps après avoir débloqué le droit d'appeler ma première monture, je ne me suis pas intéressé à savoir comment en débloquer.
 Cependant, je tenais à partager cette image.
 
-![Pasia sur une sorte de raptor bleu.](images/mount.png)
+![Pasia sur une sorte de raptor bleu.](images/mount.png "Pasia sur une sorte de raptor bleu.")
 
 # *Le désespoir est éternel* : quêtes et histoire
   - Points positifs :
@@ -384,7 +384,7 @@ Cependant, je tenais à partager cette image.
       Autrement dit, ce n'est pas voulu et on ne comprend pas ce qu'il se passe.
       Un changement de zone pour aller chez un vendeur et, paf, le jeu montre une fille qui prie devant un immense cristal.
     - Une grande partie des quêtes.
-      Je donne [plus bas quelques exemples](#quelques-quêtes).
+      Je donne [plus bas quelques exemples](#quelques-quetes).
     - Certaines quêtes demandent des objet-clés pour ouvrir des portes.
       Les récupérer est une tâche pénible...
       Mais si on connaît quelqu'un qui joue au jeu et qui les a déjà, il peut nous ouvrir les portes et nous laisser avancer.
@@ -429,7 +429,7 @@ Bonne idée, non ?
 Oh, et si vous voulez vraiment faire cette extension, sachez que vous serez obligé·e de quand même avancer dans les autres, certains chapitres demandant d'avoir accompli certaines quêtes.
 
 Si vous désirez avoir une idée du scénario, je vous invite à lire le très bon résumé de [Finaland](https://www.finaland.com/?rub=ff11&page=scenario).
-Honnêtement, c'est bien plus intéressant et excitant de lire ces pavés de texte que de vivre l'histoire.
+Honnêtement, c'est bien plus intéressant et excitant de lire leurs résumés que de vivre l'histoire.
 
 ## Quelques quêtes
 Je vais maintenant parler de trois quêtes en particulier.
@@ -440,7 +440,7 @@ Comme dit plus haut, il faut faire des quêtes pour augmenter le niveau maximal.
 Dans l'idée, je trouve ça déjà pénible mais admettons.
 Par contre, est-ce que c'était vraiment une bonne idée de faire une [quête](https://www.bg-wiki.com/ffxi/Whence_Blows_the_Wind) qui demande de récupérer des mots de passe...
 En sachant que ces mots de passe changent **chaque jour en jeu** ?
-Pour quelque qui concerne le gameplay le plus basique possible, est-ce que c'était vraiment nécessaire de [devoir récupérer trois objet-clés](https://www.bg-wiki.com/ffxi/In_Defiant_Challenge), tous dans des zones différentes et bien éloignées ?
+Pour quelque chose qui concerne le gameplay le plus basique possible, est-ce que c'était vraiment nécessaire de [devoir récupérer trois objet-clés](https://www.bg-wiki.com/ffxi/In_Defiant_Challenge), tous dans des zones différentes et bien éloignées ?
 Pourquoi est-ce que juste atteindre le niveau max doit être aussi pénible ?
 
 ### Même Gerolt serait dépité
@@ -451,10 +451,12 @@ Rassurez-vous, cela ira vite car on peut résumer **ces** quêtes (oui, il y en 
   - Les pièces ont un niveau minimum pour être équipées.
     Par exemple, les chaussures demandent d'être niveau 52.
     Les ennemis dans les zones à traverser massacrent les personnages niveau 52.
-    Un *délice*.
+    Un *délice*.[^2]
   - Certaines pièces ne sont, en vérité, pas des récompenses de quêtes.
     Ils sont dans des coffres dans des zones bien précises.
     Naturellement, **rien** n'indique où sont ces coffres.
+
+[^2]: Aller récupérer les équipements est probablement plus agréable à plusieurs. Encore une fois, j'ai joué au jeu en solitaire, ce qui n'est pas forcément la meilleure idée.
 
 ### En quête d'invocations
 Finissons par la meilleure quête : celle pour débloquer l'invocateur.
@@ -507,7 +509,7 @@ Les deux derniers points négatifs m'amènent à dresser la conclusion suivante 
     - J'ai un petit faible pour la musique du [duché de Jeuno](https://www.youtube.com/watch?v=CnNM2i_jeAo).
   - Points négatifs :
     - [La musique de l'événement d'été](https://www.youtube.com/watch?v=qQ-E_mZca9M).
-      Imaginez cette musique en boucle pendant toute la nuit, dès que vous mettez le point dans une ville.
+      Imaginez cette musique en boucle pendant toute la nuit, dès que vous mettez un pied dans une ville.
       Elle me rend dingue.
 
 # Conclusion
@@ -515,7 +517,7 @@ Ma conclusion est très acide : **je comprends parfaitement pourquoi la premièr
 Quand les développeurs font des jeux qui crachent ouvertement à la tête de ses joueurs et joueurs, il est normal que les retours ne sont pas positifs.
 J'ai même du mal à comprendre comment *Final Fantasy XI* a pu avoir du succès.
 Pour moi, le jeu est rempli d'erreurs de game design.
-Je comprends que le monde de MMORPGs était très différent en 2002 mais ça n'excuses pas le déplaisir immense que fait ressentir ce jeu.
+Je comprends que le monde de MMORPGs était très différent en 2002 mais ça n'excuse pas le déplaisir immense que fait ressentir ce jeu.
 
 Bien sûr, mon ressenti n'est pas celui de quelqu'un qui a lancé le jeu à sa sortie.
 Toutes les extensions et les modifications apportées durant les 20 années de son existence ont énormément modifié le jeu.
@@ -537,3 +539,10 @@ Typiquement, je ne voulais pas commencer les extensions avant d'avoir fini le je
 Je ne sais pas si c'était une mauvaise idée...
 
 Voici donc ma conclusion finale : *Final Fantasy XI* est un **mauvais jeu qui ne respecte pas ses joueuses et joueurs**.
+
+## Un an après
+
+À peu près un an après avoir écrit cette page, je reviens pour rajouter quelque chose : le monde de Vana'diel continue à tourner dans ma tête.
+Je reste profondément curieux de voir ce que je n'ai pas vu, de découvrir d'autres nations, de nouveaux continents, etc.
+Malgré tous mes reproches, l'univers a réussi à me marquer.
+Donc, bravo *Final Fantasy XI*, j'imagine?
