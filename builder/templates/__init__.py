@@ -32,7 +32,7 @@ class Template(abc.ABC):
         head = f"""
 <head>
 <meta charset="utf-8" />
-<title>{title}</title>
+<title>{title} -- {global_setup.title}</title>
     """
         for css in self.css_files:
             url = add_base_url(global_setup.base_url, css)
