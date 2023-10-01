@@ -11,6 +11,7 @@ import markdown.extensions.wikilinks
 import md2html_links
 
 import builder.templates
+import builder.extensions
 
 
 @dataclass
@@ -64,6 +65,7 @@ def build_site(
             "caption",
             "image_captions",
             "table_captions",
+            builder.extensions.ClickableImageExtension(),
         ],
         extension_configs={"toc": {"toc_depth": 2}},
     )
