@@ -1,7 +1,7 @@
----
 title: Index francophone
----
 
 Bienvenue sur la version francophone du site.
 
-  - [Jeux vidéos](games/index.md)
+# Jeux Vidéos
+
+  * [Une critique de chaque *Final Fantasy* numéroté.](FF/index.md)

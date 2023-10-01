@@ -1,6 +1,7 @@
----
 title: La série des Final Fantasy
----
+
+!!! attention ""
+    N'ayant pas fini de (re)jouer à tous les titres, cette page est par essence incomplète.
 
 À la base, je voulais simplement écrire mon ressenti sur *Final Fantasy XI*.
 Quite à écrire sur un jeu, autant écrire sur tous les épisodes principaux de la série, non ?
