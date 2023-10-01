@@ -8,7 +8,8 @@
         --background-primary: #ecf2ff;
         --background-secondary: #b0c5ff;
         --color-primary: black;
-        --color-secondary: #5900ff;
+        --color-secondary: #2f71ff;
+        --link-default: #5900ff;
         --link-visited: #470068;
         --link-hover: #15008b;
     }
@@ -19,10 +20,18 @@
         --background-primary: #252525;
         --background-secondary: #383838;
         --color-primary: white;
-        --color-secondary: #ffda8b;
+        --color-secondary: #ce9e60;
+        --link-default: #ffda8b;
         --link-visited: #ffc9aa;
         --link-hover: #ff8800;
     }
+}
+
+@font-face {
+    font-family: 'NotoSerif';
+    src: url("font/NotoSerif-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
@@ -31,6 +40,8 @@ body {
     margin: 0;
     text-align: justify;
     min-height: 100vh;
+    min-width: 270px;
+    font-family: "NotoSerif", "Times New Roman", Times, serif;
 }
 
 header {
@@ -49,20 +60,30 @@ header {
 }
 
 header .title {
-    width: 40%;
+    width: 30%;
 }
 
 header nav {
     display: flex;
     overflow: hidden;
-    justify-content: space-between;
-    width: 50%;
+    justify-content: right;
+    width: 70%;
+    text-align: left;
+}
+
+header nav div:nth-child(n+2) {
+    margin-left: 20px;
 }
 
 main {
     margin-left: 10%;
     margin-right: 20%;
-    min-height: calc(100vh - var(--footer-height) - var(--header-height) - 15.6px);
+    min-height: calc(100vh - var(--footer-height) - var(--header-height));
+}
+
+main *:nth-child(1) {
+    margin-top: 0px;
+    padding-top: 15px;
 }
 
 footer {
@@ -94,7 +115,7 @@ img {
 }
 
 a {
-    color: var(--color-secondary);
+    color: var(--link-default);
 }
 a:visited {
     color: var(--link-visited);
@@ -131,6 +152,11 @@ i.contact-icon::before {
     font-size: 15px;
 }
 
+.admonition {
+    color: var(--color-secondary);
+    font-style: italic;
+}
+
 @media only screen and (max-height: 800px) {
     .toc ul li ul li {
         display: none;
@@ -144,5 +170,9 @@ i.contact-icon::before {
 
     main {
         margin-right: 10%;
+    }
+
+    header nav div:nth-child(n+3) {
+        display: none;
     }
 }
