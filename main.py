@@ -21,7 +21,7 @@ global_setup = builder.Global(
     base_url="https://docskellington.github.io/",
     links_in_header=[
         ("Home page", "index.html"),
-        ("Academic CV", ""),
+        ("Academic CV", "academic/index.html"),
         ("Non-academic part (English)", "nonacademic/en/index.html"),
         ("Non-academic part (French)", "nonacademic/fr/index.html"),
     ],
