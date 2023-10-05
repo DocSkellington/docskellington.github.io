@@ -1,6 +1,6 @@
 :root {
-    --header-height: 50px;
-    --footer-height: 50px;
+    --header-height: max(50px, 6vh);
+    --footer-height: max(50px, 6vh);
 }
 
 @media (prefers-color-scheme: light) {
