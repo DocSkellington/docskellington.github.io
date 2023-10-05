@@ -21,7 +21,7 @@ While I highlight here some facts, I kindly refer you to my [academic curriculum
   * My PhD contract will end on the 30th September 2024.
     This means that I am searching postdoc position(s).
     If you wish to collaborate, feel free to [contact me](email:gaetan.staquet@gmail.com).
-  * With my two PhD advisors Véronique Bruyère (UMons) and Guillermo A. Pérez (UAntwerpen), and Frits W. Vaandrager, we won a best paper award at FORMATS 2023 for *Automata with Timers*.
+  * With my two PhD advisors Véronique Bruyère (UMONS) and Guillermo A. Pérez (UAntwerpen), and Frits W. Vaandrager, we won a best paper award at FORMATS 2023 for *Automata with Timers*.
   * I enjoy programming.
     For instance, this website is automatically generated from Markdown files.
     You can find all my open-source projects on my [GitHub page](https://github.com/DocSkellington).
