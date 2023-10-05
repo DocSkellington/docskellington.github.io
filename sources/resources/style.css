@@ -140,7 +140,6 @@ a:hover {
 
 .toc {
     float: right;
-    position: sticky;
     right: 0;
     top: var(--header-height);
     width: 15%;
