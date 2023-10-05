@@ -21,16 +21,17 @@ class DefaultTemplate(builder.templates.Template):
         global_setup: builder.Global,
         toc: str,
     ) -> str:
-        title = metadata.get("title", [""])[0]
-        head = self._head(title, global_setup)
+        title = ""
+        title_html = ""
+        if "title" in metadata:
+            title = metadata["title"][0]
+            title_html = f'<h1 class="page-title">{title}</h1>'
 
-        document = f"<html>\n{head}"
-        document += self._header(metadata, global_setup)
-        document += toc
-        document += f"<main>{body}</main>"
-        document += self._footer(metadata, global_setup)
-        document += "</html>"
-        return document
+        head = self._head(title, global_setup)
+        header = self._header(metadata, global_setup)
+        footer = self._footer(metadata, global_setup)
+
+        return f"<html>{head}{header}{toc}<main>{title_html}{body}</main>{footer}</html>"
 
     def _header(self, metadata: Dict[str, Any], global_setup: builder.Global) -> str:
         header = "<header>"

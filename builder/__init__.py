@@ -67,7 +67,7 @@ def build_site(
             "table_captions",
             builder.extensions.ClickableImageExtension(),
         ],
-        extension_configs={"toc": {"toc_depth": 2}},
+        extension_configs={"toc": {"toc_depth": 3, "baselevel": 2}},
     )
 
     for file in input_folder.iterdir():
