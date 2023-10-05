@@ -18,8 +18,8 @@ jobs:
           cache: 'pipenv'
       - name: Update pip
         run: pip install --upgrade pip
-      - name: Install setuptools wheel and pipenv
-        run: pip install --upgrade setuptools wheel pipenv
+      - name: Install pipenv
+        run: pip install pipenv
       - name: Install dependencies
         run: pipenv install
       - name: build website
