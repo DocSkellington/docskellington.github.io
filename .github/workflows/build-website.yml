@@ -1,0 +1,29 @@
+name: build-website
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - name: Update pip
+        run: pip install --upgrade pip
+      - name: Install setuptools wheel and pipenv
+        run: pip install --upgrade setuptools wheel pipenv
+      - name: Install dependencies
+        run: pipenv install
+      - name: build website
+        run: make build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: output
