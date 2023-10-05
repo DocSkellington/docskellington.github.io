@@ -66,6 +66,7 @@ def build_site(
             "image_captions",
             "table_captions",
             builder.extensions.ClickableImageExtension(),
+            "smarty",
         ],
         extension_configs={"toc": {"toc_depth": 3, "baselevel": 2}},
     )
