@@ -31,7 +31,7 @@ class DefaultTemplate(builder.templates.Template):
         header = self._header(metadata, global_setup)
         footer = self._footer(metadata, global_setup)
 
-        return f"<html>{head}{header}{toc}<main>{title_html}{body}</main>{footer}</html>"
+        return f"<!DOCTYPE html><html>{head}{header}{toc}<main>{title_html}{body}</main>{footer}</html>"
 
     def _header(self, metadata: Dict[str, Any], global_setup: builder.Global) -> str:
         header = "<header>"
