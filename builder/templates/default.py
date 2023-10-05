@@ -34,7 +34,7 @@ class DefaultTemplate(builder.templates.Template):
 
     def _header(self, metadata: Dict[str, Any], global_setup: builder.Global) -> str:
         header = "<header>"
-        header += f"<div class='title'>{global_setup.title}</div>"
+        header += f"<div><a href='{builder.templates.add_base_url(global_setup.base_url, '''index.html''')}' class='title'>{global_setup.title}</a></div>"
         header += "<nav>"
         for link in global_setup.links_in_header:
             header += f"<div class='link'><a href='{builder.templates.add_base_url(global_setup.base_url, link[1])}'>{link[0]}</a></div>"
