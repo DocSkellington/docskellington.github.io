@@ -79,7 +79,6 @@ main {
     margin-left: 10%;
     margin-right: 20%;
     margin-bottom: 6em;
-    min-height: calc(100vh - var(--header-height));
 }
 
 main > *:nth-child(1) {
