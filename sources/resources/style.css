@@ -121,14 +121,12 @@ img {
 
 a {
     color: var(--link-default);
-    text-decoration: none;
 }
 a:visited {
     color: var(--link-visited);
 }
 a.title {
     color: var(--color-primary);
-    text-decoration: none;
     font-size: x-large;
 }
 a:hover {
@@ -148,6 +146,13 @@ a:hover {
     margin-right: 20px;
     text-align: left;
     font-size: 90%;
+}
+.toc a {
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
 }
 
 i.contact-icon,
