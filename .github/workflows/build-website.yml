@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
@@ -22,10 +23,33 @@ jobs:
         run: pip install pipenv
       - name: Install dependencies
         run: pipenv install
+
       - name: build website
         run: make build
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+
+      - name: Fix permissions
+        run: |
+          chmod -c -R +rX "output/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: output
+          path: "output/"
+
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
