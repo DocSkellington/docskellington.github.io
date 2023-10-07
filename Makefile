@@ -6,6 +6,6 @@ dependencies:
 	pipenv install --dev
 
 clean:
-	rm -r output
+	rm -fr output
 	rm -fr .venv
 	rm Pipfile.lock
