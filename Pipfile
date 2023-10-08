@@ -9,9 +9,9 @@ pygments = "*"
 markdown-katex = "*"
 md2html-links = {editable = true, git = "https://github.com/ricmua/markdown-md2html_links"}
 caption = {editable = true, git = "https://github.com/flywire/caption"}
+websitebuilder = {editable = true, ref = "v1.1.0", git = "https://github.com/DocSkellington/WebsiteBuilder.git"}
 
 [dev-packages]
-pylint = "*"
 
 [requires]
 python_version = "3.11"

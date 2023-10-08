@@ -1,5 +1,4 @@
 import pathlib
-import shutil
 import builder
 
 
@@ -28,14 +27,20 @@ global_setup = builder.Global(
     footer=builder.Footer(
         "Website of Gaëtan Staquet, PhD Student in Computer Science.",
         [
-            builder.NetworkLink(
+            builder.Link(
                 "Github", "https://github.com/DocSkellington", "DocSkellington"
             ),
-            builder.NetworkLink(
+            builder.Link(
                 "Orcid", "https://orcid.org/0000-0001-5795-3265", "0000-0001-5795-3265"
-            )
+            ),
         ],
     ),
+)
+
+builder.templates.category_to_icon.add_iconoir("Github", "iconoir-github")
+builder.templates.category_to_icon.add_icon(
+    "orcid",
+    lambda: '<img class="icon orcid" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt=""/>',
 )
 
 remove_dir(output_folder)
