@@ -2,10 +2,12 @@ build:
 	pipenv run python main.py
 
 dependencies:
-	mkdir .venv
+	pipenv --python 3.11
 	pipenv install --dev
 
 clean:
 	rm -fr output
-	rm -fr .venv
-	rm Pipfile.lock
+
+nuke: clean
+	pipenv --rm
+	rm -f Pipfile.lock
