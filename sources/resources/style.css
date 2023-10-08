@@ -78,7 +78,7 @@ header nav div:nth-child(n+2) {
 main {
     margin-left: 10%;
     margin-right: 20%;
-    margin-bottom: 6em;
+    padding-bottom: 6em;
 }
 
 main > *:nth-child(1) {
