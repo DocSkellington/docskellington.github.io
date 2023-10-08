@@ -75,7 +75,7 @@ input_folder = pathlib.Path("sources/")
 output_folder = pathlib.Path("output/")
 global_setup = builder.Global(
     title="Gaëtan Staquet",
-    base_url="file:///home/gaetan/GitHub/Perso/docskellington.github.io/output/",
+    base_url="https://docskellington.github.io/",
     links_in_header=[
         ("Home page", "index.html"),
         ("Academic CV", "academic/index.html"),
