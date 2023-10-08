@@ -5,3 +5,5 @@ _site/
 
 __pycache__/
 output/
+
+sources/academic/*.md
