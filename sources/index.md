@@ -29,5 +29,7 @@ While I highlight here some facts, I kindly refer you to my [academic curriculum
 
 # This website
 
-Apart from the [academic CV](academic/index.md), I also use this website to discuss various things, in [English](nonacademic/en/index.md) or in [French](nonacademic/fr/index.md), depending on the subject.
-Typically, the English part contains programming-related pages, while the French one focuses more on some of my hobbies.
+Apart from the [academic CV](academic/index.md), I also use this website to discuss various things:
+
+  - An [English part](nonacademic/en/index.md) that typically contains programming-related pages (or, rather, will when I will take the time),
+  - A [French part](nonacademic/fr/index.md) that focuses on some of my hobbies.
