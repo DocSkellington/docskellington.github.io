@@ -223,16 +223,16 @@ h3 {
     width: 100%;
 }
 
-.align > div {
-    flex: auto;
-}
-
 .align > div:last-child {
+    flex: auto;
     text-align: right;
     opacity: 60%;
+    width: 25%;
 }
 
 .align > div:first-child {
+    flex: auto;
+    width: 65%;
     text-align: left !important;
     opacity: 100% !important;
 }
