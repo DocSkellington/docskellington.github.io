@@ -224,18 +224,33 @@ h3 {
     width: 100%;
 }
 
-.align > div:last-child {
+.align > div,
+.align > p,
+.details {
+    flex: auto;
+    width: 65%;
+    max-width: 80%;
+    text-align: left;
+    opacity: 100%;
+    margin: 0;
+}
+
+.organization,
+.details {
+    padding-left: 20px;
+}
+
+.align > div:nth-child(2) {
     flex: auto;
     text-align: right;
     opacity: 60%;
     width: 25%;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
-.align > div:first-child {
-    flex: auto;
-    width: 65%;
-    text-align: left !important;
-    opacity: 100% !important;
+.align .links {
+    margin-top: 0 !important;
 }
 
 .item {
@@ -244,6 +259,11 @@ h3 {
 
 .item .title {
     font-size: 140%;
+}
+
+.contact-list {
+    list-style: none;
+    padding-left: 10px;
 }
 
 .logos img {
