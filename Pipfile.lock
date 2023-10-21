@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9488d6888fc9d64e308c2d85137cac552f620bb1eae4f7ac7b0d2270fe2b6429"
+            "sha256": "b14800cb3f1d4de0c769a071197d2ea33f69629752d39873ff87981a396f596a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -19,7 +19,7 @@
         "academiccv-builder": {
             "editable": true,
             "git": "https://github.com/DocSkellington/academiccv-builder.git",
-            "ref": "ebd0e73caa6b57e40b6a655847c7a845e9a6c928"
+            "ref": "23e315f97b2b450252691cbc8ca1c267976cd2f2"
         },
         "caption": {
             "editable": true,

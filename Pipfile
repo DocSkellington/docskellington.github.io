@@ -10,7 +10,7 @@ markdown-katex = "*"
 md2html-links = {editable = true, git = "https://github.com/ricmua/markdown-md2html_links"}
 caption = {editable = true, git = "https://github.com/flywire/caption"}
 websitebuilder = {editable = true, ref = "v1.1.0", git = "https://github.com/DocSkellington/WebsiteBuilder.git"}
-academiccv-builder = {editable = true, ref = "v1.0.0", git = "https://github.com/DocSkellington/academiccv-builder.git"}
+academiccv-builder = {editable = true, ref = "v2.0.0", git = "https://github.com/DocSkellington/academiccv-builder.git"}
 
 [dev-packages]
 
