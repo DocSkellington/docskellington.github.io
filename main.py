@@ -102,6 +102,8 @@ cv_builder.build(
         "resume/publications.json",
         "resume/talks_events.json",
         "resume/teaching.json",
+        "resume/awards.json",
+        "resume/projects.json"
     ]
 )
 
