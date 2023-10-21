@@ -12,7 +12,7 @@
       "level": "BA3 Computer Science",
       "organization": "UMONS",
       "description": "Teaching assistant supervising the practical sessions (Prolog).",
-      "year": "Second semester of academic years 2021 to 2024"
+      "when": "Second semester of academic years 2021 to 2024"
     },
     {
       "course": "Functional programming",
@@ -20,7 +20,7 @@
       "level": "BA3 Computer Science and BA2 Mathematics",
       "organization": "UMONS",
       "description": "Teaching assistant supervising the practical sessions (Scheme).",
-      "year": "First semester of academic years 2021 to 2024"
+      "when": "First semester of academic years 2021 to 2024"
     },
     {
       "course": "Challenges in Artificial Intelligence",
@@ -28,7 +28,7 @@
       "level": "MSc Computer Science",
       "organization": "UMONS",
       "description": "Teaching assistant supervising the practical sessions.",
-      "year": "First semester of academic year 2020 - 2021"
+      "when": "First semester of academic year 2020 - 2021"
     },
     {
       "course": "Programming and Algorithms I",
@@ -36,7 +36,7 @@
       "level": "BA1 Computer Science, BA1 Mathematics, and BA2 Physics",
       "organization": "UMONS",
       "description": "Student teaching assistant supervising the practical sessions (Python 3).",
-      "year": "First semester of academic years 2018 to 2020"
+      "when": "First semester of academic years 2018 to 2020"
     },
     {
       "course": "Programming and Algorithms II",
@@ -44,7 +44,7 @@
       "level": "BA1 Computer Science, and BA1 Mathematics",
       "organization": "UMONS",
       "description": "Student teaching assistant supervising the practical sessions (Java 11).",
-      "year": "Second semester of academic years 2018 to 2020"
+      "when": "Second semester of academic years 2018 to 2020"
     },
     {
       "course": "Programming and Algorithms I and II",
@@ -52,27 +52,28 @@
       "level": "BA1 Computer Science, BA1 Mathematics, and BA2 Physics",
       "organization": "UMONS",
       "description": "Gave courses to students retaking an exam.",
-      "year": "August 2016"
+      "when": "August 2016"
     }
   ],
-  "supervision": [
-    {
-      "Introductory research internship": [
-        {
-          "name": "Nicolas Vallois and Hugo Venturoso",
-          "year": "August and September 2022",
-          "role": "Co-supervised with Véronique Bruyère",
-          "organization": "UMONS, Belgium",
-          "description": "Improvement of an algorithm to compute a data structure needed for our article on JSON validation."
-        },
-        {
-          "name": "Christophe Grandmont",
-          "year": "August 2021",
-          "organization": "UMONS, Belgium",
-          "role": "Co-supervised with Véronique Bruyère and Clément Tamines",
-          "description": "Solving generalized parity games using a symbolic representation."
-        }
-      ]
-    }
-  ]
+  "supervision": {
+    "order": [
+      "Introductory research internship"
+    ],
+    "Introductory research internship": [
+      {
+        "name": "Nicolas Vallois and Hugo Venturoso",
+        "when": "August and September 2022",
+        "role": "Co-supervised with Véronique Bruyère",
+        "organization": "UMONS, Belgium",
+        "description": "Improvement of an algorithm to compute a data structure needed for our article on JSON validation."
+      },
+      {
+        "name": "Christophe Grandmont",
+        "when": "August 2021",
+        "organization": "UMONS, Belgium",
+        "role": "Co-supervised with Véronique Bruyère and Clément Tamines",
+        "description": "Solving generalized parity games using a symbolic representation."
+      }
+    ]
+  }
 }

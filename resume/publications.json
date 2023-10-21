@@ -5,50 +5,51 @@
     "organization": "F.R.S.-FNRS, University of Mons, University of Antwerp",
     "photo": "portrait.png"
   },
-  "publications": [
-    {
-      "Conferences": [
-        {
-          "title": "Automata with Timers",
-          "authors": "Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet, and Frits W. Vaandrager",
-          "where": "Formal Modeling and Analysis of Timed Systems",
-          "shortWhere": "FORMATS",
-          "doi": "10.1007/978-3-031-42626-1_3",
-          "arxiv": "10.48550/arXiv.2305.07451",
-          "reference": "BPSW23",
-          "year": "2023",
-          "note": "Won a Best Paper Award at the conference."
-        },
-        {
-          "title": "Validating Streaming JSON Documents with Learned VPAs",
-          "authors": "Véronique Bruyère, Guillermo A. Pérez, and Gaëtan Staquet",
-          "where": "29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
-          "shortWhere": "TACAS",
-          "reference": "BPS23",
-          "doi": "10.1007/978-3-031-30823-9_14",
-          "arxiv": "10.48550/arXiv.2211.08891",
-          "year": "2023"
-        },
-        {
-          "title": "Learning Realtime One-Counter Automata",
-          "authors": "Véronique Bruyère, Guillermo A. Pérez, and Gaëtan Staquet",
-          "where": "28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
-          "shortWhere": "TACAS",
-          "reference": "BPS22",
-          "doi": "10.1007/978-3-030-99524-9_13",
-          "arxiv": "10.48550/arXiv.2110.09434",
-          "year": "2022"
-        },
-        {
-          "title": "Optimization of Answer Set Programs for Consistent Query Answering by Means of First-Order Rewriting",
-          "authors": "Aziz Amezian El Khalfioui, Jonathan Joertz, Dorian Labeeuw, Gaëtan Staquet, and Jef Wijsen",
-          "where": "29th ACM International Conference on Information and Knowledge Management",
-          "shortWhere": "CIKM",
-          "year": "2020",
-          "reference": "KJLSW20",
-          "doi": "10.1145/3340531.3411911"
-        }
-      ]
-    }
-  ]
+  "publications": {
+    "order": [
+      "Conferences"
+    ],
+    "Conferences": [
+      {
+        "title": "Automata with Timers",
+        "authors": "Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet, and Frits W. Vaandrager",
+        "where": "Formal Modeling and Analysis of Timed Systems",
+        "shortWhere": "FORMATS",
+        "doi": "10.1007/978-3-031-42626-1_3",
+        "arxiv": "10.48550/arXiv.2305.07451",
+        "reference": "BPSW23",
+        "year": "2023",
+        "note": "Won a Best Paper Award at the conference."
+      },
+      {
+        "title": "Validating Streaming JSON Documents with Learned VPAs",
+        "authors": "Véronique Bruyère, Guillermo A. Pérez, and Gaëtan Staquet",
+        "where": "29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+        "shortWhere": "TACAS",
+        "reference": "BPS23",
+        "doi": "10.1007/978-3-031-30823-9_14",
+        "arxiv": "10.48550/arXiv.2211.08891",
+        "year": "2023"
+      },
+      {
+        "title": "Learning Realtime One-Counter Automata",
+        "authors": "Véronique Bruyère, Guillermo A. Pérez, and Gaëtan Staquet",
+        "where": "28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
+        "shortWhere": "TACAS",
+        "reference": "BPS22",
+        "doi": "10.1007/978-3-030-99524-9_13",
+        "arxiv": "10.48550/arXiv.2110.09434",
+        "year": "2022"
+      },
+      {
+        "title": "Optimization of Answer Set Programs for Consistent Query Answering by Means of First-Order Rewriting",
+        "authors": "Aziz Amezian El Khalfioui, Jonathan Joertz, Dorian Labeeuw, Gaëtan Staquet, and Jef Wijsen",
+        "where": "29th ACM International Conference on Information and Knowledge Management",
+        "shortWhere": "CIKM",
+        "year": "2020",
+        "reference": "KJLSW20",
+        "doi": "10.1145/3340531.3411911"
+      }
+    ]
+  }
 }

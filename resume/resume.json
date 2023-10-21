@@ -5,17 +5,7 @@
     "organization": "F.R.S.-FNRS, University of Mons, University of Antwerp",
     "photo": "portrait.png"
   },
-  "summary": [
-    "I am a Research Fellow (PhD student) at the F.R.S.-FNRS, co-supervised by Véronique Bruyère (UMONS) and Guillermo A. Pérez (UAntwerpen).",
-    "My research interests include (and are not limited to)",
-    [
-      "Automata theory",
-      "Active and passive automata learning",
-      "Timed automata",
-      "Formal verification",
-      "Game theory."
-    ]
-  ],
+  "summary": "I am a Research Fellow (PhD student) at the F.R.S.-FNRS, co-supervised by Véronique Bruyère (UMONS) and Guillermo A. Pérez (UAntwerpen).\n\nMy research interests include (and are not limited to):\n\n  * Automata theory,\n  * Active and passive automata learning,\n  * Timed automata,\n  * Formal verification,\n  * Game theory.",
   "contact": {
     "email": [
       "gaetan.staquet@umons.ac.be",
@@ -37,118 +27,56 @@
     "umons.png",
     "uantwerpen.png"
   ],
-  "languages": [
-    {
-      "Natural languages": [
-        {
-          "name": "English",
-          "level": "Fluent"
-        },
-        {
-          "name": "French",
-          "level": "Native"
-        }
-      ]
-    },
-    {
-      "Programming languages": [
-        {
-          "name": "Java",
-          "level": "Advanced"
-        },
-        {
-          "name": "LaTeX, with TikZ",
-          "level": "Advanced"
-        },
-        {
-          "name": "Python",
-          "level": "Intermediate"
-        },
-        {
-          "name": "Prolog",
-          "level": "Advanced beginner"
-        },
-        {
-          "name": "Scheme",
-          "level": "Advanced beginner"
-        },
-        {
-          "name": "Modern C++",
-          "level": "Advanced beginner"
-        },
-        {
-          "name": "C",
-          "level": "Advanced beginner"
-        },
-        {
-          "name": "Rust",
-          "level": "Beginner"
-        }
-      ]
-    }
-  ],
-  "jobs": [
-    {
-      "start": "2020/10/01",
-      "end": "Present",
-      "title": "Research Fellow of the F.R.S.-FNRS (PhD Thesis)",
-      "organization": "F.R.S.-FNRS, UMONS, UAntwerpen, Belgium",
-      "description": [
-        "Title: Improvement of the state of the art regarding the theory of learning algorithms for automata models extended with resources and its applications to black-box model-checking.",
-        "Supervisors:",
-        [
-          "Véronique Bruyère (UMONS)",
-          "Guillermo A. Pérez (UAntwerpen)"
-        ]
-      ]
-    },
-    {
-      "start": "2023/08/01",
-      "end": "2023/10/27",
-      "title": "Research Stay",
-      "organization": "Radbound Universiteit, The Netherlands",
-      "description": [
-        "Research stay to collaborate with Frits W. Vaandrager."
-      ]
-    },
-    {
-      "start": "2019/12/01",
-      "end": "2020/06/15",
-      "title": "Master's Thesis",
-      "organization": "UMONS, Belgium",
-      "description": [
-        "Title: Efficient Learning of Automata and Automata with One Counter.",
-        "Supervisor: Véronique Bruyère.",
-        "Grade: 19/20."
-      ]
-    },
-    {
-      "start": "2019/09/09",
-      "end": "2019/12/03",
-      "title": "Internship",
-      "organization": "UAntwerpen, Belgium",
-      "description": [
-        "Implementation of an active learning algorithm for visibly one-counter automata.",
-        "Supervisor: Guillermo A. Pérez."
-      ]
-    },
-    {
-      "start": "2018/08/01",
-      "end": "2018/08/31",
-      "title": "Research initiation internship",
-      "organization": "UMONS, Belgium",
-      "description": [
-        "Subject: Efficient algorithms for Nash equilibrium computation.",
-        "Supervisors:",
-        [
-          "Aline Goeminne",
-          "Thomas Brihaye",
-          "Véronique Bruyère",
-          "Hadrien Mélot"
-        ]
-      ]
-    }
-  ],
+  "languages": {
+    "order": [
+      "Natural languages",
+      "Programming languages"
+    ],
+    "Natural languages": [
+      {
+        "name": "English",
+        "level": "Fluent"
+      },
+      {
+        "name": "French",
+        "level": "Native"
+      }
+    ],
+    "Programming languages": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "LaTeX, with TikZ",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Prolog",
+        "level": "Advanced beginner"
+      },
+      {
+        "name": "Scheme",
+        "level": "Advanced beginner"
+      },
+      {
+        "name": "Modern C++",
+        "level": "Advanced beginner"
+      },
+      {
+        "name": "C",
+        "level": "Advanced beginner"
+      },
+      {
+        "name": "Rust",
+        "level": "Beginner"
+      }
+    ]
+  },
   "awards": [
     {
       "description": "Best paper award at FORMATS 2023 for our paper Automata with Timers",
@@ -158,45 +86,23 @@
   "projects": [
     {
       "name": "Validating JSON Documents with Learned VPAs",
-      "description": [
-        [
-          "Implementation of oracles to actively learn a JSON document from a JSON schema, of an algorithm to validate streaming JSON documents against a schema, and benchmarks to compare our algorithm and the classical algorithm.",
-          "See our paper \"Validating Streaming JSON Documents with Learned VPAs\" for more information.",
-          "See also the project \"JSON Schema Tools\" for the classical algorithm.",
-          "https://github.com/DocSkellington/ValidatingJSONDocumentsWithLearnedVPA"
-        ]
-      ]
+      "description": "Implementation of oracles to actively learn a JSON document from a JSON schema, of an algorithm to validate streaming JSON documents against a schema, and benchmarks to compare our algorithm and the classical algorithm.\n\nSee our paper \"Validating Streaming JSON Documents with Learned VPAs\" for more information.\nSee also the project \"JSON Schema Tools\" for the classical algorithm.",
+      "homepage": "https://github.com/DocSkellington/ValidatingJSONDocumentsWithLearnedVPA"
     },
     {
       "name": "JSON Schema Tools",
-      "description": [
-        [
-          "Implementation of tools to manipulate JSON schemas, to generate (randomly or exhaustively) JSON documents from a schema, and to validate a JSON document against a schema.",
-          "See our paper \"Validating Streaming JSON Documents with Learned VPAs\" for more information.",
-          "See also the project \"Validating JSON Documents with Learned VPAs\" for a new validation algorithm.",
-          "https://github.com/DocSkellington/JSONSchemaTools"
-        ]
-      ]
+      "description": "Implementation of tools to manipulate JSON schemas, to generate (randomly or exhaustively) JSON documents from a schema, and to validate a JSON document against a schema.\n\nSee our paper \"Validating Streaming JSON Documents with Learned VPAs\" for more information.\n\nSee also the project \"Validating JSON Documents with Learned VPAs\" for a new validation algorithm.",
+      "homepage": "https://github.com/DocSkellington/JSONSchemaTools"
     },
     {
       "name": "Learning Realtime One-Counter Automata",
-      "description": [
-        [
-          "Implementation of an active automata learning for realtime one-counter automata, and benchmarks based on randomly generated automata and on JSON documents.",
-          "See our paper \"Learning Realtime One-Counter Automata\" for more information.",
-          "https://github.com/DocSkellington/LStar-ROCA-Benchmarks"
-        ]
-      ]
+      "description": "Implementation of an active automata learning for realtime one-counter automata, and benchmarks based on randomly generated automata and on JSON documents.\n\nSee our paper \"Learning Realtime One-Counter Automata\" for more information.",
+      "homepage": "https://github.com/DocSkellington/LStar-ROCA-Benchmarks"
     },
     {
       "name": "Learning Visibly One-Computer Automata",
-      "description": [
-        [
-          "Implementation of an active learning algorithm dedicated to visibly one-counter automata.",
-          "Original paper by Daniel Neider and Christof Löding: Learning Visibly One-Counter Automata in Polynomial Time.",
-          "This project was realized during my internship at UAntwerpen, under the supervision of Guillermo A. Pérez"
-        ]
-      ]
+      "description": "Implementation of an active learning algorithm dedicated to visibly one-counter automata, based on a paper by Daniel Neider and Christof Löding: [Learning Visibly One-Counter Automata in Polynomial Time](http://ftp.informatik.rwth-aachen.de/ftp/pub/publications/rwth/informatik/2010/2010-02.pdf).\n\nThis project was realized during my internship at UAntwerpen, under the supervision of Guillermo A. Pérez",
+      "homepage": "https://github.com/DocSkellington/LearningVCA"
     }
   ]
 }

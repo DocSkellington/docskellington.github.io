@@ -1,0 +1,44 @@
+{
+  "jobs": {
+    "order": ["PhD related", "Studies related"],
+    "PhD related": [
+      {
+        "start": "2020/10/01",
+        "end": "Present",
+        "title": "Research Fellow of the F.R.S.-FNRS (PhD Thesis)",
+        "organization": "F.R.S.-FNRS, UMONS, UAntwerpen, Belgium",
+        "description": "Title: Improvement of the state of the art regarding the theory of learning algorithms for automata models extended with resources and its applications to black-box model-checking.\n\nSupervisors: [Véronique Bruyère](http://informatique.umons.ac.be/perso/Bruyere.Veronique/) (UMONS) and [Guillermo A. Perez](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/) (UAntwerpen)."
+      },
+      {
+        "start": "2023/08/01",
+        "end": "2023/10/27",
+        "title": "Research Stay",
+        "organization": "Radboud Universiteit, The Netherlands",
+        "description": "Research stay to collaborate with Frits W. Vaandrager."
+      }
+    ],
+    "Studies related": [
+      {
+        "start": "2019/12/01",
+        "end": "2020/06/15",
+        "title": "Master's Thesis",
+        "organization": "UMONS, Belgium",
+        "description": "Title: Efficient Learning of Automata and Automata with One Counter.\n\nSupervisor: [Véronique Bruyère](http://informatique.umons.ac.be/perso/Bruyere.Veronique/) (UMONS).\nGrade: 19/20."
+      },
+      {
+        "start": "2019/09/09",
+        "end": "2019/12/03",
+        "title": "Internship",
+        "organization": "UAntwerpen, Belgium",
+        "description": "Implementation of an active learning algorithm for visibly one-counter automata.\n\nSupervisor: [Guillermo A. Perez](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/) (UAntwerpen)."
+      },
+      {
+        "start": "2018/08/01",
+        "end": "2018/08/31",
+        "title": "Research initiation internship",
+        "organization": "UMONS, Belgium",
+        "description": "Subject: Efficient algorithms for Nash equilibrium computation.\n\nSupervisors: [Aline Goeminne](https://alinegoeminne.github.io/), [Thomas Brihaye](http://math.umons.ac.be/maef/fr/tbrihaye.html), [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/), and [Hadrien Mélot](http://informatique.umons.ac.be/staff/Melot.Hadrien/)."
+      }
+    ]
+  }
+}

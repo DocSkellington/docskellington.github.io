@@ -2,7 +2,7 @@ import pathlib
 import builder
 import cvbuilder
 import cvbuilder.contexts.latex
-import cvbuilder.contexts.html # Temporary workaround for a bug in the library
+import cvbuilder.contexts.html  # Temporary workaround for a bug in the library
 from cvbuilder.contexts.markdown import MarkdownContext
 from cvbuilder.modules.contact import ContactModule
 from cvbuilder.modules.logos import LogosModule
@@ -16,7 +16,8 @@ from cvbuilder.modules.summary import SummaryModule
 from cvbuilder.modules.supervision import SupervisionModule
 from cvbuilder.modules.talk import TalkModule
 from cvbuilder.modules.teach import TeachModule
-from cvbuilder.modules.text import LinkModule, TextModule
+from cvbuilder.modules.text import TextModule
+
 
 def remove_dir(directory: pathlib.Path):
     if not directory.exists():
@@ -28,47 +29,81 @@ def remove_dir(directory: pathlib.Path):
             remove_dir(child)
     directory.rmdir()
 
+
 # From resume.json
 cv_builder = cvbuilder.Builder()
 
-cv_builder.add_context(MarkdownContext("sources/academic/index.md", "Academic CV"))
+index = MarkdownContext("sources/academic/index.md", "Academic CV")
+cv_builder.add_context(index)
 
-cv_builder.add_module("logos", LogosModule())
-cv_builder.add_module("summary", SummaryModule())
-cv_builder.add_module("jobs", JobModule())
-cv_builder.add_module("awards", AwardModule())
-cv_builder.add_module(None, LinkModule("Publications", "My list of publications is given on a ", "publications.md", "specific page", ".", level=1))
-cv_builder.add_module("projects", ProjectModule())
-cv_builder.add_module(None, LinkModule("Talks and events", "The list of attended events and given talks is given on a ", "talks.md", "specific page", ".", level=1))
-cv_builder.add_module(None, LinkModule("Teaching duties and supervision", "The list of my attending duties and supervised projects can be consulted on a ", "teaching.md", "specific page", ".", level=1))
-cv_builder.add_module("languages", LanguageModule())
-cv_builder.add_module(None, TextModule("Miscellaneous", "During the academic year 2016-2017, I won the 454th place (out of 5558) in University CodeSprint, and my team won the 43d place in the Benelux Algorithm Programming Contest (BAPC).", level=1))
-cv_builder.add_module("contact", ContactModule())
+index.add_module("logos", LogosModule())
+index.add_module("summary", SummaryModule())
+index.add_module("jobs", JobModule())
+index.add_module("awards", AwardModule())
+index.add_module(
+    None,
+    TextModule(
+        "Publications",
+        text="Please consult the [specific page](publications.md).",
+        level=1,
+    ),
+)
+index.add_module("projects", ProjectModule())
+index.add_module(
+    None,
+    TextModule(
+        "Talks and events",
+        text="Please consult the [specific page](talks.md).",
+        level=1,
+    ),
+)
+index.add_module(
+    None,
+    TextModule(
+        "Teaching duties and supervision",
+        text="Please consult the [specific page](teaching.md).",
+        level=1,
+    ),
+)
+index.add_module("languages", LanguageModule())
+index.add_module(
+    None,
+    TextModule(
+        "Miscellaneous",
+        "During the academic year 2016-2017, I won the 454th place (out of 5558) in University CodeSprint, and my team won the 43d place in the Benelux Algorithm Programming Contest (BAPC).",
+        level=1,
+    ),
+)
+index.add_module("contact", ContactModule())
 
-cv_builder.build("resume/resume.json")
+talks = MarkdownContext("sources/academic/talks.md", "Given talks and attended events")
+cv_builder.add_context(talks)
 
-cv_builder = cvbuilder.Builder()
-cv_builder.add_context(MarkdownContext("sources/academic/talks.md", "Given talks and attended events"))
+talks.add_module("talks", TalkModule())
+talks.add_module("events", EventModule())
 
-cv_builder.add_module("talks", TalkModule())
-cv_builder.add_module("events", EventModule())
+publications = MarkdownContext("sources/academic/publications.md", "Publications")
+cv_builder.add_context(publications)
 
-cv_builder.build("resume/talks_events.json")
+publications.add_module("publications", PublicationModule())
 
-cv_builder = cvbuilder.Builder()
-cv_builder.add_context(MarkdownContext("sources/academic/publications.md", "Publications"))
+teaching = MarkdownContext(
+    "sources/academic/teaching.md", "Teaching duties and supervision"
+)
+cv_builder.add_context(teaching)
 
-cv_builder.add_module("publications", PublicationModule())
+teaching.add_module("teaching", TeachModule())
+teaching.add_module("supervision", SupervisionModule())
 
-cv_builder.build("resume/publications.json")
-
-cv_builder = cvbuilder.Builder()
-cv_builder.add_context(MarkdownContext("sources/academic/teaching.md", "Teaching duties and supervision"))
-
-cv_builder.add_module("teaching", TeachModule())
-cv_builder.add_module("supervision", SupervisionModule())
-
-cv_builder.build("resume/teaching.json")
+cv_builder.build(
+    [
+        "resume/resume.json",
+        "resume/jobs.json",
+        "resume/publications.json",
+        "resume/talks_events.json",
+        "resume/teaching.json",
+    ]
+)
 
 # Markdown -> HTML
 input_folder = pathlib.Path("sources/")
