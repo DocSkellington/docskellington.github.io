@@ -4,6 +4,8 @@ build:
 dependencies:
 	pipenv --python 3.11
 	pipenv install --dev
+	mkdir -p latex
+	cd academic-cv/;make;cp *.sty *.cls ../latex
 
 clean:
 	rm -fr output

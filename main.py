@@ -1,8 +1,8 @@
 import pathlib
+import shutil
 import builder
 import cvbuilder
-import cvbuilder.contexts.latex
-import cvbuilder.contexts.html  # Temporary workaround for a bug in the library
+from cvbuilder.contexts.latex import LaTeXContext, Style
 from cvbuilder.contexts.markdown import MarkdownContext
 from cvbuilder.modules.contact import ContactModule
 from cvbuilder.modules.logos import LogosModule
@@ -95,6 +95,37 @@ cv_builder.add_context(teaching)
 teaching.add_module("teaching", TeachModule())
 teaching.add_module("supervision", SupervisionModule())
 
+pathlib.Path("latex").mkdir(exist_ok=True)
+shutil.copy("sources/portrait.png", "latex/")
+
+latex = LaTeXContext("latex/resume.tex")
+cv_builder.add_context(latex)
+
+latex.set_style("title", Style({"portion-photo": .2, "margin-photo": "30pt"}))
+latex.set_style(
+    "section",
+    Style({"before/thickness": "0pt", "after/thickness": "0pt", "rectangle/length": 2}),
+)
+latex.set_style(
+    "subsection",
+    Style({"before/thickness": "0pt", "after/thickness": "0pt", "rectangle/length": 2}),
+)
+latex.set_style("project", Style({"margin-size": "0pt"}))
+
+latex.add_module("contact", ContactModule(), category="title")
+latex.add_module("jobs", JobModule())
+latex.add_module("awards", AwardModule())
+latex.add_module("publications", PublicationModule())
+latex.add_module("projects", ProjectModule())
+latex.add_module(
+    "talks",
+    TalkModule(
+        introduction_text="Only given talks are listed here. Attended events are listed on my [web page](https://academic.gaetanstaquet.com)."
+    ),
+)
+latex.add_module("teaching", TeachModule())
+latex.add_module("supervision", SupervisionModule())
+
 cv_builder.build(
     [
         "resume/resume.json",
@@ -103,7 +134,7 @@ cv_builder.build(
         "resume/talks_events.json",
         "resume/teaching.json",
         "resume/awards.json",
-        "resume/projects.json"
+        "resume/projects.json",
     ]
 )
 
