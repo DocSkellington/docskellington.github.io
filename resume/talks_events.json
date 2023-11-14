@@ -8,6 +8,18 @@
   "talks": [
     {
       "title": "Automata with Timers",
+      "conference": "WG Verification Days (Journées du GT Vérification)",
+      "where": "Paris, France",
+      "date": "2023-11-30"
+    },
+    {
+      "title": "Automata with Timers",
+      "conference": "68NQRT - Formal Methods Seminar of IRISA and INRIA (University of Rennes)",
+      "where": "Rennes, France",
+      "date": "2023-11-07"
+    },
+    {
+      "title": "Automata with Timers",
       "conference": "Seminary of the Software Science Department, Radboud Universiteit",
       "where": "Nijmegen, The Netherlands",
       "date": "2023-10-10"
@@ -86,7 +98,7 @@
     },
     {
       "title": "Learning Realtime One-Counter Automata",
-      "conference": "WG Verification Days (Journées du GT Vérif)",
+      "conference": "WG Verification Days (Journées du GT Vérification)",
       "where": "Gif-sur-Yvette, France",
       "date": "2021-11-17"
     },
@@ -104,6 +116,16 @@
     }
   ],
   "events": [
+    {
+      "name": "WG Verification Days (Journées du GT Vérification)",
+      "where": "Paris, France",
+      "year": 2023
+    },
+    {
+      "name": "Dagstuhl Retreat on Co-Algebra and Automata Learning",
+      "where": "Schloss Dagstuhl, Wadern, Germany",
+      "year": 2023
+    },
     {
       "name": "Highlights of Logic, Games and Automata",
       "where": "Kassel, Germany",
