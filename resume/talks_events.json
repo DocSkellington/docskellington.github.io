@@ -8,8 +8,14 @@
   "talks": [
     {
       "title": "Automata with Timers",
+      "conference": "CFV - Centre Fédéré de Vérification",
+      "where": "ULB, Brussels, Belgium",
+      "date": "2023-12-15"
+    },
+    {
+      "title": "Automata with Timers",
       "conference": "WG Verification Days (Journées du GT Vérification)",
-      "where": "Paris, France",
+      "where": "IRIF, Paris, France",
       "date": "2023-12-01"
     },
     {
@@ -116,6 +122,11 @@
     }
   ],
   "events": [
+    {
+      "name": "CFV - Centre Fédéré de Vérification",
+      "where": "ULB, Brussels, Belgium",
+      "year": 2023
+    },
     {
       "name": "WG Verification Days (Journées du GT Vérification)",
       "where": "Paris, France",
