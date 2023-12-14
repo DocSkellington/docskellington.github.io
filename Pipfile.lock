@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b14800cb3f1d4de0c769a071197d2ea33f69629752d39873ff87981a396f596a"
+            "sha256": "bc0ce5dd8580b7373d12fc62545c6bc513715dd8e7f2f76352132fedc1d84801"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.11"
+            "python_version": "3.12"
         },
         "sources": [
             {
@@ -19,7 +19,7 @@
         "academiccv-builder": {
             "editable": true,
             "git": "https://github.com/DocSkellington/academiccv-builder.git",
-            "ref": "23e315f97b2b450252691cbc8ca1c267976cd2f2"
+            "ref": "74c735dd9b0958bbe1c526a93e9106c8315bc0f7"
         },
         "caption": {
             "editable": true,
@@ -27,6 +27,9 @@
             "ref": "2920011ec6dd16d2bde34b626a49799951f82ea4"
         },
         "coverage": {
+            "extras": [
+                "toml"
+            ],
             "hashes": [
                 "sha256:0cbf38419fb1a347aaf63481c00f0bdc86889d9fbf3f25109cf96c26b403fda1",
                 "sha256:12d15ab5833a997716d76f2ac1e4b4d536814fc213c85ca72756c19e5a6b3d63",
@@ -94,11 +97,12 @@
         },
         "markdown": {
             "hashes": [
-                "sha256:4afb124395ce5fc34e6d9886dab977fd9ae987fc6e85689f08278cf0c69d4bf3",
-                "sha256:a807eb2e4778d9156c8f07876c6e4d50b5494c5665c4834f67b06459dfd877b3"
+                "sha256:5874b47d4ee3f0b14d764324d2c94c03ea66bee56f2d929da9f2508d65e722dc",
+                "sha256:b65d7beb248dc22f2e8a31fb706d93798093c308dc1aba295aedeb9d41a813bd"
             ],
             "index": "pypi",
-            "version": "==3.5"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.5.1"
         },
         "markdown-katex": {
             "hashes": [
@@ -106,6 +110,7 @@
                 "sha256:9ccc5b4b37db7592cc3ea113d763fafe9ffd1b1587e2c217d6145e44a10b4f6d"
             ],
             "index": "pypi",
+            "markers": "python_version >= '2.7'",
             "version": "==202112.1034"
         },
         "md2html-links": {
@@ -138,19 +143,20 @@
         },
         "pygments": {
             "hashes": [
-                "sha256:13fc09fa63bc8d8671a6d247e1eb303c4b343eaee81d861f3404db2935653692",
-                "sha256:1daff0494820c69bc8941e407aa20f577374ee88364ee10a98fdbe0aece96e29"
+                "sha256:b27c2826c47d0f3219f29554824c30c5e8945175d888647acd804ddd04af846c",
+                "sha256:da46cec9fd2de5be3a8a784f434e4c4ab670b4ff54d605c4c2717e9d49c4c367"
             ],
             "index": "pypi",
-            "version": "==2.16.1"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.17.2"
         },
         "pytest": {
             "hashes": [
-                "sha256:1d881c6124e08ff0a1bb75ba3ec0bfd8b5354a01c194ddd5a0a870a48d99b002",
-                "sha256:a766259cfab564a2ad52cb1aae1b881a75c3eb7e34ca3779697c23ed47c47069"
+                "sha256:0d009c083ea859a71b76adf7c1d502e4bc170b80a8ef002da5806527b9591fac",
+                "sha256:d989d136982de4e3b29dabcc838ad581c64e8ed52c11fbe86ddebd9da0818cd5"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==7.4.2"
+            "version": "==7.4.3"
         },
         "pytest-cov": {
             "hashes": [
@@ -170,11 +176,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:4ac1475276d2f1c48684874089fefcd83bd7162ddaafb81fac866ba0db282a87",
-                "sha256:b454a35605876da60632df1a60f736524eb73cc47bbc9f3f1ef1b644de74fd2a"
+                "sha256:1e8fdff6797d3865f37397be788a4e3cba233608e9b509382a2777d25ebde7f2",
+                "sha256:735896e78a4742605974de002ac60562d286fa8051a7e2299445e8e8fbb01aa6"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==68.2.2"
+            "version": "==69.0.2"
         },
         "six": {
             "hashes": [
@@ -187,7 +193,7 @@
         "websitebuilder": {
             "editable": true,
             "git": "https://github.com/DocSkellington/WebsiteBuilder.git",
-            "ref": "63390a811ebe96146c868182bb91d0d16b0b8c6c"
+            "ref": "8a3a3e44c0958fcbacc5a9ce06a022d0008265d4"
         }
     },
     "develop": {}
