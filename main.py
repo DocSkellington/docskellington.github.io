@@ -126,6 +126,8 @@ latex.add_module(
 latex.add_module("teaching", TeachModule())
 latex.add_module("supervision", SupervisionModule())
 
+# TODO: add member of faculty and department's councils
+
 cv_builder.build(
     [
         "resume/resume.json",
