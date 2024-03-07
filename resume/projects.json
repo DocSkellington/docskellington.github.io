@@ -16,7 +16,7 @@
       "homepage": "https://github.com/DocSkellington/LStar-ROCA-Benchmarks"
     },
     {
-      "name": "Learning Visibly One-Computer Automata",
+      "name": "Learning Visibly One-Counter Automata",
       "description": "Implementation of an active learning algorithm dedicated to visibly one-counter automata, based on a paper by Daniel Neider and Christof Löding: [Learning Visibly One-Counter Automata in Polynomial Time](http://ftp.informatik.rwth-aachen.de/ftp/pub/publications/rwth/informatik/2010/2010-02.pdf).\n\nThis project was realized during my internship at UAntwerpen, under the supervision of Guillermo A. Pérez",
       "homepage": "https://github.com/DocSkellington/LearningVCA"
     }
