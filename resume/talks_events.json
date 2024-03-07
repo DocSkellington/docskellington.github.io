@@ -20,7 +20,7 @@
     },
     {
       "title": "Automata with Timers",
-      "conference": "68NQRT - Formal Methods Seminar of IRISA and INRIA (University of Rennes)",
+      "conference": "68NQRT - Formal Methods Seminar of IRISA and Inria Rennes",
       "where": "Rennes, France",
       "date": "2023-11-07"
     },
@@ -44,7 +44,7 @@
     },
     {
       "title": "Verification of Computer Systems thanks to State Machines",
-      "conference": "Day of the research institute INFORTECH",
+      "conference": "Day of the INFORTECH research institute",
       "where": "Mons, Belgium",
       "date": "2023-05-24"
     },
@@ -55,16 +55,10 @@
       "where": "Paris, France"
     },
     {
-      "title": "Learning Realtime One-Counter Automata",
-      "conference": "28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)",
-      "where": "Munich, Germany (talk done online)",
-      "date": "2022-04-05"
-    },
-    {
-      "title": "Learning Realtime One-Counter Automata",
-      "conference": "Formal Methods and Verification (FMV) seminary",
-      "where": "Brussels, Belgium",
-      "date": "2022-10-21"
+      "title": "Verification of computer systems thanks to state machines",
+      "conference": "Annual national day of F.R.S.-FNRS doctoral school COMPLEX",
+      "where": "Mons, Belgium",
+      "date": "2022-11-15"
     },
     {
       "title": "Learning Realtime One-Counter Automata",
@@ -73,22 +67,22 @@
       "date": "2022-10-26"
     },
     {
-      "title": "Active Learning of Automata for JSON-Streaming Validation",
-      "conference": "Highlights of Logic, Games and Automata",
-      "where": "Paris, France",
-      "date": "2022-06-29"
-    },
-    {
-      "title": "Verification of computer systems thanks to state machines",
-      "conference": "Annual national day of F.R.S.-FNRS doctoral school COMPLEX",
-      "where": "Mons, Belgium",
-      "date": "2022-11-15"
-    },
-    {
       "title": "Vérifier un système informatique grâce à un automate",
       "conference": "Séminaire Jeune (vulgarization talk towards third-year and above students)",
       "date": "2022-10-24",
       "where": "Mons, Belgium"
+    },
+    {
+      "title": "Learning Realtime One-Counter Automata",
+      "conference": "Formal Methods and Verification (FMV) seminary",
+      "where": "Brussels, Belgium",
+      "date": "2022-10-21"
+    },
+    {
+      "title": "Active Learning of Automata for JSON-Streaming Validation",
+      "conference": "Highlights of Logic, Games and Automata",
+      "where": "Paris, France",
+      "date": "2022-06-29"
     },
     {
       "title": "Vérifier efficacement un document JSON grâce à un automate",
@@ -98,15 +92,21 @@
     },
     {
       "title": "Learning Realtime One-Counter Automata",
-      "conference": "Highlights of Logic, Games and Automata",
-      "where": "Online",
-      "date": "2021-09-17"
+      "conference": "28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)",
+      "where": "Munich, Germany (talk done online)",
+      "date": "2022-04-05"
     },
     {
       "title": "Learning Realtime One-Counter Automata",
       "conference": "WG Verification Days (Journées du GT Vérification)",
       "where": "Gif-sur-Yvette, France",
       "date": "2021-11-17"
+    },
+    {
+      "title": "Learning Realtime One-Counter Automata",
+      "conference": "Highlights of Logic, Games and Automata",
+      "where": "Online",
+      "date": "2021-09-17"
     },
     {
       "title": "L'apprentissage d'automates et ses applications",
