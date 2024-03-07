@@ -7,7 +7,8 @@
   },
   "publications": {
     "order": [
-      "Conferences"
+      "Conferences",
+      "Preprints"
     ],
     "Conferences": [
       {
@@ -49,6 +50,15 @@
         "year": "2020",
         "reference": "KJLSW20",
         "doi": "10.1145/3340531.3411911"
+      }
+    ],
+    "Preprints": [
+      {
+        "title": "Active Learning of Mealy Machines with Timers",
+        "authors": "Véronique Bruyère, Bharat Garhewal, Guillermo A. Pérez, Gaëtan Staquet, and Frits W. Vaandrager",
+        "arxiv": "10.48550/arXiv.2403.02019",
+        "reference": "BGP+24",
+        "year": "2024"
       }
     ]
   }
