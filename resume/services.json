@@ -1,0 +1,39 @@
+{
+  "services": {
+    "order": ["Reviewer", "Council member", "Informant role"],
+    "Reviewer": [
+      {
+        "year": "2023",
+        "description": "Reviewer for \"Logical Methods in Computer Science\""
+      },
+      {
+        "year": "2022",
+        "description": "Reviewer for \"GandALF\", \"Formal Methods in System Design\", and \"Mathematical Foundations of Computer Science\""
+      }
+    ],
+    "Council member": [
+      {
+        "year": "October 2020 to September 2024",
+        "description": "Member of the Faculty Council"
+      },
+      {
+        "year": "November 2021 to September 2024",
+        "description": "Member of the Council of the Computer Science Department"
+      }
+    ],
+    "Informant role": [
+      {
+        "year": "2024",
+        "description": "Informant at the UMONS' open house day"
+      },
+      {
+        "year": "2023",
+        "description": "Informant at the UMONS' open house day"
+      },
+      {
+        "year": "2021",
+        "description": "Informant at the Brussels SIEP fair"
+      }
+    ]
+  }
+}
