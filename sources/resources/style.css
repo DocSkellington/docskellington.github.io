@@ -41,7 +41,7 @@ body {
     min-height: 100vh;
     min-width: 270px;
     font-family: "NotoSerif", "Times New Roman", Times, serif;
-    font-size: calc(12px + 0.39vw);
+    font-size: calc(12px + 0.29vw);
 }
 
 header {
@@ -209,11 +209,11 @@ h1 {
 }
 
 h2 {
-    font-size: 250%;
+    font-size: 200%;
 }
 
 h3 {
-    font-size: 150%;
+    font-size: 170%;
 }
 
 /* For the academic part */
@@ -258,7 +258,7 @@ h3 {
 }
 
 .item .title {
-    font-size: 140%;
+    font-size: 100%;
 }
 
 .contact-list {
