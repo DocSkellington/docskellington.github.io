@@ -103,7 +103,7 @@ shutil.copy("sources/portrait.png", "latex/")
 latex = LaTeXContext("latex/resume.tex")
 cv_builder.add_context(latex)
 
-latex.add_to_preamble(r"\usepackage[a4paper]{geometry}")
+latex.add_class_option("a4paper")
 latex.add_to_preamble(r"\RenewDocumentCommand{\mainForTalk}{}{\print{talk}{title}\print[, ]{talk}{conference}\print[, ]{talk}{where}.}")
 latex.add_to_preamble(r"\hypersetup{colorlinks=false,pdfborder={0 0 0}}")
 

@@ -19,7 +19,7 @@
         "academiccv-builder": {
             "editable": true,
             "git": "https://github.com/DocSkellington/academiccv-builder.git",
-            "ref": "35ede3f8322e838ea992db035ced39e8afa3c824"
+            "ref": "c6f4880688824367978a671f24c5becf9b50cd0c"
         },
         "caption": {
             "editable": true,
