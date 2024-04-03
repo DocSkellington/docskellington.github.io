@@ -145,7 +145,7 @@ latex.add_module("projects", ProjectModule())
 latex.add_module(
     "talks",
     TalkModule(
-        introduction_text="Only given talks are listed here. Attended events are listed on my [web page](https://academic.gaetanstaquet.com)."
+        introduction_text="Only given talks are listed here. Attended events are listed on my [web page](https://www.gaetanstaquet.com)."
     ),
 )
 latex.add_module("teaching", TeachModule())
