@@ -104,10 +104,12 @@ latex = LaTeXContext("latex/resume.tex")
 cv_builder.add_context(latex)
 
 latex.add_class_option("a4paper")
-latex.add_to_preamble(r"\RenewDocumentCommand{\mainForTalk}{}{\print{talk}{title}\print[, ]{talk}{conference}\print[, ]{talk}{where}.}")
+latex.add_to_preamble(
+    r"\RenewDocumentCommand{\mainForTalk}{}{\print{talk}{title}\print[, ]{talk}{conference}\print[, ]{talk}{where}.}"
+)
 latex.add_to_preamble(r"\hypersetup{colorlinks=false,pdfborder={0 0 0}}")
 
-latex.set_style("title", Style({"portion-photo": .2, "margin-photo": "30pt"}))
+latex.set_style("title", Style({"portion-photo": 0.2, "margin-photo": "30pt"}))
 latex.set_style(
     "section",
     Style({"before/thickness": "0pt", "after/thickness": "0pt", "rectangle/length": 2}),
@@ -117,17 +119,28 @@ latex.set_style(
     Style({"before/thickness": "0pt", "after/thickness": "0pt", "rectangle/length": 2}),
 )
 latex.set_style("project", Style({"margin-size": "0pt"}))
-latex.set_style("teach", Style({"year": r"\normalfont", "margin-size": r".3\linewidth"}))
+latex.set_style(
+    "teach", Style({"year": r"\normalfont", "margin-size": r".3\linewidth"})
+)
 latex.set_style("job", Style({"margin-size": r".3\linewidth"}))
 latex.set_style("award", Style({"margin-size": r".3\linewidth"}))
 latex.set_style("talk", Style({"where": r"\normalfont", "vspace-after": "1pt"}))
-latex.set_style("supervision", Style({"margin-size": r".3\linewidth", "year": r"\normalfont"}))
-latex.set_style("service", Style({"margin-size": r".3\linewidth", "year": r"\normalfont"}))
+latex.set_style(
+    "supervision", Style({"margin-size": r".3\linewidth", "year": r"\normalfont"})
+)
+latex.set_style(
+    "service", Style({"margin-size": r".3\linewidth", "year": r"\normalfont"})
+)
 
 latex.add_module("contact", ContactModule(), category="title")
-latex.add_module("jobs", JobModule(use_subsections = False))
+latex.add_module("jobs", JobModule(use_subsections=False))
 latex.add_module("awards", AwardModule())
-latex.add_module("publications", PublicationModule())
+latex.add_module(
+    "publications",
+    PublicationModule(
+        introduction_text="Authors are ordered alphabetically by their last name."
+    ),
+)
 latex.add_module("projects", ProjectModule())
 latex.add_module(
     "talks",
@@ -148,7 +161,7 @@ cv_builder.build(
         "resume/teaching.json",
         "resume/awards.json",
         "resume/projects.json",
-        "resume/services.json"
+        "resume/services.json",
     ]
 )
 
