@@ -35,7 +35,7 @@ def remove_dir(directory: pathlib.Path):
 cv_builder = cvbuilder.Builder()
 
 index = MarkdownContext("sources/academic/index.md", "Academic CV")
-cv_builder.add_context(index)
+cv_builder.register_context(index)
 
 index.add_module("logos", LogosModule())
 index.add_module("summary", SummaryModule())
@@ -79,20 +79,20 @@ index.add_module(
 index.add_module("contact", ContactModule())
 
 talks = MarkdownContext("sources/academic/talks.md", "Given talks and attended events")
-cv_builder.add_context(talks)
+cv_builder.register_context(talks)
 
 talks.add_module("talks", TalkModule())
 talks.add_module("events", EventModule())
 
 publications = MarkdownContext("sources/academic/publications.md", "Publications")
-cv_builder.add_context(publications)
+cv_builder.register_context(publications)
 
 publications.add_module("publications", PublicationModule())
 
 teaching = MarkdownContext(
     "sources/academic/teaching.md", "Teaching duties and supervision"
 )
-cv_builder.add_context(teaching)
+cv_builder.register_context(teaching)
 
 teaching.add_module("teaching", TeachModule())
 teaching.add_module("supervision", SupervisionModule())
@@ -101,7 +101,7 @@ pathlib.Path("latex").mkdir(exist_ok=True)
 shutil.copy("sources/portrait.png", "latex/")
 
 latex = LaTeXContext("latex/resume.tex")
-cv_builder.add_context(latex)
+cv_builder.register_context(latex)
 
 latex.add_class_option("a4paper")
 latex.add_to_preamble(
@@ -145,7 +145,7 @@ latex.add_module("projects", ProjectModule())
 latex.add_module(
     "talks",
     TalkModule(
-        introduction_text="Only given talks are listed here. Attended events are listed on my [web page](https://www.gaetanstaquet.com)."
+        introduction_text="Only given talks are listed here. Whenever applicable, the slides can be consulted on my [web page](https://www.gaetanstaquet.com). Attended events are also listed there."
     ),
 )
 latex.add_module("teaching", TeachModule())
