@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: checkout repository
         uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v4
@@ -26,8 +28,13 @@ jobs:
 
       - name: build website
         run: make build
+      - name: generate PDF
+        uses: xu-cheng/texlive-action@v2
+        with:
+          run:
+            make build_pdf
 
-      - name: Fix permissions
+      - name: Fix output permissions
         run: |
           chmod -c -R +rX "output/" | while read line; do
             echo "::warning title=Invalid file permissions automatically fixed::$line"
