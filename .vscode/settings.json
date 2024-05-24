@@ -2,16 +2,26 @@
     "cSpell.language": "en,fr",
     "cSpell.words": [
         "arxiv",
+        "BAPC",
+        "colorlinks",
         "d'Édéa",
         "Dagstuhl",
         "gameplay",
+        "github",
+        "hypersetup",
+        "iconoir",
         "katex",
+        "linewidth",
         "marko",
+        "normalfont",
+        "orcid",
+        "pdfborder",
         "Radboud",
         "seminaire",
         "treeprocessors",
         "Vaandrager",
-        "Vana'diel"
+        "Vana'diel",
+        "vspace"
     ],
     "json.schemas": [
         {

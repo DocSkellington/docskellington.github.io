@@ -45,7 +45,7 @@ index.add_module(
     None,
     TextModule(
         "Publications",
-        text="Please consult the [specific page](publications.md).",
+        text="Please consult the [dedicated page](publications.md).",
         level=1,
     ),
 )
@@ -54,7 +54,7 @@ index.add_module(
     None,
     TextModule(
         "Talks and events",
-        text="Please consult the [specific page](talks.md).",
+        text="Please consult the [dedicated page](talks.md).",
         level=1,
     ),
 )
@@ -62,7 +62,7 @@ index.add_module(
     None,
     TextModule(
         "Teaching duties and supervision",
-        text="Please consult the [specific page](teaching.md).",
+        text="Please consult the [dedicated page](teaching.md).",
         level=1,
     ),
 )
@@ -87,7 +87,12 @@ talks.add_module("events", EventModule())
 publications = MarkdownContext("sources/academic/publications.md", "Publications")
 cv_builder.register_context(publications)
 
-publications.add_module("publications", PublicationModule())
+publications.add_module(
+    "publications",
+    PublicationModule(
+        introduction_text="Authors are ordered alphabetically by their last name."
+    ),
+)
 
 teaching = MarkdownContext(
     "sources/academic/teaching.md", "Teaching duties and supervision"
@@ -170,7 +175,6 @@ input_folder = pathlib.Path("sources/")
 output_folder = pathlib.Path("output/")
 global_setup = builder.Global(
     title="Gaëtan Staquet",
-    # base_url="file:///home/gaetan/GitHub/Perso/docskellington.github.io/output/",
     base_url="https://www.gaetanstaquet.com",
     links_in_header=[
         ("Home page", "index.html"),
