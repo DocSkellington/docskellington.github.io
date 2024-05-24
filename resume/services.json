@@ -1,6 +1,6 @@
 {
   "services": {
-    "order": ["Reviewer", "Council member", "Informant role"],
+    "order": ["Reviewer", "Outreach experience", "Council member", "Informant role"],
     "Reviewer": [
       {
         "year": "2023",
@@ -9,6 +9,16 @@
       {
         "year": "2022",
         "description": "Reviewer for GandALF, FMSD, and MFCS"
+      }
+    ],
+    "Outreach experience": [
+      {
+        "year": "25 and 26 March 2023",
+        "description": "Participation to the \"Printemps des Sciences\" (\"Spring of Sciences\"), a vulgarization festival for the general public.\n\nWith Véronique Bruyère and computer science students, we introduced the ideas behind various sorting algorithms."
+      },
+      {
+        "year": "23 and 24 March 2023",
+        "description": "**À vous de jouer**, a vulgarization workshop for high school students, in the context of the \"Journées Math-Sciences\" (\"Days Math-Sciences\") at UMONS. This was a joint work with Chloé Capon, Aline Goeminne, Nicolas Lecomte, James Main, Mickael Randour, Alexandre Terefenko, and Pierre Vandenhove."
       }
     ],
     "Council member": [
