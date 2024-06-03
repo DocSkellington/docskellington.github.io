@@ -10,7 +10,8 @@
       "title": "Active Learning of Mealy Machines with Timers",
       "conference": "MOVEP 2024",
       "where": "IRISA/Inria, Rennes, France",
-      "date": "2024-05-30"
+      "date": "2024-05-30",
+      "pdf": "talks/2024/MOVEP2024.pdf"
     },
     {
       "title": "Validating Streaming JSON Documents with Learned Visibly Pushdown Automata",
