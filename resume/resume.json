@@ -5,7 +5,7 @@
     "organization": "F.R.S.-FNRS, University of Mons, University of Antwerp",
     "photo": "portrait.png"
   },
-  "summary": "I am a Research Fellow (PhD student) at the F.R.S.-FNRS, co-supervised by Véronique Bruyère (UMONS) and Guillermo A. Pérez (UAntwerpen).\n\nMy research interests include (and are not limited to):\n\n  * Automata theory,\n  * Active and passive automata learning,\n  * Timed automata,\n  * Formal verification,\n  * Game theory.\n\nA PDF version of this resume is available [here](gaetan_staquet.pdf).",
+  "summary": "I am a Research Fellow (PhD student) at the F.R.S.-FNRS, co-supervised by [Véronique Bruyère](https://web.umons.ac.be/fs-informatique/equipes/veronique-bruyere/) (University of Mons) and [Guillermo A. Pérez](https://gaperez64.github.io/) (University of Antwerp).\n\nMy research interests include (and are not limited to):\n\n  * Automata theory,\n  * Active and passive automata learning,\n  * Timed automata,\n  * Formal verification,\n  * Game theory.\n\nMore details on my PhD Thesis can be consulted on a [dedicated page](thesis.html).\n\nA PDF version of this resume is available [here](gaetan_staquet.pdf).",
   "contact": {
     "email": [
       "gaetan.staquet@umons.ac.be",
