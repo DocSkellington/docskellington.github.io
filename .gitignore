@@ -6,6 +6,9 @@ _site/
 __pycache__/
 output/
 
-sources/academic/*.md
+sources/academic/index.md
+sources/academic/publications.md
+sources/academic/talks.md
+sources/academic/teaching.md
 
 latex/
