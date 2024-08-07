@@ -61,6 +61,13 @@
     ],
     "Introductory research internship": [
       {
+        "name": "Julien Ladeuze",
+        "when": "August 2024",
+        "role": "Co-supervised with Véronique Bruyère",
+        "organization": "University of Mons, Belgium",
+        "description": "Implementation of an algorithm to convert a *generalized Mealy machine with timers* into a Mealy machine with timers and of benchmarks."
+      },
+      {
         "name": "Nicolas Vallois and Hugo Venturoso",
         "when": "August and September 2022",
         "role": "Co-supervised with Véronique Bruyère",

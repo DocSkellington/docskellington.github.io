@@ -30,7 +30,7 @@ that do not occur in the actual system.
 Fortunately, if the system can be modeled by an *automaton* (a state machine
 describing which execution is valid or invalid), one can apply
 *active automata learning* algorithms to automatically construct
-automata by interacting with the computer system in a black-box manner, \ie, by
+automata by interacting with the computer system in a black-box manner, i.e., by
 only observing runs of the system without having access to its internal details.
 While the original algorithm introduced in 1987 by Dana Angluin focused on
 simple automata than can only use their
