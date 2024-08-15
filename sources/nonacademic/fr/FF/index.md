@@ -415,11 +415,8 @@ En passant, regarder la vidéo qui joue pendant les crédits.
 Elle vaut le détour.
 
 ## *Final Fantasy IX (Switch)*
-J'y ai joué il y a quelques années.
-Dans mes souvenirs, c'était assez désagréable.
-L'histoire est bien mais le gameplay des combats n'était pas très satisfaisant pour moi.
 
-Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
+J'ai une partie en cours. Ça va encore prendre du temps avant que ces lignes ne changent.
 
 ## *Final Fantasy X (HD - PC)*
 
@@ -520,13 +517,28 @@ Peut-être qu'un jour cette partie sera étendue pour arriver à une vraie criti
 Tous les détails sont donnés dans une [page dédiée](FFXI.md).
 
 ## *Final Fantasy XII (The Zodiac Age - PC)*
-J'y ai joué il y a quelques années.
-Le système de *gambits* est intéressant mais trop facilement exploitable (ou alors, j'ai eu de la chance d'arriver rapidement à une configuration efficace).
-Concernant l'histoire, je me souviens juste que je n'ai pas compris grand chose.
-Pour une fois, une remarque sur les graphismes : je trouve que le jeu n'est pas très beau.
-Il y a un étrange effet de flou.
 
-Il faudrait que j'y rejoue pour pouvoir écrire un avis plus précis.
+J'y avais joué il y a plusieurs annés et j'ai retenté en 2023.
+Cet avis est un mélange de mes souvenirs et de mes notes.
+
+J'apprécie le système de jobs qui permet d'avoir des personnages assez marqués.
+Cependant, il est compliqué de savoir exactement quel est l'impact du choix du job.
+Vu à quel point il est compliqué de revenir sur son choix, j'aurais aimé avoir plus d'informations concrètes que les douze jobs et leur description.
+
+Le système de gambits qui permet de régler le comportement en combat de chaque personnage est intéressant sur papier mais soporifique une fois mêlé au rythme des combats.
+Dès que je trouve une configuration qui tient la route, chaque combat devient juste un moment de mou où j'attends que ça s'arrête.
+Passionnant pour un RPG !
+
+J'aime beaucoup le fait que la carte s'affiche en transparence.
+Ça rend l'exploration agréable et sans être coupée par un menu.
+
+Je serais bien incapable de juger l'histoire en elle-même pour une simple raison : elle est (à mes yeux) tellement mal racontée que je n'arrive pas à tout suivre correctement.
+Entre le pavé de texte quand on lance le jeu (ce qui est déjà une erreur pour un film, alors pour un jeu...) et les nombreux moments où le jeu balance son lore sans aucune délicatesse, je n'ai aucune motivation pour me plonger dans l'univers d'Ivalice.
+Pourtant, il a l'air sympa.
+
+J'ai également du mal avec l'esthétique du jeu.
+Il y a quelque chose qui me déplaît dans les textures et les modèles qui me donnent une impression de flou constant.
+C'est assez désagréable.
 
 ## *Final Fantasy XIII (PC)*
 Caméra pas terrible avec une souris.
