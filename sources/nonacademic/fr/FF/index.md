@@ -18,7 +18,7 @@ Ceci veut dire que je dois utiliser des outils (en l'occurrence, *[Wine](https:/
 Je suis conscient que ces outils peuvent introduire des problèmes (bien que, parfois, ces outils corrigent les problèmes de la version Windows).
 Afin d'être le plus juste possible, je ne parle donc pas des crashs et autres soucis graphiques.
 Sauf mention explicite, les parties ont été réalisées sur la version anglaise.
-Je dois aussi préciser que j'ai joué à la série entre novembre 2021 et mai 2023 (fin de *Final Fantasy X*, à l'heure où j'écris ces lignes).
+Je dois aussi préciser que j'ai joué à la série entre novembre 2021 et mars 2024 (fin de *Final Fantasy VII Remake*, à l'heure où j'écris ces lignes).
 <!-- TODO: mets à jour la date au fur et à mesure -->
 
 ## *Final Fantasy I (Pixel remaster - PC)*
@@ -63,6 +63,7 @@ On peut donc très bien passer d'une équipe basée sur la magie à une équipe 
 Le mot d'ordre est de s'adapter.
 Essayer différentes combinaisons peut s'avérer être intéressantes car on peut découvrir des particularités qui nous avaient échappées au premier coup d'œil.
 Il y a cependant deux points négatifs assez majeurs:
+
   1. Certains jobs ne servent pratiquement jamais.
     Par exemple, l'érudit est capable d'analyser l'ennemi pour trouver ses faiblesses.
     C'est bien - et particulièrement utile contre un boss qui peut changer à volonté ses résistances élémentaires - mais est-ce que ça vaut vraiment la peine d'avoir ce job plutôt qu'un qui permettrait de faire bien plus de dégâts ?
@@ -200,7 +201,8 @@ Je précise d'emblée que, dans le donjon final, j'ai exploité un [bug](https:/
 Je me suis donc retrouvé avec un stock fort confortable de 99 élixirs et méga-élixirs avant le combat final.
 La raison est très simple : je voulais juste arriver à la fin, le jeu commençant à vraiment me frustrer.
 
-Commençons par le positif:
+Commençons par le positif :
+
   - La mise en scène est remarquable, particulièrement pour le premier *Final Fantasy* en 3D.
     Par exemple, l'ultime combat est incroyable.
   - Les cinématiques sont vraiment biens, pour l'époque.
@@ -211,6 +213,7 @@ Commençons par le positif:
     Par exemple, *Ultima* et *Comet 2* parviennent bien à faire comprendre leur puissance par de simples effets de couleur et de tremblement.
 
 Passons maintenant aux points sur lesquels je suis neutre ou nuancé :
+
   - L'histoire fonctionne bien mais elle manque de variété, une grosse partie du jeu consistant à courir derrière Séphiroth.
     Cependant, la révélation sur la véritable identité de Cloud est bien amenée et efficace.
   - En parlant des personnages, je trouve qu'ils sont tous plats et unidimensionnels, sauf Cloud, Tifa et Barrett.
@@ -224,6 +227,7 @@ Passons maintenant aux points sur lesquels je suis neutre ou nuancé :
     Il n'y aucune réflexion à avoir sur la bonne utilisation des compétences spécifiques, ce qui rend le jeu moins agréable pour moi.
 
 Finalement, les points négatifs :
+
   - Le jeu est lent, très lent.
     Je n'ai pas de problème avec le rythme du scénario mais vraiment avec l'exploration (qu'est-ce que c'est fun de devoir courir derrière un lapin pour récupérer une clé...) et, surtout, avec les combats.
     Beaucoup d'animations arrêtent le temps...
@@ -262,7 +266,54 @@ Finalement, les points négatifs :
 
 Pour conclure, je vais poser une question : qui est la mère des enfants de *Red* XIII ?!
 
-## *Final Fantasy VII Remake (PS4)*
+## *Final Fantasy VII Remake (PC)*
+Au début de la partie sur *Final Fantasy VII*, j'ai dit que ce jeu-là avait, à mes yeux, mal vieilli.
+Même si je trouve *Remake* plus agréable à jouer, je me demande s'il ne finira pas par ressembler à son aîné, sur ce point-là.
+Mais qui sait ? Le futur n'est pas figé dans le marbre.
+
+Poussons le concept de *Remake* jusqu'au bout et gardons la même structure qu'avant.
+
+Commençons par le positif (sans ordre particulier) :
+
+  - Le jeu est vraiment beau.
+    Midgar, que que ce soit sur les plateaux ou dans les parties inférieures, est vivante. Les quêtes secondaires permettent d'explorer plusieurs de ses facettes, de ses orphelins à ses fanatiques de sport.
+  - Comme sa source, *Remake* a une mise en scène époustouflante.
+  - La musique est sublime.
+    Je suis particulièrement fan du thème des combats.
+  - Les personnages principaux sont plus marqués que dans l'opus *PlayStation* et évoluent de manière plus nette au cours de l'histoire.
+  - Les environnements sont visuellement variés et certains niveaux ont même des particularités de gameplay, comme les mains mécaniques quand Cloud escorte Aerith.
+  - Les personnages se jouent tous légèrement différents : Cloud peut alterner entre des attaques légères et la capacité de bloquer les assauts ennemis ou des attaques lourdes au détriment de sa défense; Barret attaque à distance; Tifa (mon petit chouchou pour le gameplay) est vive et agile mais capable d'infliger des gros dégâts quand les conditions sont réunies; et Aerith excelle dans la magie.
+  - Étant donné le point précédent, j'apprécie beaucoup plus le système de matérias qui permet de bien affiner les alliés (renforcer leurs points forts ou contrer leurs points faibles).
+  - La complicité entre Aerith et Cloud est bien plus marquée et convaincante qu'avant... Même si elle n'a pas l'air de se prendre pour n'importe qui. Qui propose de payer un mercenaire avec un rendez-vous galant ?
+  - Les personnages secondaires ont droit à des vraies vies, maintenant. Elmira, Marlene, Jessie, Biggs et Wedge ne sont plus juste dans le fond de la toile et ont des personnalités bien plus marquées. Cloud a même le droit à un petit bisou de la part de Jessie s'il montre qu'il manie bien sa grosse bécane.
+  - Il y a une attention particulière aux détails, notamment dans les animations.
+    Par exemple, la couleur des yeux de Cloud change quand Sephiroth est proche.
+
+Je n'ai pas de points sur lesquels je suis neutre, alors continuons avec les points négatifs :
+
+  - Les contrôles pour le clavier sont assez peu agréables. De plus, les tutoriels ne suivent pas les changements d'assignation. Dans un jeu récent et par une grosse boîte.
+
+Attendez... Sephiroth ? Dans Midgar ?!
+Mais il n'est pas supposé apparaître à ce moment-là !
+
+On arrive enfin au point le plus important: *Remake* est une vraie refonte du *VII*.
+En plus des points déjà mentionnés (personnages et gameplay en tête), l'histoire diffère, malgré tous les efforts des Whispers qui sont là pour garder les événements sur leurs rails.
+Je ne vais pas m'amuser à lister les différences avec l'originel - d'autres gens l'ont fait de manière plus exhaustive que ce que je pourrais faire.
+Dans mon interprétation de ce que le jeu raconte, j'ai l'impression que les événements de la trame originelle ont bien eu lieu ou pourraient toujours avoir lieu.
+Aerith a l'air de bien connaître ce qui devrait arriver, comme si elle se souvenait des événements.
+Les whispers seraient donc là pour l'empêcher d'interférer avec la ligne temporelle (pourrait-elle réussir à empêcher sa mort ?) jusqu'à ce que Cloud et ses alliés arrivent à totalement défier le destin (sous l'influence de Sephiroth ?) en vainquant le boss de fin.
+
+Deux énormes questions restent en suspens, pour l'instant : était-ce vraiment Sephiroth ? Qu'est-il arrivé à Zack ?
+La suite dans quinze ans quand Square Enix sortira *Rebirth* (et sa future suite) sur PC...
+
+### Final Fantasy 7R EPISODE INTERmission
+
+Mais avant de se plonger dans ce futur, revenons un peu en arrière dans l'histoire et jouons avec Yuffie!
+La partie gameplay du DLC est vraiment très bonne, notamment le mini-jeu du Fort Condor.
+Cependant, Yuffi elle-même m'est insupportable et je trouve l'histoire peu intéressante.
+J'imagine que Nero (qui est vraiment beaucoup **trop** dark pour rien) reviendra par la suite.
+J'espère que ce sera plus intéressant.
+
 
 ## *Final Fantasy VIII (Remastered - PC)*
 Mon avis sur *Final Fantasy VIII* est très partagé.
