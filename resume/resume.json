@@ -1,11 +1,11 @@
 {
   "personal": {
     "name": "Gaëtan Staquet",
-    "position": "PhD Student in Theoretical Computer Science",
+    "position": "PhD in Theoretical Computer Science",
     "organization": "F.R.S.-FNRS, University of Mons, University of Antwerp",
     "photo": "portrait.png"
   },
-  "summary": "I am a Research Fellow (PhD student) at the F.R.S.-FNRS, co-supervised by [Véronique Bruyère](https://web.umons.ac.be/fs-informatique/equipes/veronique-bruyere/) (University of Mons) and [Guillermo A. Pérez](https://gaperez64.github.io/) (University of Antwerp).\n\nMy research interests include (and are not limited to):\n\n  * Automata theory,\n  * Active and passive automata learning,\n  * Timed automata,\n  * Formal verification,\n  * Game theory.\n\nMore details on my PhD Thesis can be consulted on a [dedicated page](thesis.html).\n\nA PDF version of this resume is available [here](gaetan_staquet.pdf).",
+  "summary": "I am a Research Fellow (PhD student) at the F.R.S.-FNRS, co-supervised by [Véronique Bruyère](https://web.umons.ac.be/fs-informatique/equipes/veronique-bruyere/) (University of Mons) and [Guillermo A. Pérez](https://gaperez64.github.io/) (University of Antwerp).\n\nMy research interests include (and are not limited to):\n\n  * Automata theory,\n  * Active and passive automata learning,\n  * Timed automata,\n  * Formal verification,\n  * Game theory.\n\nMy PhD was jointly supervised by [Véronique Bruyère](https://web.umons.ac.be/fs-informatique/equipes/veronique-bruyere/) (University of Mons) and [Guillermo A. Pérez](https://gaperez64.github.io/) (University of Antwerp). I defended my thesis on September 11, 2024. More details can be consulted on a [dedicated page](thesis.html).\n\nA PDF version of this resume is available [here](gaetan_staquet.pdf).",
   "contact": {
     "email": [
       "gaetan.staquet@umons.ac.be",

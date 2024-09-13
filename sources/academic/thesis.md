@@ -11,9 +11,8 @@ and Jef Wijsen, as well as my supervisors Véronique Bruyère and Mickael Randou
 
   * The private defense happened on June 19, 2024 at the University of Antwerp
   in the sole presence of the jury \[[slides](talks/2024/private.pdf)\].
-  * The public defense (intended to be a less technical and more accessible presentation) will take place at the University of Mons on Septembre 11, 2024.
+  * The public defense (intended to be a less technical and more accessible presentation) happened at the University of Mons on Septembre 11, 2024 \[[slides](talks/2024/public.pdf)\].
   * The manuscript is accessible [here](thesisStaquet.pdf).
-  <!-- * The public defense (intended to be a less technical and more accessible presentation) happened at the University of Mons on Septembre 11, 2024 [LINK TO SLIDES HERE]. -->
 
 ## Abstract
 
