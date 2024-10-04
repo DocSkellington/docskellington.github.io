@@ -19,6 +19,8 @@ jobs:
         with:
           python-version: 3.12
           cache: 'pipenv'
+      - name: Update pip
+        run: pip install --upgrade pip==24.0
       - name: Install pipenv
         run: pip install pipenv
       - name: Install dependencies
