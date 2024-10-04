@@ -183,7 +183,7 @@ global_setup = builder.Global(
         ("Non-academic part (French)", "nonacademic/fr/index.html"),
     ],
     footer=builder.Footer(
-        "Website of Gaëtan Staquet, PhD Student in Computer Science.",
+        "Website of Gaëtan Staquet, PhD in Computer Science.",
         [
             builder.Link(
                 "Github", "https://github.com/DocSkellington", "DocSkellington"
