@@ -1,8 +1,8 @@
 {
   "personal": {
     "name": "Gaëtan Staquet",
-    "position": "PhD in Theoretical Computer Science",
-    "organization": "F.R.S.-FNRS, University of Mons, University of Antwerp",
+    "position": "Inria postdoctoral researcher",
+    "organization": "Inria, DEVINE team at Irisa-Inria",
     "photo": "portrait.png"
   },
   "summary": "I am currently an Inria postdoctoral researcher in the [DEVINE team](https://devine.inria.fr/), under the supervision of [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/).\n\nMy research interests include (and are not limited to):\n\n  * Automata theory,\n  * Active and passive automata learning,\n  * Timed automata,\n  * Formal verification,\n  * Game theory.\n\nMy PhD was jointly supervised by [Véronique Bruyère](https://web.umons.ac.be/fs-informatique/equipes/veronique-bruyere/) (University of Mons) and [Guillermo A. Pérez](https://gaperez64.github.io/) (University of Antwerp). I defended my thesis on September 11, 2024. More details can be consulted on a [dedicated page](thesis.html).\n\nA PDF version of this resume is available [here](gaetan_staquet.pdf).",
