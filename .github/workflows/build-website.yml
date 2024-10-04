@@ -26,6 +26,8 @@ jobs:
       - name: Force pip version
         run: pipenv run pip install --force-reinstall pip==24.0
       - name: Install dependencies
+        run: pipenv install pip==24.0
+      - name: Install dependencies
         run: pipenv install
 
       - name: build website
