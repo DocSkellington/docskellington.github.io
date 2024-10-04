@@ -22,7 +22,7 @@ jobs:
       - name: Update pip
         run: pip install --upgrade pip==24.0
       - name: Install pipenv
-        run: pip install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
       - name: Install dependencies
         run: pipenv install
 
