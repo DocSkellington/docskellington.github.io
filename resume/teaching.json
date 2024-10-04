@@ -1,10 +1,4 @@
 {
-  "personal": {
-    "name": "Gaëtan Staquet",
-    "position": "PhD Student in Theoretical Computer Science",
-    "organization": "F.R.S.-FNRS, University of Mons, University of Antwerp",
-    "photo": "portrait.png"
-  },
   "teaching": [
     {
       "course": "Logic programming",
