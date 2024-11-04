@@ -14,11 +14,11 @@
     "orcid": "0000-0001-5795-3265",
     "website": "www.gaetanstaquet.com",
     "address": {
-      "street": "Bâtiment De Vinci, Avenue Victor Maistriau, 15",
-      "zipcode": "7000",
-      "city": "Mons",
-      "country": "Belgium",
-      "link": "https://www.openstreetmap.org/way/573321927"
+      "street": "Campus de Beaulieu IRISA/Inria Rennes, 263 avenue du Général Leclerc",
+      "zipcode": "35 042",
+      "city": "Rennes",
+      "country": "France",
+      "link": "https://www.openstreetmap.org/way/81586498#map=17/48.11637/-1.63965"
     }
   },
   "logos": [
