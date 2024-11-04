@@ -21,12 +21,6 @@ jobs:
           cache: 'pipenv'
       - name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-      - name: Force pip version
-        run: pipenv run pip install --force-reinstall pip==24.0
-      - name: Force pip version
-        run: pipenv run pip install --force-reinstall pip==24.0
-      - name: Install dependencies
-        run: pipenv install pip==24.0
       - name: Install dependencies
         run: pipenv install
 
