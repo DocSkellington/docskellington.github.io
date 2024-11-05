@@ -4,13 +4,21 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-markdown = "*"
-pygments = "*"
-markdown-katex = "*"
-md2html-links = {editable = true, git = "https://github.com/ricmua/markdown-md2html_links"}
-caption = {editable = true, git = "https://github.com/flywire/caption"}
-websitebuilder = {editable = true, ref = "v1.1.1", git = "https://github.com/DocSkellington/WebsiteBuilder.git"}
-academiccv-builder = {editable = true, ref = "v2.0.0", git = "https://github.com/DocSkellington/academiccv-builder.git"}
+markdown = "==3.7"
+pygments = "==2.18.0"
+markdown-katex = "==202406.1035"
+academiccv-builder = {editable = true, ref = "7e81a978fc7d7bed662888cf1752372543aa3e4a", git = "https://github.com/DocSkellington/academiccv-builder.git"}
+caption = {editable = true, ref = "2920011ec6dd16d2bde34b626a49799951f82ea4", git = "https://github.com/flywire/caption"}
+coverage = {extras = ["toml"], version = "==7.6.4"}
+iniconfig = "==2.0.0"
+md2html-links = {editable = true, ref = "1e24a429b33466b1001aaeae5a143c0c51459b83", git = "https://github.com/ricmua/markdown-md2html_links"}
+packaging = "==24.1"
+pluggy = "==1.5.0"
+pytest = "==8.3.3"
+pytest-cov = "==6.0.0"
+python-dateutil = "==2.9.0.post0"
+six = "==1.16.0"
+websitebuilder = {editable = true, ref = "8a3a3e44c0958fcbacc5a9ce06a022d0008265d4", git = "https://github.com/DocSkellington/WebsiteBuilder.git"}
 
 [dev-packages]
 
