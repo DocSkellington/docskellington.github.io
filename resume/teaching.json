@@ -1,9 +1,17 @@
 {
   "teaching": [
     {
+      "course": "Algorithmic and Experimental Complexity",
+      "role": "Supervisor of practical sessions",
+      "level": "First year of Computer Science",
+      "organization": "ISTIC, University of Rennes",
+      "description": "Supervising and evaluating projects (Java).",
+      "when": "First semester of academic year 2023-2024"
+    },
+    {
       "course": "Logic programming",
       "role": "Teaching assistant",
-      "level": "BA3 Computer Science",
+      "level": "Third year of Computer Science",
       "organization": "University of Mons",
       "description": "Teaching assistant supervising the practical sessions (Prolog).",
       "when": "Second semester of academic years 2021-2022 to 2023-2024"
@@ -11,7 +19,7 @@
     {
       "course": "Functional programming",
       "role": "Teaching assistant",
-      "level": "BA3 Computer Science and BA2 Mathematics",
+      "level": "Third year of Computer Science and second year of Mathematics",
       "organization": "University of Mons",
       "description": "Teaching assistant supervising the practical sessions (Scheme).",
       "when": "First semester of academic years 2021-2022 to 2023-2024"
@@ -27,7 +35,7 @@
     {
       "course": "Programming and Algorithms I",
       "role": "Student teaching assistant",
-      "level": "BA1 Computer Science, BA1 Mathematics, and BA2 Physics",
+      "level": "First year of Computer Science, first year of Mathematics, and second year of Physics",
       "organization": "University of Mons",
       "description": "Student teaching assistant supervising the practical sessions (Python 3).",
       "when": "First semester of academic years 2018-2019 and 2019-2020"
@@ -35,18 +43,10 @@
     {
       "course": "Programming and Algorithms II",
       "role": "Student teaching assistant",
-      "level": "BA1 Computer Science, and BA1 Mathematics",
+      "level": "First year of Computer Science, and first year of Mathematics",
       "organization": "University of Mons",
       "description": "Student teaching assistant supervising the practical sessions (Java 11).",
       "when": "Second semester of academic years 2018-2019 and 2019-2020"
-    },
-    {
-      "course": "Programming and Algorithms I and II",
-      "role": "Student tutor",
-      "level": "BA1 Computer Science, BA1 Mathematics, and BA2 Physics",
-      "organization": "University of Mons",
-      "description": "Gave courses to students retaking an exam.",
-      "when": "August 2016"
     }
   ],
   "supervision": {
