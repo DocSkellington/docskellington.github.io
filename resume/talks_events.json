@@ -1,6 +1,13 @@
 {
   "talks": [
     {
+      "title": "Active Learning of Mealy Machines with Timers",
+      "conference": "WG Verification Days (Journées du GT Vérification)",
+      "where": "IRCICA, Lille, France",
+      "date": "2024-11-20",
+      "pdf": "talks/2024/GTVerif2024.pdf"
+    },
+    {
       "title": "Active Learning of Automata with Timers",
       "conference": "Highlights of Logic, Games and Automata",
       "where": "LaBRI, Bordeaux, France",
@@ -156,6 +163,11 @@
     }
   ],
   "events": [
+    {
+      "name": "WG Verification Days (Journées du GT Vérification)",
+      "where": "IRCICA, Lille, France",
+      "year": 2024
+    },
     {
       "name": "Highlights of Logic, Games and Automata",
       "where": "LaBRI, Bordeaux, France",
