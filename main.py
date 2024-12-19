@@ -179,8 +179,8 @@ global_setup = builder.Global(
     links_in_header=[
         ("Home page", "index.html"),
         ("Academic CV", "academic/index.html"),
-        ("Non-academic part (English)", "nonacademic/en/index.html"),
-        ("Non-academic part (French)", "nonacademic/fr/index.html"),
+        ("Publications", "academic/publications.html"),
+        ("Talks", "academic/talks.html"),
     ],
     footer=builder.Footer(
         "Website of Gaëtan Staquet, PhD in Computer Science.",
