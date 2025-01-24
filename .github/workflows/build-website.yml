@@ -26,11 +26,6 @@ jobs:
 
       - name: build website
         run: make build
-      - name: generate PDF
-        uses: xu-cheng/texlive-action@v2
-        with:
-          run:
-            make build_pdf
 
       - name: Fix output permissions
         run: |
