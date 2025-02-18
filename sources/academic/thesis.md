@@ -7,7 +7,7 @@ It was conducted under the joint supervision of
 [Guillermo A. Pérez](https://gaperez64.github.io/) (University of Antwerp).
 It was funded by the F.R.S.-FNRS Research Fellow project ARTWORK.
 The jury was composed of Dana Fisman, Daniel Neider, Ocan Sankur, Frits W. Vaandrager,
-and Jef Wijsen, as well as my supervisors Véronique Bruyère and Mickael Randou.
+and Jef Wijsen, as well as my supervisors Véronique Bruyère and Guillermo A. Pérez.
 
   * The private defense happened on June 19, 2024 at the University of Antwerp
   in the sole presence of the jury \[[slides](talks/2024/private.pdf)\].
