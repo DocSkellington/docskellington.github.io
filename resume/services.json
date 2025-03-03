@@ -3,6 +3,10 @@
     "order": ["Reviewer", "Outreach experience", "Council member", "Informant role"],
     "Reviewer": [
       {
+        "year": "2025",
+        "description": "Reviewer for Petri Nets and ICALP"
+      },
+      {
         "year": "2023",
         "description": "Reviewer for LMCS"
       },
