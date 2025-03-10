@@ -2,6 +2,13 @@
   "talks": [
     {
       "title": "Active Learning of Mealy Machines with Timers",
+      "conference": "Seminary of the Automata and Applications team",
+      "where": "LRE, Paris, France",
+      "date": "2025-03-10",
+      "pdf": "talks/2025/LearningMMTs.pdf"
+    },
+    {
+      "title": "Active Learning of Mealy Machines with Timers",
       "conference": "Seminary of the MTV (Modelling and Technologies for Verification) team",
       "where": "LaBRI, Bordeaux, France",
       "date": "2025-02-06",
