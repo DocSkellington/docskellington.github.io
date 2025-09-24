@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="color-scheme" content="dark light">
+  <link href="../style.css" rel="stylesheet">
+  <script src="../script.js"></script>
+  <title>Publications – Gaëtan Staquet</title>
+</head>
+
+<body onload="setup();">
+  <header>
+    <a href="../index.html" class="title">Gaëtan Staquet</a>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li>
+          <a href="index.html">Research</a>
+          <ul>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="implementations.html">Implementations</a></li>
+            <li><a href="talks.html">Talks</a></li>
+            <li><a href="past.html">Past&nbsp;Research</a></li>
+            <li><a href="thesis.html">PhD Thesis</a></li>
+          </ul>
+        </li>
+        <li><a href="../teaching/index.html">Teaching</a></li>
+        <li><a href="../supervision/index.html">Supervision</a></li>
+        <li><a href="../other/index.html">Other</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Publications</h1>
+
+    In my field, authors of publications are usually listed in alphabetical order.
+
+    <h2>Peer-reviewed journal articles</h2>
+    <ol class="publications">
+      <li id="syntcomp24">
+        <span class="title">The Reactive Synthesis Competition (SYNTCOMP): 2018 – 2021.</span>
+        <span class="authors">Swen Jacobs, Guillermo A. Pérez, Remco Abraham, Véronique Bruyère, Michaël Cadilhac,
+          Maximilien Colange, Charly Delfosse, Tom van Dijk, Alexandre Duret-Lutz, Peter Faymonville, Bernd Finkbeiner,
+          Ayrat Khalimov, Felix Klein, Michael Luttenberger, Klara J. Meyer, Thibaud Michaud, Adrien Pommellet, Florian
+          Renkin, Philipp Schlehuber-Caissier, Mouhammad Sakr, Salomon Sickert, Gaëtan Staquet, Clément Tamines, Leander
+          Tentrup, Adam Walker.</span>
+        <span class="where">International Journal on Software Tools for Technology Transfer, Volume 26, pages 551 –
+          567</span>,
+        <span class="year">2023.</span>
+        <span class="links">
+          <a href="https://doi.org/10.1007/s10009-024-00754-1">[DOI]</a>
+          <button class="showAbstract" onclick="abstract(syntcomp24_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="syntcomp24_abs">
+          <p>
+            We report on the last four editions of the reactive synthesis competition (SYNTCOMP 2018–2021). We briefly
+            describe the evaluation scheme and the experimental setup of SYNTCOMP. Then we introduce new benchmark
+            classes
+            that have been added to the SYNTCOMP library and give an overview of the participants of SYNTCOMP. Finally,
+            we
+            present and analyze the results of our experimental evaluations, including a ranking of tools with respect
+            to
+            quantity and quality—that is, the total size in terms of logic and memory elements—of solutions.
+          </p>
+        </div>
+      </li>
+    </ol>
+
+    <h2>Peer-reviewed conference proceedings</h2>
+    <ol class="publications">
+      <li id="formats25">
+        <span class="title">Active Learning of Mealy Machines with Timers.</span>
+        <span class="authors">Véronique Bruyère, Bharat Garhewal, Guillermo A. Pérez, Gaëtan Staquet, Frits W.
+          Vaandrager.</span>
+        <span class="where">Formal Modeling and Analysis of Timed Systems, FORMATS</span>,
+        <span class="year">2025.</span>
+        <span class="links">
+          <a href="https://arxiv.org/abs/2403.02019">[arXiv]</a>
+          <button class="showAbstract" onclick="abstract(formats25_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="formats25_abs">
+          <p>
+            We present the first algorithm for query learning Mealy machines with timers in a black-box context.
+            Our algorithm is an extension of the L# algorithm of Vaandrager et al. to a timed setting.
+            We rely on symbolic queries which empower us to reason on untimed
+            executions while learning.
+            Similarly to the algorithm for learning timed automata of Waga,
+            these symbolic queries can be realized using finitely many concrete queries.
+            Experiments with a prototype implementation show that our
+            algorithm is able to efficiently learn realistic benchmarks.
+          </p>
+        </div>
+      </li>
+      <li id="formats23">
+        <span class="title">Automata with Timers.</span>
+        <span class="authors">Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet, Frits W. Vaandrager.</span>
+        <span class="where">Formal Modeling and Analysis of Timed Systems, FORMATS, pages 33 – 49</span>,
+        <span class="year">2023.</span>
+        <span class="links">
+          <a href="https://doi.org/10.1007/978-3-031-42626-1_3">[DOI]</a>
+          <a href="https://arxiv.org/abs/2305.07451">[arXiv]</a>
+          <button class="showAbstract" onclick="abstract(formats23_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="formats23_abs">
+          <p>
+            In this work, we study properties of deterministic finite-state automata with timers, a subclass of timed
+            automata proposed by Vaandrager et al. as a candidate for an efficiently learnable timed model. We first
+            study
+            the complexity of the configuration reachability problem for such automata and establish that it is
+            PSPACE-complete. Then, as simultaneous timeouts (we call these, races) can occur in timed runs of such
+            automata, we study the problem of determining whether it is possible to modify the delays between the
+            actions
+            in a run, in a way to avoid such races. The absence of races is important for modelling purposes and to
+            streamline learning of automata with timers. We provide an effective characterization of when an automaton
+            is
+            race-avoiding and establish that the related decision problem is in 3EXP and PSPACE-hard.
+          </p>
+        </div>
+      </li>
+      <li id="tacas23">
+        <span class="title">Validating Streaming JSON Documents with Learned VPAs.</span>
+        <span class="authors">Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet.</span>
+        <span class="where">Tools and Algorithms for the Construction and Analysis of Systems, TACAS, pages 271 –
+          289</span>,
+        <span class="year">2023.</span>
+        <span class="links">
+          <a href="https://doi.org/10.1007/978-3-031-30823-9_14">[DOI]</a>
+          <a href="https://arxiv.org/abs/2211.08891">[arXiv]</a>
+          <a href="implementations.html#ValidatingJSONDocumentsWithLearnedVPA">
+            [Implementation]</a>
+          <button class="showAbstract" onclick="abstract(tacas23_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="tacas23_abs">
+          <p>
+            We present a new streaming algorithm to validate JSON documents against a set of constraints given as a JSON
+            schema. Among the possible values a JSON document can hold, objects are unordered collections of key-value
+            pairs while arrays are ordered collections of values. We prove that there always exists a visibly pushdown
+            automaton (VPA) that accepts the same set of JSON documents as a JSON schema. Leveraging this result, our
+            approach relies on learning a VPA for the provided schema. As the learned VPA assumes a fixed order on the
+            key-value pairs of the objects, we abstract its transitions in a special kind of graph, and propose an
+            efficient streaming algorithm using the VPA and its graph to decide whether a JSON document is valid for the
+            schema. We evaluate the implementation of our algorithm on a number of random JSON documents, and compare it
+            to the classical validation algorithm.
+          </p>
+        </div>
+      </li>
+      <li id="tacas22">
+        <span class="title">Learning Realtime One-Counter Automata.</span>
+        <span class="authors">Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet.</span>
+        <span class="where">Tools and Algorithms for the Construction and Analysis of Systems, TACAS, pages 244 –
+          262</span>,
+        <span class="year">2022.</span>
+        <span class="links">
+          <a href="https://doi.org/10.1007/978-3-030-99524-9_13">[DOI]</a>
+          <a href="implementations.html#LStar-ROCA">[Implementation]</a>
+          <a href="https://arxiv.org/abs/2110.09434">[arXiv]</a>
+          <button class="showAbstract" onclick="abstract(tacas22_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="tacas22_abs">
+          <p>
+            We present a new learning algorithm for realtime one-counter automata. Our algorithm uses membership and
+            equivalence queries as in Angluin's L* algorithm, as well as counter value queries and partial equivalence
+            queries. In a partial equivalence query, we ask the teacher whether the language of a given finite-state
+            automaton coincides with a counter-bounded subset of the target language. We evaluate an implementation of
+            our
+            algorithm on a number of random benchmarks and on a use case regarding efficient JSON-stream validation.
+          </p>
+        </div>
+      </li>
+      <li id="cikm20">
+        <span class="title">Optimization of Answer Set Programs for Consistent Query Answering by Means of First-Order
+          Rewriting.</span>
+        <span class="authors">Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet.</span>
+        <span class="where">Conference on Information and Knowledge Management, CIKM, pages 25 – 34</span>,
+        <span class="year">2020.</span>
+        <span class="links">
+          <a href="https://doi.org/10.1145/3340531.3411911">[DOI]</a>
+          <a href="implementations.html#Conquesto">[Implementation]</a>
+          <button class="showAbstract" onclick="abstract(cikm20_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="cikm20_abs">
+          <p>
+            Consistent Query Answering (CQA) with respect to primary keys is the following problem. Given a database
+            instance that is possibly inconsistent with respect to its primary key constraints, define a repair as an
+            inclusion-maximal consistent subinstance. Given a Boolean query q, the problem CERTAINTY(q) takes a database
+            instance as input, and asks whether q is true in every repair. For every Boolean conjunctive query q, the
+            complement of CERTAINTY(q) can be straightforwardly implemented in Answer Set Programming (ASP) by means of
+            a generate-and-test approach: first generate a repair, and then test whether it falsifies the query.
+            Theoretical research has recently revealed that for every self-join-free Boolean conjunctive query q, the
+            complexity
+            class of CERTAINTY(q) is one of FO, L-complete, or coNP-complete. Faced with this complexity trichotomy, one
+            can
+            hypothesize that in practice, the full power of generate-and-test is a computational overkill when
+            CERTAINTY(q) is in the low complexity classes FO or L. We investigate part of this hypothesis within the
+            context of ASP, by asking the following question: whenever CERTAINTY(q) is in FO, does a dedicated
+            first-order
+            algorithm exhibit significant performance gains compared to a generic generate-and-test implementation? We
+            first elaborate on the construction of such dedicated first-order algorithms in ASP, and then empirically
+            address this question.
+          </p>
+        </div>
+      </li>
+    </ol>
+
+    <h2>Preprints</h2>
+    <ol class="publications">
+      <li id="antichains">
+        <span class="title">Antichains for Concurrent Parameterized Games.</span>
+        <span class="authors">Nathalie Bertrand, Patricia Bouyer, Gaëtan Staquet.</span>
+        <span class="year">2025.</span>
+        <span class="links">
+          <a href="https://arxiv.org/abs/2505.13460">[arXiv]</a>
+          <a href="implementations.html#ParaGraphs">[Implementation]</a>
+          <button class="showAbstract" onclick="abstract(antichains_abs)">[Abstract]</button>
+        </span>
+        <div class="abstract" id="antichains_abs">
+          <p>
+            Concurrent parameterized games involve a fixed yet arbitrary number of players. They are described by finite
+            arenas in which the edges are labeled with languages that describe the possible move combinations leading
+            from
+            one vertex to another (n players yield a word of length n).
+          </p>
+          <p>
+            Previous work showed that, when edge labels are regular languages, one can decide whether a distinguished
+            player, called Eve, has a uniform strategy to ensure a reachability objective, against any strategy profile
+            of
+            her arbitrarily many opponents. This decision problem is known to be PSPACE-complete. A basic ingredient in
+            the PSPACE algorithm is the reduction to the exponential-size knowledge game, a 2-player game that reflects
+            the knowledge Eve has on the number of opponents.
+          </p>
+          <p>
+            In this paper, we provide a symbolic approach, based on antichains, to compute Eve's winning region in the
+            knowledge game. In words, it gives the minimal knowledge Eve needs at every vertex to win the concurrent
+            parameterized reachability game. More precisely, we propose two fixed-point algorithms that compute, as an
+            antichain, the maximal elements of the winning region for Eve in the knowledge game. We implemented in C++
+            these two algorithms, as well as the one initially proposed, and report on their relative performances on
+            various benchmarks.
+          </p>
+        </div>
+      </li>
+    </ol>
+  </main>
+
+  <footer>
+    <div class="left">
+      Gaëtan Staquet, PhD in Computer Science.
+    </div>
+
+    <div class="right">
+      <button id="toggleDark" onclick="toggleDark()">
+        <svg width="73.884705mm" height="118.43mm" viewBox="0 0 73.884705 118.43" class="moon">
+          <g id="layer1" transform="translate(-96.816149,-43.529956)">
+            <path
+              d="m 170.51799,102.74469 c -2.3e-4,-31.497814 -25.53435,-57.031708 -57.03217,-57.031651 -4.94877,-1.51e-4 -9.87651,0.643806 -14.659054,1.915645 24.323854,7.103909 41.043444,29.404992 41.043484,54.744976 -5e-5,25.85246 -17.38966,48.47139 -42.373634,55.11601 5.194244,1.51707 10.577954,2.28719 15.989204,2.2872 31.49802,6e-5 57.03223,-25.53415 57.03217,-57.03218 z" />
+          </g>
+        </svg>
+        Toggle dark mode
+      </button>
+    </div>
+  </footer>
+</body>
+
+</html>

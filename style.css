@@ -1,0 +1,272 @@
+.dark-theme {
+  --background-primary: #000000;
+  --background-secondary: #242424;
+  --color-primary: white;
+  --link-default: #FFC9AA;
+  --link-visited: #FF9100;
+  --link-hover: #FF6F00;
+}
+
+.light-theme {
+  --background-primary: white;
+  --background-secondary: #FFF2EB;
+  --color-primary: black;
+  --link-default: #FF5C00;
+  --link-visited: red;
+  --link-hover: #242424;
+}
+
+@font-face {
+  font-family: 'NotoSerif';
+  src: url("font/NotoSerif-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-family: "NotoSerif", "Times New Roman", Times, serif;
+  font-size: 1em;
+  height: 100%
+}
+
+body {
+  background-color: var(--background-primary);
+  color: var(--color-primary);
+  margin: 0;
+  text-align: justify;
+  min-height: 100vh;
+  min-width: 270px;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+main {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  width: 80%;
+}
+
+header {
+  background-color: var(--background-secondary);
+  height: 60px;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .title {
+  width: 30%;
+}
+
+header nav {
+  text-align: right;
+  width: 100%;
+}
+
+header nav ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline-block;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+
+header nav ul li:hover {
+  background-color: var(--background-primary);
+}
+
+header nav ul li ul {
+  display: none;
+  position: absolute;
+  background-color: var(--background-secondary);
+  list-style: none;
+  padding: 0;
+  border: 1px solid var(--color-primary);
+  text-align: left;
+}
+
+header nav ul li:hover ul {
+  display: block;
+}
+
+header nav ul li ul li {
+  display: block;
+  white-space: nowrap;
+}
+
+header a {
+  text-decoration: none;
+  display: block;
+}
+
+footer {
+  position: sticky;
+  z-index: 2;
+  left: 0;
+  bottom: 0;
+  background-color: var(--background-secondary);
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 80%;
+  height: 50px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.9em;
+}
+
+footer .left {
+  width: 45%;
+}
+
+footer .right {
+  width: 50%;
+  text-align: right;
+}
+
+#toggleDark {
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  color: var(--color-primary);
+}
+
+#toggleDark:hover {
+  cursor: pointer;
+}
+
+#toggleDark .moon {
+  width: 25px;
+  height: 25px;
+  stroke: var(--link-hover);
+  fill: var(--link-default);
+  stroke-width: 5px;
+  vertical-align: middle;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-variant: small-caps;
+}
+
+h2 {
+  color: color-mix(in srgb, var(--link-default), var(--background-primary) 30%)
+}
+
+a {
+  color: var(--link-default);
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+header a.title {
+  color: var(--color-primary);
+  font-size: 1.5em;
+}
+
+a:hover,
+a:focus {
+  color: var(--link-hover);
+}
+
+.showAbstract {
+  background-color: transparent;
+  font-size: 1em;
+  border: none;
+  color: var(--link-default);
+  padding: 0px;
+}
+
+.showAbstract:hover {
+  cursor: pointer;
+}
+
+.abstract {
+  display: none;
+  border: 1px solid var(--link-default);
+  padding-left: 3%;
+  padding-right: 3%;
+  width: 94%;
+}
+
+.publications .title {
+  font-weight: bold;
+}
+
+.publications .where {
+  font-style: italic;
+}
+
+.publications .authors {
+  display: block;
+}
+
+.publications .links {
+  display: block;
+}
+
+.implementations .title {
+  font-weight: bold;
+}
+
+.implementations .description {
+  display: block;
+}
+
+.implementations .role {
+  display: block;
+}
+
+.implementations .links {
+  display: block;
+}
+
+.talks .title {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.talks .where {
+  display: block;
+}
+
+.talks .links {
+  display: block;
+}
+
+li {
+  margin: 6px 0;
+}
+
+.list-cv {
+  padding-left: 0pt;
+  list-style: none;
+}
+
+.list-cv li ul {
+  padding-left: 30pt;
+  list-style: square;
+}
+
+.list-cv span.title {
+  font-weight: bold;
+  font-size: 1.1em;
+}

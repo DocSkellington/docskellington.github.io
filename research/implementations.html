@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="color-scheme" content="dark light">
+  <link href="../style.css" rel="stylesheet">
+  <script src="../script.js"></script>
+  <title>Implementations – Gaëtan Staquet</title>
+</head>
+
+<body onload="setup();">
+  <header>
+    <a href="../index.html" class="title">Gaëtan Staquet</a>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li>
+          <a href="index.html">Research</a>
+          <ul>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="implementations.html">Implementations</a></li>
+            <li><a href="talks.html">Talks</a></li>
+            <li><a href="past.html">Past&nbsp;Research</a></li>
+            <li><a href="thesis.html">PhD Thesis</a></li>
+          </ul>
+        </li>
+        <li><a href="../teaching/index.html">Teaching</a></li>
+        <li><a href="../supervision/index.html">Supervision</a></li>
+        <li><a href="../other/index.html">Other</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Implementations</h1>
+
+    <ol class="implementations">
+      <li id="ParaGraphs">
+        <span class="title">ParaGraphs.</span>
+        <span class="role">Developer, 2025. Made in C++(20).</span>
+        <span class="description">This projects implements algorithms to
+          determine the winning region of a player in a concurrent parameterized
+          game. See my paper <a href="publications.html#antichains"><em>
+            Antichains for Concurrent Parameterized Games</em></a>.</span>
+        <span class="links"><a href="https://gitlab.inria.fr/gstaquet/paragraphs">[Inria's GitLab]</a></span>
+      </li>
+      <li id="JSONSchemaTools">
+        <span class="title">JSON Schema Tools.</span>
+        <span class="role">Developer, 2022. Made in Java.</span>
+        <span class="description">This project implements algorithms that
+          validate whether a JSON document is correct with regards to a set of
+          constraints given as a JSON schema. It can also generate valid and
+          invalid documents from a schema. See my paper <a href="publications.html#tacas23"><em>Validating Streaming JSON Documents with Learned
+            VPAs</em></a>.</span>
+        <span class="links"><a href="https://github.com/DocSkellington/JSONSchemaTools">[GitHub]</a></span>
+      </li>
+      <li id="ValidatingJSONDocumentsWithLearnedVPA">
+        <span class="title">Validating JSON Documents with Learned VPAs.</span>
+        <span class="role">Developer, 2022. Made in Java.</span>
+        <span class="description">This implementation of the active learning
+          algorithm of Daniel Neider and Christof Löding (<em>Learning Visibly
+            One-Counter Automata in Polynomial Time</em>) was realized during my
+            Master's internship, under the supervision of Guillermo A. Pérez.</span>
+        <span class="links"><a href="https://github.com/DocSkellington/ValidatingJSONDocumentsWithLearnedVPA">[GitHub]</a></span>
+      </li>
+      <li id="forks_automata_learn">
+        <span class="title">Forks of LearnLib and AutomataLib.</span>
+        <span class="role">Developer of the forks, 2020 – 2021. Made in Java.</span>
+        <span class="description">LearnLib is a library for active automata
+          learning, and AutomataLib is the underlying automata library. Both are
+          maintained at TU Dortmund University (Germany). These forks implement
+          automata augmented with a counter, and their learning algorithm,
+          presented in my paper <a href="publications.html#tacas22"><em>Learning
+            Realtime One-Counter Automata</em></a>.</span>
+        <span class="links"><a href="https://github.com/DocSkellington/automatalib">[GitHub – AutomataLib]</a> <a href="https://github.com/DocSkellington/learnlib">[GitHub – LearnLib]</a></span>
+      </li>
+      <li id="LStar-ROCA">
+        <span class="title">Benchmarks for learning one-counter automata.</span>
+        <span class="role">Developer, 2021 – 2022. Made in Java.</span>
+        <span class="description">This project runs the benchmarks of my paper
+          <a href="publications.html#tacas22"><em>Realtime One-Counter
+            Automata</em></a>. The implementation of the learning algorithm is
+            done in my forks of AutomataLib and LearnLib.</span>
+        <span class="links"><a href="https://github.com/DocSkellington/LStar-ROCA-Benchmarks">[GitHub]</a></span>
+      </li>
+      <li id="Conquesto">
+        <span class="title">Conquesto.</span>
+        <span class="role">Developer, 2020. Made in Python 3.</span>
+        <span class="description">This tool was developed for a course
+          followed during my Master, and that lead to the publication <a href="publications.html#cikm20"><em>Optimization of Answer Set
+            Programs for Consistent Query Answering by Means of First-Order
+            Rewriting</em></a>.
+          It generates Answer Set Programming programs that decide whether a
+          database query is certain, despite the presence of errors in the
+          database. These programs are then benchmarked.</span>
+        <span class="links"><a href="https://github.com/DocSkellington/Conquesto">[GitHub]</a></span>
+      </li>
+      <li id="LearningVCA">
+        <span class="title">Learning Visibly One-Counter Automata.</span>
+        <span class="role">Developer, 2019. Made in Java.</span>
+        <span class="description">This project, realized during my research
+          initiation internship, implements an algorithm to compute Nash
+          equilibria in reachability games played on weighted graphs. It also
+          contains generators for random graphs to test and benchmark the
+          algorithm.</span>
+        <span class="links"><a href="https://github.com/DocSkellington/LearningVCA">[GitHub]</a></span>
+      </li>
+      <li id="libgsjj">
+        <span class="title">libgsjj – Passive learning of deterministic finite automata.</span>
+        <span class="role">Developer, 2018. Made in C++.</span>
+        <span class="description">This framework for passive learning of
+          deterministic finite automata was realized during the project of my
+          first year of Master. It uses a SAT solver to construct an automaton
+          from a finite set of words that must be accepted and a finite set of
+          words that must be rejected.</span>
+        <span class="links"><a href="https://github.com/libgsjj/libgsjj">[GitHub]</a></span>
+      </li>
+      <li id="reachabilityGame">
+        <span class="title">Nash equilibria in reachability games.</span>
+        <span class="role">Developer, 2018. Made in C++.</span>
+        <span class="description">This project, realized during my research
+          initiation internship, implements an algorithm to compute Nash
+          equilibria in reachability games played on weighted graphs. It also
+          contains generators for random graphs to test and benchmark the
+          algorithm. It was performed under the supervision of Aline Goeminne.</span>
+        <span class="links"><a href="https://github.com/AlineGoeminne/reachabilityGame">[GitHub]</a></span>
+      </li>
+    </ol>
+
+  </main>
+
+  <footer>
+    <div class="left">
+      Gaëtan Staquet, PhD in Computer Science.
+    </div>
+
+    <div class="right">
+      <button id="toggleDark" onclick="toggleDark()">
+        <svg width="73.884705mm" height="118.43mm" viewBox="0 0 73.884705 118.43" class="moon">
+          <g id="layer1" transform="translate(-96.816149,-43.529956)">
+            <path
+              d="m 170.51799,102.74469 c -2.3e-4,-31.497814 -25.53435,-57.031708 -57.03217,-57.031651 -4.94877,-1.51e-4 -9.87651,0.643806 -14.659054,1.915645 24.323854,7.103909 41.043444,29.404992 41.043484,54.744976 -5e-5,25.85246 -17.38966,48.47139 -42.373634,55.11601 5.194244,1.51707 10.577954,2.28719 15.989204,2.2872 31.49802,6e-5 57.03223,-25.53415 57.03217,-57.03218 z" />
+          </g>
+        </svg>
+        Toggle dark mode
+      </button>
+    </div>
+  </footer>
+</body>
+
+</html>
