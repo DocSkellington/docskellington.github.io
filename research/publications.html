@@ -72,6 +72,48 @@
 
 			<h2>Peer-reviewed conference proceedings</h2>
 			<ol class="publications">
+				<li id="antichains">
+					<span class="title">Antichains for Concurrent Parameterized Games.</span>
+					<span class="authors">Nathalie Bertrand, Patricia Bouyer, Gaëtan Staquet.</span>
+					<span class="year">2025.</span>
+					<span class="links">
+						[DOI: to be determined]
+						<a href="https://arxiv.org/abs/2505.13460">[arXiv]</a>
+						<a href="implementations.html#ParaGraphs">[Implementation]</a>
+						<button class="showAbstract" onclick="abstract(antichains_abs)">[Abstract]</button>
+					</span>
+					<div class="abstract" id="antichains_abs">
+						<p>
+						  Concurrent parameterized games involve a fixed yet arbitrary
+						  number of players.
+						  They are described by finite arenas in which
+						  the edges are labeled with languages that describe the possible
+						  move combinations leading from one vertex to another (n players
+						  yield a word of length n).
+						  Previous work showed that, when edge labels are regular languages,
+						  one can decide whether a distinguished
+						  player, called Eve, has a strategy to ensure a reachability
+						  objective, against any strategy profile of her arbitrarily many
+						  opponents. This decision problem is known to be
+						  PSPACE-complete. A basic ingredient in the
+						  PSPACE-membership proof is
+						  the reduction to the exponential-size <em>knowledge game</em>, a
+						  2-player game that reflects the knowledge Eve has on the number of
+						  opponents.
+						</p>
+						<p>
+						  In this paper, we provide a symbolic approach, based on
+						  antichains, to compute Eve's winning region in the knowledge
+						  game. In words, it gives the minimal knowledge Eve needs at every
+						  vertex to win the concurrent parameterized reachability game. More
+						  precisely, we propose two fixed-point algorithms that compute, as
+						  an antichain, the maximal elements of the winning region for Eve
+						  in the knowledge game. We implemented these two algorithms in C++,
+						  as well as the one initially proposed, and report on their
+						  relative performances on various benchmarks.
+						</p>
+					</div>
+				</li>
 				<li id="dlt26">
 					<span class="title">Visibly Recursive Automata.</span>
 					<span class="authors">Kévin Dubrulle, Véronique Bruyère, Guillermo A. Pérez, Gaëtan Staquet.</span>
@@ -224,43 +266,9 @@
 				</li>
 			</ol>
 
-			<h2>Preprints</h2>
-			<ol class="publications">
-				<li id="antichains">
-					<span class="title">Antichains for Concurrent Parameterized Games.</span>
-					<span class="authors">Nathalie Bertrand, Patricia Bouyer, Gaëtan Staquet.</span>
-					<span class="year">2025.</span>
-					<span class="links">
-						<a href="https://arxiv.org/abs/2505.13460">[arXiv]</a>
-						<a href="implementations.html#ParaGraphs">[Implementation]</a>
-						<button class="showAbstract" onclick="abstract(antichains_abs)">[Abstract]</button>
-					</span>
-					<div class="abstract" id="antichains_abs">
-						<p>
-							Concurrent parameterized games involve a fixed yet arbitrary number of players. They are described by finite
-							arenas in which the edges are labeled with languages that describe the possible move combinations leading
-							from
-							one vertex to another (n players yield a word of length n).
-						</p>
-						<p>
-							Previous work showed that, when edge labels are regular languages, one can decide whether a distinguished
-							player, called Eve, has a uniform strategy to ensure a reachability objective, against any strategy profile
-							of
-							her arbitrarily many opponents. This decision problem is known to be PSPACE-complete. A basic ingredient in
-							the PSPACE algorithm is the reduction to the exponential-size knowledge game, a 2-player game that reflects
-							the knowledge Eve has on the number of opponents.
-						</p>
-						<p>
-							In this paper, we provide a symbolic approach, based on antichains, to compute Eve's winning region in the
-							knowledge game. In words, it gives the minimal knowledge Eve needs at every vertex to win the concurrent
-							parameterized reachability game. More precisely, we propose two fixed-point algorithms that compute, as an
-							antichain, the maximal elements of the winning region for Eve in the knowledge game. We implemented in C++
-							these two algorithms, as well as the one initially proposed, and report on their relative performances on
-							various benchmarks.
-						</p>
-					</div>
-				</li>
-			</ol>
+			<!-- <h2>Preprints</h2> -->
+			<!-- <ol class="publications"> -->
+			<!-- </ol> -->
 		</main>
 
 		<footer>
